@@ -198,4 +198,5 @@ n["@WildCatra"] = {"WildCatra", "|ccb0e00W|r|cce1c00i|r|cd22a00l|r|cd53800d|r|cd
 n["@Forney"] =  {"Forney", "|c08f27aF|r|c08e694o|r|c07d9afr|r|c06cccan|r|c06c0e4e|r|c05b3ffy|r"}
 n["@TheFaytFoundation"] = {"FaytLeingod", "|c0066ccF|r|c0086dfa|r|c00a3f0y|r|c00a8e8t|r|c008cb3L|r|c00a0c0e|r|c00b3cci|r|c00c6d9n|r|c00d9e6g|r|c00ecf2o|r|c00ffffd|r"}
 n["@silencia330"] = {"Sil", "|c009dffSil|r"}
+n["@UgliBiBagli"] = {"UgliBiBagli", "|c00ffffU|r|c33ccffg|r|c6699ffl|r|c9966ffi|r|ccc3cffB|r|cff00ffi|r|cff33ccB|r|cff6699a|r|cff9966g|r|cffcc33l|r|cffff00i|r"}
 n["@Quicknick980"] = {"QuickNick", "|c0d6cf6Q|r|c1a7fecu|r|c2791e3i|r|c34a3d9c|r|c40b6d0k|r|c4dc8c6N|r|c5adabdi|r|c67edb3c|r|c74ffaak|r"}
