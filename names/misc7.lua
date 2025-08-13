@@ -201,4 +201,6 @@ n["@silencia330"] = {"Sil", "|c009dffSil|r"}
 n["@UgliBiBagli"] = {"UgliBiBagli", "|c00ffffU|r|c33ccffg|r|c6699ffl|r|c9966ffi|r|ccc3cffB|r|cff00ffi|r|cff33ccB|r|cff6699a|r|cff9966g|r|cffcc33l|r|cffff00i|r"}
 n["@Quicknick980"] = {"QuickNick", "|c0d6cf6Q|r|c1a7fecu|r|c2791e3i|r|c34a3d9c|r|c40b6d0k|r|c4dc8c6N|r|c5adabdi|r|c67edb3c|r|c74ffaak|r"}
 n["@PoeticEevee"] = {"PoeticEevee", "|c07dac1P|r|c18c4c7o|r|c28aecde|r|c3999d4t|r|c4a83dai|r|c5b6de0c|r|c6b57e6E|r|c7c41ece|r|c8d2cf3v|r|c9d16f9e|r|cae00ffe|r"}
+n["@Sir_Karli"] = {"Sir_Karli", "|cea56dbS|r|cd56bddi|r|cc180der|r|cac95df_|r|c97abe1K|r|c82c0e2a|r|c6ed5e3r|r|c59eae5l|r|c44ffe6i|r"}
+n["@Lezwin"] = {"Lezwin", "|cfc8ceeL|r|cf991f2e|r|cf695f5z|r|cf399f8w|r|cf09efci|r|ceda2ffn|r"}
 n["@Hersher"] = {"Hersher", "|c0041ffH|r|c005fffe|r|c007dffr|r|c009afes|r|c00b8feh|r|c00d6fee|r|c00f4fer|r"}
