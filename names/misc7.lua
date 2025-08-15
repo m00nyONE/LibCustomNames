@@ -204,3 +204,5 @@ n["@PoeticEevee"] = {"PoeticEevee", "|c07dac1P|r|c18c4c7o|r|c28aecde|r|c3999d4t|
 n["@Sir_Karli"] = {"Sir_Karli", "|cea56dbS|r|cd56bddi|r|cc180der|r|cac95df_|r|c97abe1K|r|c82c0e2a|r|c6ed5e3r|r|c59eae5l|r|c44ffe6i|r"}
 n["@Lezwin"] = {"Lezwin", "|cfc8ceeL|r|cf991f2e|r|cf695f5z|r|cf399f8w|r|cf09efci|r|ceda2ffn|r"}
 n["@Hersher"] = {"Hersher", "|c0041ffH|r|c005fffe|r|c007dffr|r|c009afes|r|c00b8feh|r|c00d6fee|r|c00f4fer|r"}
+n["@amberlink"] = {"amberlink", "|cff80c0amberlink|r"}
+n["@Larenatos"] = {"Lare", "|c11ff00L|r|c60d700a|r|cb0b000r|r|cff8800e|r"}
