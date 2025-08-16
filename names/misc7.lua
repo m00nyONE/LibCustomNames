@@ -206,3 +206,4 @@ n["@Lezwin"] = {"Lezwin", "|cfc8ceeL|r|cf991f2e|r|cf695f5z|r|cf399f8w|r|cf09efci
 n["@Hersher"] = {"Hersher", "|c0041ffH|r|c005fffe|r|c007dffr|r|c009afes|r|c00b8feh|r|c00d6fee|r|c00f4fer|r"}
 n["@amberlink"] = {"amberlink", "|cff80c0amberlink|r"}
 n["@Larenatos"] = {"Lare", "|c11ff00L|r|c60d700a|r|cb0b000r|r|cff8800e|r"}
+n["@SrednaKrom"] = {"SrednaKrom", "|cb4b4b4S|r|ca0a0a0r|r|c8c8c8ce|r|c787878d|r|c646464n|r|c505050a|r|c3c3c3cK|r|c282828r|r|c141414o|r|c000000m|r"}
