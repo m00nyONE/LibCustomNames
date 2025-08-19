@@ -2,15 +2,6 @@ local lib_name = "LibCustomNames"
 local lib = _G[lib_name]
 local n = lib.GetNamesTable()
 
---- function that creates a deep copy of a table
-local function clone(t)
-    local copy = {}
-    for k, v in pairs(t) do
-        copy[k] = v
-    end
-    return copy
-end
-
 --[[ doc.lua begin ]]
 
 --- Checks whether a custom name exists for the given username.
@@ -71,7 +62,7 @@ local cachedTableClone = nil
 --- @return table<string, string[]>
 function lib.GetAll()
     if not cachedTableClone then
-        cachedTableClone = clone(n)
+        cachedTableClone = ZO_DeepTableCopy(n)
     end
     return cachedTableClone
 end
