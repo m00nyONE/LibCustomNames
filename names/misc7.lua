@@ -3,6 +3,7 @@ local lib = _G[lib_name]
 local n = lib.GetNamesTable()
 
 n["@Anorage"] = {"Anorage", "|c95e8ecA|r|ca6d1edn|r|cb8baefo|r|ccaa3f1r|r|cdc8cf3a|r|ced75f4g|r|cff5ef6e|r"}
+n["@Ash.land"] = {"Ash.land", "|cff2f44A|r|cff4b3fs|r|cff673ah|r|cff8335.|r|cff9f30l|r|cffbb2ba|r|cffd726n|r|cfff321d|r"}
 n["@NumberOneZergling"] = {"NumberOneZergling", "|c192749N|r|c26324bu|r|c343c4em|r|c414750b|r|c4e5153e|r|c5b5c56r|r|c696658O|r|c76715bn|r|c837b5de|r|c908660Z|r|c9e9062e|r|cab9b65r|r|cb8a568g|r|cc5b06al|r|cd3ba6di|r|ce0c56fn|r|cedcf72g|r"}
 n["@Axe_Zuffs"] = {"Axe", "|cff26d7Axe|r"}
 n["@nitm4r3"] = {"Coco", "|c31d6ffC|r|c5de3ffo|r|c8af0ffc|r|cb6fdffo|r"}
