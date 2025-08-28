@@ -216,3 +216,4 @@ n["@artemisbows"] = {"Artemis", "|c9886ffA|r|c9691ffr|r|c949bfft|r|c91a5ffe|r|c8
 n["@anufi"] = {"anufi", "|c34b013a|r|c38d01an|r|c38d01au|r|c3def21f|r|c3def21i|r"}
 n["@Mihrruna"] = {"Mihrruna", "|c2f910cM|r|c32a10fi|r|c34b013h|r|c36c017r|r|c38d01ar|r|c3be01eu|r|c3def21n|r|c3fff25a|r"}
 n["@kalormano"] = {"kalormano", "|cfa7014k|r|cf68228a|r|cf1943cl|r|ceda650o|r|ce8b765r|r|ce4c979m|r|cdfdb8da|r|cdbeda1n|r|cd6ffb5o|r"}
+n["@Noble-Bear"] = {"Noble-Bear", "|c126e78N|r|c257e87o|r|c378e95b|r|c499ea4l|r|c5cafb3e|r|c6ebfc2-|r|c80cfd1B|r|c92dfdfe|r|ca5efeea|r|cb7fffdr|r"}
