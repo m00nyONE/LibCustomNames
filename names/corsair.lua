@@ -2,7 +2,6 @@ local lib_name = "LibCustomNames"
 local lib = _G[lib_name]
 local n = lib.GetNamesTable()
 
-n["@Alcadeios"] = {"Alca", "|cffe34eA|r|cffcb40l|r|cffb233c|r|cff9925a|r"}
 n["@B7TxSpeed"] = {"Speed", "|c00fffeSpeed|r"}
 n["@Beynh"] = {"Beynh", "|cffef6bBeynh|r"}
 n["@DiabloESO"] = {"DiabloESO", "|cffaa01D|r|cff9502i|r|cff7f03a|r|cff6a04b|r|cff5504l|r|cff4005o|r|cff2a06E|r|cff1507S|r|cff0008O|r"}
@@ -18,7 +17,7 @@ n["@Darkiros"] = {"Darkiros", "|c2045e4D|r|c403bc9a|r|c6031aer|r|c802893k|r|c9f1
 n["@AppelleMoiPepette"] = {"Pepette", "|cffae4aP|r|cffbc68e|r|cffc986p|r|cffd7a5e|r|cffe4c3t|r|cfff2e1t|r|cffffffe|r"}
 n["@Halox48"] = {"Haløx ", "|c00e6ffH|r|c00cfffa|r|c00b9ffl|r|c00a2ffø|r|c008cffx|r "}
 n["@JohnAmok"] = {"Oli", "|c1143ffO|r|c2169ffl|r|c328effi|r"}
-n["@Lulu_Laventus"] = {"Lulu Laventus", "|c1e08ffL|r|c2408ffu|r|c2b07ffl|r|c3106ffu|r |c3705ffL|r|c3d05ffa|r|c4304ffv|r|c4903ffe|r|c5002ffn|r|c5602fft|r|c5c01ffu|r|c6200ffs|r"}
+n["@Lulu_Laventus"] = {"Lulu Laventus", "|c2b15ffL|r|c3f2bffu|r|c5240ffl|r|c6555ffu|r |c786affL|r|c8c7fffa|r|c9f95fev|r|cb2aafee|r|cc5bffen|r|cd9d5fet|r|ceceafeu|r|cfffffes|r"}
 n["@cpcharles"] = {"Charles", "|c7c9dc7C|r|c68aad1h|r|c53b7daa|r|c3ec5e3r|r|c29d2ecl|r|c15dff6e|r|c00ecffs|r"}
 n["@Petitefeuille"] = {"Petitefeuille", "|cdf5334P|r|ce15e3ee|r|ce46947t|r|ce77351i|r|ce97e5at|r|cec8963e|r|cef946df|r|cf29f76e|r|cf4aa7fu|r|cf7b489i|r|cfabf92l|r|cfcca9cl|r|cffd5a5e|r"}
 n["@Uni_ESO"] = {"Uni", "|c8a0008U|r|cb3000an|r|cdb000di|r"}
