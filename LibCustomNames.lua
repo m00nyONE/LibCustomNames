@@ -6,7 +6,6 @@ local lib = {
     author = "@m00nyONE",
 }
 
-local lib_debug = false
 local lib_name = lib.name
 local lib_author = lib.author
 local lib_version = lib.version
