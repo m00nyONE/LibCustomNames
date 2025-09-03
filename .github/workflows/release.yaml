@@ -3,8 +3,8 @@ name: ESOUI Release
 on:
   workflow_dispatch:
   schedule:
-  # every sunday at 04:15am
-    - cron: "15 4 * * 0"
+  # every sunday at 22:15am
+    - cron: "15 22 * * 0"
 
 jobs:
   test:
