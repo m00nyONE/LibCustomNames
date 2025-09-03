@@ -222,3 +222,4 @@ n["@nephAA"] = {"nephAA", "|c6dafe6n|r|c6198cde|r|c5681b4p|r|c4b6a9bh|r|c3f5382A
 n["@Raylax"] = {"Raylax", "|cff273cR|r|cff2d60a|r|cff3385y|r|cff39a9l|r|cff3fcda|r|cff45f1x|r"}
 n["@saltmachine"] = {"salt", "|cff0096salt|r"}
 n["@C.urse"] = {"Curse", "|c01aeebC|r|c02c2d7u|r|c04d7c3r|r|c05ebafs|r|c06ff9be|r"}
+n["@Zloyka"] = {"Zloyka", "|cd62bc1Z|r|cae559al|r|c858074o|r|c5caa4dy|r|c34d427k|r|c0bff00a|r"}
