@@ -223,3 +223,4 @@ n["@Raylax"] = {"Raylax", "|cff273cR|r|cff2d60a|r|cff3385y|r|cff39a9l|r|cff3fcda
 n["@saltmachine"] = {"salt", "|cff0096salt|r"}
 n["@C.urse"] = {"Curse", "|c01aeebC|r|c02c2d7u|r|c04d7c3r|r|c05ebafs|r|c06ff9be|r"}
 n["@Zloyka"] = {"Zloyka", "|cd62bc1Z|r|cae559al|r|c858074o|r|c5caa4dy|r|c34d427k|r|c0bff00a|r"}
+n["@MumenR1der"] = {"Hero", "|c5c9b1bH|r|c939312e|r|cc98a09r|r|cff8100o|r"}
