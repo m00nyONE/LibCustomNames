@@ -227,3 +227,4 @@ n["@MumenR1der"] = {"Hero", "|c5c9b1bH|r|c939312e|r|cc98a09r|r|cff8100o|r"}
 n["@IgnDarius"] = {"Darius", "|c18f1d1Darius|r"}
 n["@Oshin3"] = {"Oshin", "|c40e0d0Oshin|r"}
 n["@pkstar12"] = {"pkstar12", "|caaf9ebp|r|cb2f2dek|r|cbaecd0s|r|cc2e6c2t|r|ccadfb4a|r|cd2d9a7r|r|cdad2991|r|ce2cc8b2|r"}
+n["@DrewUout1"] = {"DrewUout", "|c0bf6f6D|r|c15daeer|r|c1fbee5e|r|c29a2ddw|r|c3286d4U|r|c3c6acco|r|c464ec3u|r|c5032bbt|r"}
