@@ -230,3 +230,5 @@ n["@pkstar12"] = {"pkstar12", "|caaf9ebp|r|cb2f2dek|r|cbaecd0s|r|cc2e6c2t|r|ccad
 n["@DrewUout1"] = {"DrewUout", "|c0bf6f6D|r|c15daeer|r|c1fbee5e|r|c29a2ddw|r|c3286d4U|r|c3c6acco|r|c464ec3u|r|c5032bbt|r"}
 n["@Azinaaa"] = {"Blink", "|cab00ffB|r|cb700ffl|r|cc200ffi|r|cce00ffn|r|cd900ffk|r"}
 n["@Trimphus"] = {"Trimphus", "|cfb2076T|r|cf64065r|r|cf26054i|r|cee8044m|r|ce99f33p|r|ce5bf22h|r|ce0df11u|r|cdcff00s|r"}
+n["@PomQc"] = {"PomQc", "|c153effP|r|c2a57ffo|r|c406fffm|r|c5588ffQ|r|c6aa1ffc|r"}
+n["@TianRan1"] = {"TianRan", "|c54d6edT|r|c71cbdai|r|c8dbfc8a|r|caab4b6n|r|cc6a8a4R|r|ce39d91a|r|cff917fn|r"}
