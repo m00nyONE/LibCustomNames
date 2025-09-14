@@ -232,3 +232,4 @@ n["@Azinaaa"] = {"Blink", "|cab00ffB|r|cb700ffl|r|cc200ffi|r|cce00ffn|r|cd900ffk
 n["@Trimphus"] = {"Trimphus", "|cfb2076T|r|cf64065r|r|cf26054i|r|cee8044m|r|ce99f33p|r|ce5bf22h|r|ce0df11u|r|cdcff00s|r"}
 n["@PomQc"] = {"PomQc", "|c153effP|r|c2a57ffo|r|c406fffm|r|c5588ffQ|r|c6aa1ffc|r"}
 n["@TianRan1"] = {"TianRan", "|c54d6edT|r|c71cbdai|r|c8dbfc8a|r|caab4b6n|r|cc6a8a4R|r|ce39d91a|r|cff917fn|r"}
+n["@Addietlw"] = {"Addietlw", "|cac13fcA|r|cb127fdd|r|cb53afdd|r|cb94dfei|r|cbd60fee|r|cc274fet|r|cc687ffl|r|cca9affw|r"}
