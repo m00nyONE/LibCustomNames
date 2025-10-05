@@ -242,3 +242,4 @@ n["@Podwawelski"] = {"Podwawelski", "|ce8fe00P|r|cd1fe00o|r|cb9fe00d|r|ca2fe00w|
 n["@Cxvalry"] = {"Cxvalry", "|ce226e8C|r|cc54ae9x|r|ca86eeav|r|c8b93eba|r|c6eb7ecl|r|c51dbedr|r|c34ffeey|r"}
 n["@Syoni"] = {"Syoni", "|c8ab94eS|r|c8ab94ey|r|c8ab94eo|r|c8ab94en|r|c8ab94ei|r"}
 n["@Jamestlw"] = {"Jamestlw", "|c9f7bfeJ|r|c9f8efea|r|c9fa1fdm|r|ca0b4fde|r|ca0c6fcs|r|ca0d9fbt|r|ca0ecfbl|r|ca0fffaw|r"}
+n["@KuebelFieber"] = {"KuebelFieber", "|cffffffKuebelFieber|r"}
