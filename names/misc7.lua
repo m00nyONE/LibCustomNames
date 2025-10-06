@@ -243,3 +243,5 @@ n["@Cxvalry"] = {"Cxvalry", "|ce226e8C|r|cc54ae9x|r|ca86eeav|r|c8b93eba|r|c6eb7e
 n["@Syoni"] = {"Syoni", "|c8ab94eS|r|c8ab94ey|r|c8ab94eo|r|c8ab94en|r|c8ab94ei|r"}
 n["@Jamestlw"] = {"Jamestlw", "|c9f7bfeJ|r|c9f8efea|r|c9fa1fdm|r|ca0b4fde|r|ca0c6fcs|r|ca0d9fbt|r|ca0ecfbl|r|ca0fffaw|r"}
 n["@KuebelFieber"] = {"KuebelFieber", "|cffffffKuebelFieber|r"}
+n["@Orollas"] = {"Orollas", "|cffd200O|r|cffc200r|r|cffb200o|r|cffa200l|r|cff9200l|r|cff8200a|r|cff7200s|r"}
+n["@VollständigerName"] = {"VollständigerName", "|cFFD700Vo|r|cF7D418l|r|cF3D324l|r|cEFD130s|r|cEBD03Ctä|r|cE3CD54n|r|cE0CC60d|r|cDCCA6Ci|r|cD8C978g|r|cD4C784e|r|cD0C690r|r|cCCC49CNa|r|cC4C1B4me|r"}
