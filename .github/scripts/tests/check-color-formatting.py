@@ -52,7 +52,7 @@ def main():
             print(err)
         sys.exit(1)
     else:
-        print("::notify:: ✅ All color strings valid!")
+        print("::notice:: ✅ All color strings valid!")
 
 if __name__ == "__main__":
     main()
