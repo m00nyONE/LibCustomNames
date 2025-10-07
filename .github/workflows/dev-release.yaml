@@ -8,6 +8,10 @@ on:
 jobs:
   test:
     uses: ./.github/workflows/_tests.yml
+  test-pc:
+    uses: ./.github/workflows/_tests_pc.yml
+  test-console:
+    uses: ./.github/workflows/_tests_console.yml
   release:
     if: github.repository_owner == 'm00nyONE'
     name: "dev release"

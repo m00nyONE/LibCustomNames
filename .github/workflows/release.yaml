@@ -10,6 +10,12 @@ jobs:
   test:
     if: github.repository_owner == 'm00nyONE'
     uses: ./.github/workflows/_tests.yml
+  test-pc:
+    if: github.repository_owner == 'm00nyONE'
+    uses: ./.github/workflows/_tests_pc.yml
+  test-console:
+    if: github.repository_owner == 'm00nyONE'
+    uses: ./.github/workflows/_tests_console.yml
   docs:
     if: github.repository_owner == 'm00nyONE'
     uses: ./.github/workflows/_generate-docs.yml
