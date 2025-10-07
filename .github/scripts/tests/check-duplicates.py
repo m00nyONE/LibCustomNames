@@ -3,8 +3,6 @@ import sys
 import re
 from collections import defaultdict
 
-LUA_DIR = "names"
-
 # Regex to match lines like: n["@m00nyONE"] = {...}
 entry_pattern = re.compile(r'^(?P<table>[nsa])\s*\[\s*"(?P<user>@[^"]+)"\s*]')
 
@@ -40,9 +38,13 @@ def report_duplicates():
 
 
 def main():
-    for file in os.listdir(LUA_DIR):
+    if len(sys.argv) != 2:
+        print(f"Usage: {sys.argv[0]} <lua_dir>")
+        sys.exit(2)
+    lua_dir = sys.argv[1]
+    for file in os.listdir(lua_dir):
         if file.endswith(".lua"):
-            full_path = os.path.join(LUA_DIR, file)
+            full_path = os.path.join(lua_dir, file)
             check_file(full_path)
     report_duplicates()
 

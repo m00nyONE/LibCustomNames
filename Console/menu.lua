@@ -6,5 +6,5 @@ local lib = _G[lib_name]
 local lib_author = lib.author
 local lib_version = lib.version
 
---- menu building - this function gets overwritten depending on platform ESO runs on
+--- generates the menu for the library
 function lib.BuildMenu() end

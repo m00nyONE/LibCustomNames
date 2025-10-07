@@ -10,19 +10,35 @@ jobs:
       - name: Check for missing includes in LibCustomIcons.addon
         run: |
           python3 .github/scripts/tests/check-includes.py
-  duplicates:
+  duplicates-pc:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
       - name: Check for duplicate definitions
         run: |
-          python3 .github/scripts/tests/check-duplicates.py
-  color-formatting:
+          python3 .github/scripts/tests/check-duplicates.py PC/names
+  duplicates-console:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Check for duplicate definitions
+        run: |
+          python3 .github/scripts/tests/check-duplicates.py Console/names
+  color-formatting-pc:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
       - name: Check for correct formatting of colored name strings
         run: |
-          python3 .github/scripts/tests/check-color-formatting.py
+          python3 .github/scripts/tests/check-color-formatting.py PC/names
+  color-formatting-console:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Check for correct formatting of colored name strings
+        run: |
+          python3 .github/scripts/tests/check-color-formatting.py Console/names

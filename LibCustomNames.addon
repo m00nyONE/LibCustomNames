@@ -4,12 +4,12 @@
 ## Title: LibCustomNames
 ## Description: a library for custom player names
 ## Version: dev
-## Author: |c76c3f4@m00nyONE|r, |cef7682@seadotarley|r
+## Author: |c76c3f4@m00nyONE|r, |cef7682@seadotarley|r, |c9b24bf@YoZoPoClo|r
 ## APIVersion: 101046 101047
 ## AddOnVersion: 99999999
 ## SavedVariables: LibCustomNamesSV
 ## IsLibrary: true
-## DependsOn: LibAddonMenu-2.0>=40
+## PCDependsOn: LibAddonMenu-2.0>=40
 
 ; This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.
 ; The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the United States and/or other countries.
@@ -25,30 +25,35 @@ lang/$(language).lua
 LibCustomNames.lua
 api.lua
 menu.lua
+PC/menu.lua
+Console/menu.lua
 
-## names
-names/cfm.lua
-names/chainreaction.lua
-names/corsair.lua
-names/equinoxe.lua
-names/frenchkiss.lua
-names/hodor.lua
-names/luck.lua
-names/mc.lua
-names/misc.lua
-names/misc2.lua
-names/misc3.lua
-names/misc4.lua
-names/misc5.lua
-names/misc6.lua
-names/misc7.lua
-names/moo.lua
-names/mot.lua
-names/Piou.lua
-names/pushdeeps.lua
-names/ua.lua
-names/vok.lua
-names/sshogrin.lua
+## PC names
+PC/names/cfm.lua
+PC/names/chainreaction.lua
+PC/names/corsair.lua
+PC/names/equinoxe.lua
+PC/names/frenchkiss.lua
+PC/names/hodor.lua
+PC/names/luck.lua
+PC/names/mc.lua
+PC/names/misc.lua
+PC/names/misc2.lua
+PC/names/misc3.lua
+PC/names/misc4.lua
+PC/names/misc5.lua
+PC/names/misc6.lua
+PC/names/misc7.lua
+PC/names/moo.lua
+PC/names/mot.lua
+PC/names/Piou.lua
+PC/names/pushdeeps.lua
+PC/names/ua.lua
+PC/names/vok.lua
+PC/names/sshogrin.lua
+
+## Console Names
+Console/names/2025.lua
 
 ## nil
 nil.lua

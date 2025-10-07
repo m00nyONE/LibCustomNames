@@ -1,3 +1,6 @@
+## 2025.10.07
+- create compatibility with console
+
 ## 2025.08.16
 - merge even more contributions
 

@@ -2,7 +2,6 @@ import os
 import re
 import sys
 
-NAMES_DIR = "names"
 COLOR_LINE_PATTERN = re.compile(r'^n\["([^"]+)"\]\s*=\s*{[^,]+,\s*"(.+)"\s*}')
 COLOR_CODE_PATTERN = re.compile(r'\|c([0-9a-fA-F]{6})(.*?)\|r')
 
@@ -28,7 +27,11 @@ def check_color_string(color_str, path, lineno, at_name):
         errors.append(f"Malformed |c segment (not 6-digit hex):\t{path}:{lineno}: {at_name}")
 
 def main():
-    for root, _, files in os.walk(NAMES_DIR):
+    if len(sys.argv) != 2:
+        print(f"Usage: {sys.argv[0]} <names_dir>")
+        sys.exit(2)
+    names_dir = sys.argv[1]
+    for root, _, files in os.walk(names_dir):
         for file in files:
             if not file.endswith(".lua"):
                 continue

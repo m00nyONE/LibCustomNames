@@ -39,9 +39,8 @@ local name = LibCustomNames.Get("@originalAccountName") or "@originalAccountName
 Documentation will be expanded as needed — feel free to open an issue if you need help integrating it.
 
 ## 📁 Repository Structure
-names/: Contains all custom name definitions.
-
-LibCustomNames.lua: Core logic to retrieve and manage custom names.
+PC/names/: Contains all custom name definitions for PC.
+Console/names/: Contains all custom name definitions for Console.
 
 ## 🤝 Contributing
 Community contributions are welcome and appreciated!
@@ -50,6 +49,8 @@ Community contributions are welcome and appreciated!
 - Add your custom name to the data file
 - Open a Pull Request with a short description
 - Make sure to keep names appropriate and tasteful. Offensive or misleading content will not be accepted.
+
+- INFO: for testing custom names for console, please use PC and switch to consoleFlow mode
 
 ## 🙏 Credits
 <a href="https://github.com/m00nyONE/LibCustomNames/graphs/contributors">

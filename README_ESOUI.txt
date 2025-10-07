@@ -44,8 +44,8 @@ Documentation will be expanded as needed — feel free to open an issue if you n
 
 [size=4][b]Repository Structure[/b][/size]
 [list]
-[*][b]names/[/b]: Contains all custom name definitions
-[*][b]LibCustomNames.lua[/b]: Core logic to retrieve and manage custom names
+[*][b]PC/names/[/b]: Contains all custom name definitions for PC
+[*][b]Console/names/[/b]: Contains all custom name definitions for Console
 [/list]
 
 [size=4][b]Contributing[/b][/size]

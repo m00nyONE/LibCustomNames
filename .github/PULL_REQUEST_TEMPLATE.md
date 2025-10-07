@@ -2,6 +2,10 @@
 Describe in the **Changes** section what you did. How did you test it? If you added or changed a custom name, please add a screenshot of a test in the **Testing** section so we can verify that everything follows the ToS from ZoS.*
 ---
 
+## Platform
+- [X] PC
+- [ ] Console
+
 ## Changes
 
 - Added/changed colored names for: `@m00nyONE @Mobitor @seadotarley`
