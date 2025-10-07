@@ -38,6 +38,7 @@ n["@lPredl"] = {"Pred", "|cff2200l|r|cff3400P|r|cff4600r|r|cff5700e|r|cff6900d|r
 n["@wellrcosta"] = {"wellrcosta", "|cec0036w|r|cd8004de|r|cc50063l|r|cb10079l|r|c9e0090r|r|c8a00a6c|r|c7700bco|r|c6300d2s|r|c5000e9t|r|c3c00ffa|r"}
 n["@Thrasher910"] = {"Thrasher", "|cf1fc00Thrasher|r"}
 n["@JuiceGotThaJuice"] = {"Juice", "|c00badcJuice|r"}
+n["@FindingChemo"] = {"@FindingChemo", "|c520094@|r|c560088F|r|c5a007ci|r|c5e006fn|r|c620063d|r|c660057i|r|c6a004bn|r|c6e003fg|r|c720033C|r|c760026h|r|c7a001ae|r|c7e000em|r|c820002o|r"
 n["@loneloba"] = {"loneloba", "|c5bcffa[l|r|cff8bfdon|r|cffffffel|r|cff8bfdob|r|c5bcffaa]|r"}
 n["@leviatan64"] = {"leviatan64", "|cffe11al|r|cffe533e|r|cffe84dv|r|cffeb66i|r|cffef80a|r|cfff299t|r|cfff5b3a|r|cfff8ccn|r|cfffce56|r|cffffff4|r"}
 n["@StepsInTheSilence"] = {"* Steps ", "|cff2426|r |cff4947S|r|cff6d68t|r|cfe928ae|r|cfeb6abp|r|cfedbccs|r |cfeffed*|r"}
