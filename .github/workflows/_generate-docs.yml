@@ -21,7 +21,7 @@ jobs:
           fi
           
           tar -xzf emmylua_doc_cli-linux-x64.tar.gz
-          chmod +x emmylua_doc_cli-linux-x64.tar.gz
+          chmod +x emmylua_doc_cli
 
           ./emmylua_doc_cli --output ./docs-md ./docs-lua
       - name: Deploy docs

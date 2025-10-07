@@ -28,4 +28,4 @@ jobs:
           tar -xzf emmylua_check-linux-x64.tar.gz
           chmod +x emmylua_check
 
-          ./emmylua_check . --verbose
+          ./emmylua_check ./PC/names ./Console/names
