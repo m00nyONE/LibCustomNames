@@ -9,7 +9,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Check for missing includes in LibCustomIcons.addon
         run: |
-          python3 .github/scripts/tests/check-includes.py
+          python3 .github/scripts/tests/check-includes.py .
   duplicates-pc:
     runs-on: ubuntu-latest
     steps:
