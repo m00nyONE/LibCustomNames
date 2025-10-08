@@ -68,3 +68,4 @@ n["@Lady-Grummel"] = n["@Lord-Grummel"]
 n["@DrakeX4 "] = n["@SandroKilltDich"]
 n["@Eco.212"] = n["@Eco_212"]
 n["@Ermsi2"] = n["@Ermsi"]
+n["@Fjior"] = {"Fjiör", "Fjiör"}
