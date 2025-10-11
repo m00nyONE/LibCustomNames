@@ -11,3 +11,4 @@ n["@Seolaelis"] = {"Thorben", "|c21f8dbT|r|c41f9b6h|r|c62fa92o|r|c82fc6dr|r|ca3f
 n["@SirBoost"] = {"SirBoost", "|cf5198dBoost|r"}
 n["@SkarkOo"] = {"SkarkOo", "|c1dfbffS|r|c3bfbffk|r|c58fbffa|r|c75faffr|r|c92faffk|r|cb0faffO|r|ccdfaffo|r"}
 n["@Wolf384"] = {"WolF", "|cf30090W|r|ce700b5o|r|cda00dal|r|cce00ffF|r"}
+n["@xxFeyLamiaxx"] = {"Fey", "|c8d0714F|r|cb40d27e|r|cdc143by|r"}
