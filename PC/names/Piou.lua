@@ -24,3 +24,4 @@ n["@Nheixx"] = {"Dur(n)ex", "|c1470f6D|r|c2878ecu|r|c3c80e3r|r|c5088d9(|r|c648fd
 n["@JRM-MORT"] = {"JRM", "|cbfcd5cJ|r|c80b9aeR|r|c40a4ffM|r"}
 n["@Fondianist"] = {"L'aveugle", "|cffffffL'aveugle|r"}
 n["@Kinseht"]= {"AnalKin'g", "|cee0594A|r|cdc0a81n|r|ccb106fa|r|cb9155cl|r|ca81a4aK|r|c961f37i|r|c852525n|r|c732a12'|r|c622f00g|r"}
+n["@Tonifiantmusculaire"]= {"PA", "|cffffffP|r|cffffffA|r"}
