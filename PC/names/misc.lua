@@ -286,7 +286,6 @@ n["@Cabbage42"] = {"Cabbage", "|c7700ffCabbage|r"}
 n["@Patobolo"] = {"Patobolo", "|c0055ffPatobolo|r"}
 n["@Zabounet"] = {"Zabou", "|c007a1aZabou|r"}
 n["@A'shu"] = {"Ashu", "|cffd909Ashu|r"}
-n["@SirBoost"] = {"SirBoost", "|cf5198dBoost|r"}
 n["@Avenzius"] = {"Avenzius", "|cfffff0Avenzius|r"}
 n["@ALaiham"] = {"AL'aiham", "|cffe211AL|r|cfafff0'|r|cffe211aiham|r|cfafff0 :|r|cffe211]|r"}
 n["@BladeeFan"] = {"Bladee", "|cff008dBladee|r"}

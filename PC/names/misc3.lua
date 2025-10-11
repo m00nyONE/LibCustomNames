@@ -872,7 +872,6 @@ n["@SunPoeBow"] = {"SunPoeBow", "|cdda8f9S|r|cd0a9fau|r|cc2a9fan|r|cb5aafbP|r|ca
 n["@Yoshi.D"] = {"Yoshi", "|c2eff44Y|r|cff131do|r|c89ff9as|r|cb7ffc5h|r|ce5fff0i|r"}
 n["@Galowen"] = {"Galowen", "|c1200e4Galowen|r"}
 n["@Sir_Loki"] = {"SirLoki", "|cc92004S|r|cad4008i|r|c90600cr|r|c738010|r|c569f14L|r|c3abf18o|r|c1ddf1ck|r|c00ff20i|r"}
-n["@Sacriefy"] = {"Luke", "|cf5ca40L|r|ceca780u|r|ce283bfk|r|cd860ffe|r"}
 n["@Guilt_Trip"] = {"GUILT", "|c45f1d0G|r|c74f2a1U|r|ca2f471I|r|cd1f542L|r|cfff613T|r"}
 n["@Panickaa"] = {"Panickaa", "|c8d8dbcP|r|c999ac5a|r|ca4a6cfn|r|cb0b2d9i|r|cbbbee2c|r|cc6cbeck|r|cd2d7f5a|r|cdde3ffa|r"}
 n["@Xudowudo"] = {"Xudowudo", "|c7d8d77X|r|c789e6du|r|c73ae63d|r|c6fbe59o|r|c6ace4ew|r|c65df44u|r|c60ef3ad|r|c5bff30o|r"}
