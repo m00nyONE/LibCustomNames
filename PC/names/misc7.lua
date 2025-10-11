@@ -245,6 +245,7 @@ n["@Jamestlw"] = {"Jamestlw", "|c9f7bfeJ|r|c9f8efea|r|c9fa1fdm|r|ca0b4fde|r|ca0c
 n["@KuebelFieber"] = {"KuebelFieber", "|cffffffKuebelFieber|r"}
 n["@Orollas"] = {"Orollas", "|cffd200O|r|cffc200r|r|cffb200o|r|cffa200l|r|cff9200l|r|cff8200a|r|cff7200s|r"}
 n["@VollständigerName"] = {"VollständigerName", "|cFFD700Vo|r|cF7D418l|r|cF3D324l|r|cEFD130s|r|cEBD03Ctä|r|cE3CD54n|r|cE0CC60d|r|cDCCA6Ci|r|cD8C978g|r|cD4C784e|r|cD0C690r|r|cCCC49CNa|r|cC4C1B4me|r"}
+n["@TheMrPancake"] = {"MrPancake", "|c00ecbd|L0:0:0:85%%:1:00536d|lM|l|r|c00d9b3|L0:0:0:85%%:1:006677|lr|l|r|c00c6a9|L0:0:0:85%%:1:007981|lP|l|r|c00b39f|L0:0:0:85%%:1:008c8b|la|l|r|c009f95|L0:0:0:85%%:1:009f95|ln|l|r|c008c8b|L0:0:0:85%%:1:00b39f|lc|l|r|c007981|L0:0:0:85%%:1:00c6a9|la|l|r|c006677|L0:0:0:85%%:1:00d9b3|lk|l|r|c00536d|L0:0:0:85%%:1:00ecbd|le|l|r"}
 n["@ItsBigKai"] = {"ItsBigKai", "|cff015fI|r|cff016dt|r|cff027as|r|cff0288B|r|cff0395i|r|cff03a3g|r|cff04b0K|r|cff04bea|r|cff05cbi|r"}
 n["@ReviaAndersson"] = {"ReviaAndersson", "|c1e731aR|r|c246c1be|r|c2a661cv|r|c315f1di|r|c37591ea|r|c3d521fA|r|c434c20n|r|c494620d|r|c4f3f21e|r|c553922r|r|c5c3223s|r|c622c24s|r|c682525o|r|c6e1f26n|r"}
 n["@KikiMu"] = {"KikiMu", "|c1ff32bK|r|c2ae755i|r|c34dc80k|r|c3ed0aai|r|c49c4d4M|r|c53b8ffu|r"}
