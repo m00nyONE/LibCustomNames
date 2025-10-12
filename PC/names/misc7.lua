@@ -250,3 +250,4 @@ n["@ItsBigKai"] = {"ItsBigKai", "|cff015fI|r|cff016dt|r|cff027as|r|cff0288B|r|cf
 n["@ReviaAndersson"] = {"ReviaAndersson", "|c1e731aR|r|c246c1be|r|c2a661cv|r|c315f1di|r|c37591ea|r|c3d521fA|r|c434c20n|r|c494620d|r|c4f3f21e|r|c553922r|r|c5c3223s|r|c622c24s|r|c682525o|r|c6e1f26n|r"}
 n["@KikiMu"] = {"KikiMu", "|c1ff32bK|r|c2ae755i|r|c34dc80k|r|c3ed0aai|r|c49c4d4M|r|c53b8ffu|r"}
 n["@CrazyFr00g"] = {"CrazyFr00g", "|c0e9a13C|r|c1c9e1dr|r|c2aa226a|r|c38a630z|r|c46aa39y|r|c53ae42F|r|c61b24cr|r|c6fb6550|r|c7dba5f0|r|c8bbe68g|r"}
+n["@Hobahn"] = {"Hobahn", "|c1d49fcH|r|c2c6df9o|r|c3a92f6b|r|c48b6f2a|r|c57dbefh|r|c65ffecn|r"}
