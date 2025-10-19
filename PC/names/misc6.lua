@@ -91,6 +91,7 @@ n["@Su-Shi"] = {"SuShi", "|ca8e5ffS|r|cbbd5ffu|r|ccfc4ffS|r|ce2b4ffh|r|cf6a4ffi|
 n["@PaybackFFS"] = {"PaybackFFS", "|cf5372fP|r|ceb372fa|r|ce1362ey|r|cd7362db|r|ccd362da|r|cc3362cc|r|cb9362bk|r|caf352aF|r|ca5352aF|r|c9b3529S|r"}
 n["@silentseashore"] = {"Meer", "|cae694aM|r|cc97d5ce|r|ce4916de|r|cffa57fr|r"}
 n["@Banana.Fish"] = {"Banana.Fish", "|cffdd66Banana.Fish|r"}
+n["@Banana.Jelly"] = {"Banana.Jelly", "|cffdd66Banana.Jelly|r"}
 n["@Chomper876"] = {"Chomper", "|ccb1ae7C|r|cb818ceh|r|ca417b6o|r|c91169dm|r|c7d1585p|r|c6a136ce|r|c561254r|r"}
 n["@OrjanOls"] = {"Pinkeh", "|c2399f8P|r|c21a6fai|r|c1fb4fbn|r|c1dc1fck|r|c1bcffee|r|c19dcffh|r"}
 n["@RGinty"] = {"Ginty", "|ceb9981G|r|cd7a8a1i|r|cc2b8c0n|r|caec7e0t|r|c9ad7ffy|r"}
