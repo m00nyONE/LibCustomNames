@@ -252,4 +252,7 @@ n["@KikiMu"] = {"KikiMu", "|c1ff32bK|r|c2ae755i|r|c34dc80k|r|c3ed0aai|r|c49c4d4M
 n["@CrazyFr00g"] = {"CrazyFr00g", "|c0e9a13C|r|c1c9e1dr|r|c2aa226a|r|c38a630z|r|c46aa39y|r|c53ae42F|r|c61b24cr|r|c6fb6550|r|c7dba5f0|r|c8bbe68g|r"}
 n["@Hobahn"] = {"Hobahn", "|c1d49fcH|r|c2c6df9o|r|c3a92f6b|r|c48b6f2a|r|c57dbefh|r|c65ffecn|r"}
 n["@Grovkarln"] = {"Grovkarln", "|c19ff00G|r|c31ff00r|r|c4aff00o|r|c63ff00v|r|c7bff00k|r|c94ff00a|r|cadff00r|r|cc5ff00l|r|cdeff00n|r"}
+n["@Kebahah"] = {"Kebahah", "|cf4fff6K|r|cf6fff8e|r|cf8fff9b|r|cf9fffba|r|cfbfffch|r|cfdfffea|r|cffffffh|r"}
+n["@Valjaria"] = {"Valjaria", "|c829d5aV|r|c7a9454a|r|c728a4el|r|c6a8049j|r|c617643a|r|c596d3dr|r|c516337i|r|c495931a|r"}
+n["@mikaleidoscorpion"] = {"mika", "|cffe266mika|r"}
 n["@coatsncheeze"] = {"coatsncheeze", "|cc04726c|r|cc45622o|r|cc9641fa|r|cce731bt|r|cd28118s|r|cd79015n|r|cdc9e11c|r|ce0ac0eh|r|ce5bb0ae|r|ceac907e|r|ceed803z|r|cf3e600e|r"}
