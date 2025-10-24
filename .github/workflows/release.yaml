@@ -81,8 +81,9 @@ jobs:
 
           echo "ADDON_NAME=$addon_name" >> $GITHUB_ENV
           echo "ADDON_VERSION=$version" >> $GITHUB_ENV
-
-          echo "ZIP_FULL_NAME=${addon_name}-${version}.zip" >> $GITHUB_ENV
+          
+          echo "ZIP_FULL_NAME_PC=${addon_name}-${version}-pc.zip" >> $GITHUB_ENV
+          echo "ZIP_FULL_NAME_CONSOLE=${addon_name}-${version}-console.zip" >> $GITHUB_ENV
 
       - name: Replace placeholders with current date
         if: steps.check_changes.outputs.should_release == 'true'
@@ -95,20 +96,28 @@ jobs:
         if: steps.check_changes.outputs.should_release == 'true'
         run: |
           REPO_FOLDER=$(pwd)
-          TMP_FOLDER="/tmp/${{ env.ADDON_NAME }}"
-
+          TMP_FOLDER_PC="/tmp/pc/${{ env.ADDON_NAME }}"
+          TMP_FOLDER_CONSOLE="/tmp/console/${{ env.ADDON_NAME }}"
+          
           # Define the path to the ignore pattern file
           ignore_file=".build-ignore"
-
+          
           # Read and process ignore patterns into a single line
           exclude_patterns=$(cat "$ignore_file" | awk '{print "--exclude " $0}' | tr '\n' ' ')
-
-          # Make folder and copy content
-          mkdir -p $TMP_FOLDER
-          rsync -a --quiet $exclude_patterns "$REPO_FOLDER/" "$TMP_FOLDER/"
-
-          # create zip
-          (cd /tmp && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME }}" "${{ env.ADDON_NAME }}")
+          
+          # Make folder and copy content for PC
+          mkdir -p $TMP_FOLDER_PC
+          rsync -a --quiet $exclude_patterns --exclude "Console" "$REPO_FOLDER/" "$TMP_FOLDER_PC/"
+          
+          # Make folder and copy content for Console
+          mkdir -p $TMP_FOLDER_CONSOLE
+          rsync -a --quiet $exclude_patterns --exclude "PC" "$REPO_FOLDER/" "$TMP_FOLDER_CONSOLE/"
+          
+           # create zip for PC
+          (cd /tmp/pc && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_PC }}" "${{ env.ADDON_NAME }}")
+          
+          # create zip for Console
+          (cd /tmp/console && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_CONSOLE }}" "${{ env.ADDON_NAME }}")
 
       - name: Extract latest changelog entry
         if: steps.check_changes.outputs.should_release == 'true'
@@ -123,7 +132,7 @@ jobs:
           name: "${{ env.ADDON_VERSION }}"
           commit: ${{ github.ref }}
           tag: "${{ env.ADDON_VERSION }}"
-          artifacts: "${{ env.ZIP_FULL_NAME }}"
+          artifacts: "${{ env.ZIP_FULL_NAME_PC }},${{ env.ZIP_FULL_NAME_CONSOLE }}"
           artifactContentType: application/zip
           bodyFile: latest_changes.md
           allowUpdates: true
@@ -136,7 +145,7 @@ jobs:
           api_key: ${{ secrets.ESOUI_API_KEY }}
           addon_id: '4155'
           version: ${{ env.ADDON_VERSION }}
-          zip_file: ${{ env.ZIP_FULL_NAME }}
+          zip_file: ${{ env.ZIP_FULL_NAME_PC }}
           changelog_file: 'CHANGELOG.md'
           test: true
 
@@ -147,7 +156,7 @@ jobs:
           api_key: ${{ secrets.ESOUI_API_KEY }}
           addon_id: '4155'
           version: ${{ env.ADDON_VERSION }}
-          zip_file: ${{ env.ZIP_FULL_NAME }}
+          zip_file: ${{ env.ZIP_FULL_NAME_PC }}
           changelog_file: 'CHANGELOG.md'
 
 #      - name: Upload to BNET
@@ -158,5 +167,5 @@ jobs:
 #          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
 #          addon_id: '---'
 #          version: ${{ env.ADDON_VERSION }}
-#          zip_file: ${{ env.ZIP_FULL_NAME }}
+#          zip_file: ${{ env.ZIP_FULL_NAME_CONSOLE }}
 #          release_notes_file: latest_changes.md
