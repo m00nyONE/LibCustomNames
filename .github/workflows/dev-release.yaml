@@ -67,13 +67,12 @@ jobs:
           mkdir -p $TMP_FOLDER_PC
           rsync -a --quiet $exclude_patterns --exclude "Console" "$REPO_FOLDER/" "$TMP_FOLDER_PC/"
           
-          # create zip for PC
-          (cd /tmp && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_PC }}" "${{ env.ADDON_NAME }}_PC")
-          
-          
           # Make folder and copy content for Console
           mkdir -p $TMP_FOLDER_CONSOLE
           rsync -a --quiet $exclude_patterns --exclude "PC" "$REPO_FOLDER/" "$TMP_FOLDER_CONSOLE/"
+          
+           # create zip for PC
+          (cd /tmp && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_PC }}" "${{ env.ADDON_NAME }}_PC")
           
           # create zip for Console
           (cd /tmp && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_CONSOLE }}" "${{ env.ADDON_NAME }}_CONSOLE")
