@@ -93,3 +93,14 @@ jobs:
           zip_file: ${{ env.ZIP_FULL_NAME }}
           changelog_file: 'CHANGELOG.md'
           test: true
+
+#      - name: Upload to BNET (no publish)
+#        uses: m00nyONE/bnet-upload@v1
+#        with:
+#          BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
+#          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
+#          addon_id: '---'
+#          version: ${{ env.ADDON_VERSION }}
+#          zip_file: ${{ env.ZIP_FULL_NAME }}
+#          release_notes_file: 'latest_changes.md'
+#          publish: false
