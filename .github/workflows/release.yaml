@@ -60,6 +60,9 @@ jobs:
             echo "should_release=true" >> $GITHUB_OUTPUT
           fi
 
+      - name: get repo name
+        run: echo "REPO_NAME=${{ github.event.repository.name }}" >> $GITHUB_ENV
+
       - name: Get current year, month and day
         if: steps.check_changes.outputs.should_release == 'true'
         run: |
@@ -73,7 +76,7 @@ jobs:
       - name: Create env variables
         if: steps.check_changes.outputs.should_release == 'true'
         run: |
-          addon_name="LibCustomNames"
+          addon_name="${{ env.REPO_NAME }}"
           version="${{ env.BUILD_DATE_WITH_HYPHEN }}"
 
           echo "ADDON_NAME=$addon_name" >> $GITHUB_ENV
@@ -149,10 +152,11 @@ jobs:
 
 #      - name: Upload to BNET
 #        uses: m00nyONE/bnet-upload@v1
+#        if: steps.check_changes.outputs.should_release == 'true'
 #        with:
 #          BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
 #          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
 #          addon_id: '---'
 #          version: ${{ env.ADDON_VERSION }}
 #          zip_file: ${{ env.ZIP_FULL_NAME }}
-#          release_notes_file: 'latest_changes.md'
+#          release_notes_file: latest_changes.md
