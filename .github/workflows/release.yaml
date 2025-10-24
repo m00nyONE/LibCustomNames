@@ -159,13 +159,13 @@ jobs:
           zip_file: ${{ env.ZIP_FULL_NAME_PC }}
           changelog_file: 'CHANGELOG.md'
 
-#      - name: Upload to BNET
-#        uses: m00nyONE/bnet-upload@v1
-#        if: steps.check_changes.outputs.should_release == 'true'
-#        with:
-#          BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
-#          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
-#          addon_id: '---'
-#          version: ${{ env.ADDON_VERSION }}
-#          zip_file: ${{ env.ZIP_FULL_NAME_CONSOLE }}
-#          release_notes_file: latest_changes.md
+      - name: Upload to BNET
+        uses: m00nyONE/bnet-upload@v1
+        if: steps.check_changes.outputs.should_release == 'true'
+        with:
+          BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
+          BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
+          addon_id: "5eaa0d91-47f8-4c5e-8673-db3ab518a752"
+          version: ${{ env.ADDON_VERSION }}
+          zip_file: ${{ env.ZIP_FULL_NAME_CONSOLE }}
+          release_notes_file: latest_changes.md
