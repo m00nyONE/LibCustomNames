@@ -160,7 +160,7 @@ jobs:
           changelog_file: 'CHANGELOG.md'
 
       - name: Upload to BNET
-        uses: m00nyONE/bnet-upload@v1
+        uses: m00nyONE/bnet-upload@main
         if: steps.check_changes.outputs.should_release == 'true'
         with:
           BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
