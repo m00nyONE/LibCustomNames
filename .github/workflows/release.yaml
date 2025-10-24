@@ -130,7 +130,7 @@ jobs:
           makeLatest: true
 
       - name: Test Upload to ESOUI
-        uses: m00nyONE/esoui-upload@v2
+        uses: m00nyONE/esoui-upload@main
         if: steps.check_changes.outputs.should_release == 'true'
         with:
           api_key: ${{ secrets.ESOUI_API_KEY }}
@@ -141,7 +141,7 @@ jobs:
           test: true
 
       - name: Upload to ESOUI
-        uses: m00nyONE/esoui-upload@v2
+        uses: m00nyONE/esoui-upload@main
         if: steps.check_changes.outputs.should_release == 'true'
         with:
           api_key: ${{ secrets.ESOUI_API_KEY }}
