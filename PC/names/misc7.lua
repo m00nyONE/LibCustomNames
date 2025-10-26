@@ -259,3 +259,4 @@ n["@coatsncheeze"] = {"coatsncheeze", "|cc04726c|r|cc45622o|r|cc9641fa|r|cce731b
 n["@SteveIrwin_ESO"] = {"Steve Irwin", "|c2fd600S|r|c2acc00t|r|c25c300e|r|c20b900v|r|c1baf00e|r |c15a500I|r|c109b00r|r|c0b9200w|r|c068800i|r|c017e00n|r"}
 n["@Esstarossa"] = {"Essta", "|cfa0c10E|r|cf5191fs|r|cef252fs|r|cea323et|r|ce53e4ea|r"}
 n["@Rilarra"] = {"Rilarra", "|ceaeaeaR|r|cd6d6d6i|r|cc1c1c1l|r|cacacaca|r|c979797r|r|c838383r|r|c6e6e6ea|r"}
+n["@Max.kvy"] = {"omr", "|cf65300o|r|cee7400m|r|ce59600r|r"}
