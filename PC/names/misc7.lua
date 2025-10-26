@@ -257,3 +257,4 @@ n["@Valjaria"] = {"Valjaria", "|c829d5aV|r|c7a9454a|r|c728a4el|r|c6a8049j|r|c617
 n["@mikaleidoscorpion"] = {"mika", "|cffe266mika|r"}
 n["@coatsncheeze"] = {"coatsncheeze", "|cc04726c|r|cc45622o|r|cc9641fa|r|cce731bt|r|cd28118s|r|cd79015n|r|cdc9e11c|r|ce0ac0eh|r|ce5bb0ae|r|ceac907e|r|ceed803z|r|cf3e600e|r"}
 n["@SteveIrwin_ESO"] = {"Steve Irwin", "|c2fd600S|r|c2acc00t|r|c25c300e|r|c20b900v|r|c1baf00e|r |c15a500I|r|c109b00r|r|c0b9200w|r|c068800i|r|c017e00n|r"}
+n["@Esstarossa"] = {"Essta", "|cfa0c10E|r|cf5191fs|r|cef252fs|r|cea323et|r|ce53e4ea|r"}
