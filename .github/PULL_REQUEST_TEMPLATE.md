@@ -17,7 +17,7 @@ Remove this part of the template before submitting.*
 
 Tested with:
 ```
-/hodor.share test @m00nyONE @Mobitor @seadotarley
+/hodor test @m00nyONE @Mobitor @seadotarley
 ```
 Screenshot:
 
