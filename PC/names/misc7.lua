@@ -270,3 +270,4 @@ n["@einjw"] = {"jw", "|c467bc1j|r|c60a0f6w|r"}
 n["@BlackFlameee"] = {"Franco", "|c9d00ffF|r|ca527f3r|r|cad4ee7a|r|cb476dcn|r|cbc9dd0c|r|cc4c4c4o|r"}
 n["@tanner.k"] = {"tannerk", "|cf0e0fft|r|ce4d3ffa|r|cd7c5ffn|r|ccbb8ffn|r|cbeabffe|r|cb29dffr|r|ca590ffk|r"}
 n["@xRisK_Flash"] = {"Flash", "|ca600ffF|r|cbc00bfl|r|cd30080a|r|ce90040s|r|cff0000h|r"}
+n["@Crocoenjoyer"] = {"Crocoenjoyer", "|c645437C|r|c6c6345r|r|c757353o|r|c7e8261c|r|c86926fo|r|c8fa27ee|r|c98b18cn|r|ca0c19aj|r|ca9d0a8o|r|cb2e0b6y|r|cbaefc4e|r|cc3ffd2r|r"}
