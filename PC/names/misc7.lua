@@ -268,3 +268,5 @@ n["@DisabledBro's"] = {"DisabledBro's", "|c00ffddD|r|c00ffc5i|r|c00ffacs|r|c00ff
 n["@Nightharrow"] = {"Nightharrow", "|c82fabbN|r|c7eebb5i|r|c79dcafg|r|c75cda8h|r|c71bea2t|r|c6daf9ch|r|c689f96a|r|c649090r|r|c608189r|r|c5b7283o|r|c57637dw|r"}
 n["@einjw"] = {"jw", "|c467bc1j|r|c60a0f6w|r"}
 n["@BlackFlameee"] = {"Franco", "|c9d00ffF|r|ca527f3r|r|cad4ee7a|r|cb476dcn|r|cbc9dd0c|r|cc4c4c4o|r"}
+n["@tanner.k"] = {"tannerk", "|cf0e0fft|r|ce4d3ffa|r|cd7c5ffn|r|ccbb8ffn|r|cbeabffe|r|cb29dffr|r|ca590ffk|r"}
+n["@xRisK_Flash"] = {"Flash", "|ca600ffF|r|cbc00bfl|r|cd30080a|r|ce90040s|r|cff0000h|r"}
