@@ -21,4 +21,4 @@ n["@UkZ FlaKezZ"] = {"FlaKezZ", "|ca99cffF|r|c9f92ffl|r|c9688ffa|r|c8c7effK|r|c8
 n["@Ravlet"] = {"Telvar", "|c5da3ffTelvar|r"}
 n["@P5L0CYB1N"] = {"P5L0CYB1N", "|cff0000P|r|c09dbff5|r|c02ff32L|r|cee27ff0|r|cc57800C|r|c00ec9aY|r|cff7917B|r|cfeff141|r|c0004f5N|r"}
 n["@Wak3dMagneticZ"] = {"Waked", "|c4d22b2Waked|r"}
-n["@grvpx"] = {"grape", "|c4d22b2grape|r"}
+n["@grvpx"] = {"grape", "|cb18cfegrape|r"}
