@@ -66,7 +66,6 @@ n["@ARRD3N"] = {"ARRD3N", "|cAA00AAArdy|r"}
 n["@JK Evolved"] = {"JK Evolved", "|cFF3355JK|r"}
 n["@wJayx"] = {"wJayx", "|cCCEEFFF|r|cBBDDFFr|r|cAACCFFi|r|c99BBFFe|r|c88AAFFd|r|c7799FFe|r"}
 n["@El Panda Roj0"] = {"El Panda Roj0", "|cFFAA00E|r|cFF8800l|r|cFF6600 |r|cFF5500P|r|cFF4400a|r|cFF3300n|r|cFF2200d|r|cFF1100a|r|cFF0000 |r|cFF0000R|r|cFF0000o|r|cFF0000j|r|cFF00000|r"}
-n["@LigtningFury"] = {"LigtningFury", "|c9CFCFFSweetNothing|r"}
 n["@DuckierBanjo13"] = {"DuckierBanjo13", "|cFFEEFFD|r|cFFDDEEu|r|cFFCCDDc|r|cFFBBCCk|r|cFFAABBi|r|cFF99AAe|r"}
 n["@Ruleeus"] = {"Ruleeus", "|cFF0000T|r|cFF0000h|r|cFF0000e|r|cDD0000 |r|cDD0000D|r|cBB0000e|r|cBB0000p|r|c990000o|r|c990000r|r|c770000t|r|c770000e|r|c550000d|r|c550000 |r|c330000O|r|c330000n|r|c110000e|r"}
 n["@Sazzle1992"] = {"Sazzle1992", "|cAA00AASazz|r"}
