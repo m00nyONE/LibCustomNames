@@ -156,7 +156,6 @@ n["@Princess-Roxxie"] = {"PrincessRoxi", "|cf900a2P|r|cf400a9r|r|cee00b0i|r|ce80
 n["@Havoc.1412"] = {"Havoc.1412", "|ce60f1aH|r|ccc0e33a|r|cb30c4dv|r|c990a66o|r|c800980c|r|c660799.|r|c4d05b31|r|c3303cc4|r|c1a02e51|r|c0000ff2|r"}
 n["@JayyMi"] = {"Jay", "|c555effJ|r|caaafffa|r|cffffffy|r"}
 n["@korgaard"] = {"korgaard", "|c20ff20k|r|c40ff40o|r|c60ff60r|r|c80ff80g|r|c9fff9fa|r|cbfffbfa|r|cdfffdfr|r|cffffffd|r"}
-n["@TimistGOTT"] = {"Timso", "|c7900ffT|r|c9300ffi|r|cac00ffm|r|cc600ffs|r|ce000ffo|r"}
 n["@PvPenny"] = {"PvPenny", "|c155b0eP|r|c25771dv|r|c35922bP|r|c44ad3ae|r|c54c848n|r|c64e457n|r|c74ff65y|r"}
 n["@UncleFoxx"] = {"UncleFoxx", "|c2313ffU|r|c1e26ffn|r|c1a39ffc|r|c164cffl|r|c115fffe|r|c0d72ffF|r|c0985ffo|r|c0498ffx|r|c00abffx|r"}
 n["@JacobWasTake'n"] = {"Jacob", "|cff8402J|r|cff8e01a|r|cff9901c|r|cffa300o|r|cffae00b|r"}
