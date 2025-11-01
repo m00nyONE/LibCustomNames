@@ -272,3 +272,4 @@ n["@tanner.k"] = {"tannerk", "|cf0e0fft|r|ce4d3ffa|r|cd7c5ffn|r|ccbb8ffn|r|cbeab
 n["@xRisK_Flash"] = {"Flash", "|ca600ffF|r|cbc00bfl|r|cd30080a|r|ce90040s|r|cff0000h|r"}
 n["@Neifary"] = {"Neifary", "|c9dcda1N|r|ca4c6a4e|r|cabbfa7i|r|cb3b9aaf|r|cbab2ada|r|cc1abb0r|r|cc8a4b3y|r"}
 n["@Crocoenjoyer"] = {"Crocoenjoyer", "|c645437C|r|c6c6345r|r|c757353o|r|c7e8261c|r|c86926fo|r|c8fa27ee|r|c98b18cn|r|ca0c19aj|r|ca9d0a8o|r|cb2e0b6y|r|cbaefc4e|r|cc3ffd2r|r"}
+n["@Nala-78"] = {"Nala-78", "|cdf36d7N|r|cbf3ddda|r|c9f44e4l|r|c804beba|r|c6052f2-|r|c4059f87|r|c2060ff8|r"}
