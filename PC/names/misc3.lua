@@ -445,7 +445,6 @@ n["@MedikamentX"] = {"MedikamentX", "|c7409ddM|r|c7f11c7e|r|c891ab1d|r|c93229bi|
 n["@Miyumiu"] = {"Miyu", "|cff66f3M|r|cff58edi|r|cff4be6y|r|cff3de0u|r"}
 n["@Sinolai"] = {"Sinolai", "|cfc3c20S|r|cf85c1ai|r|cf57d15n|r|cf19d10o|r|ceebe0bl|r|ceade05a|r|ce7ff00i|r"}
 n["@LLawlietL"] = {"LLawlietL", "|c7b0010L|r|c7c000fL|r|c7c000fa|r|c7c000fw|r|c7d000el|r|c7d000ei|r|c7d000ee|r|c7e000dt|r|c7e000dL|r"}
-n["@snowiii"] = {"snowiii", "|cece5fbs|r|cd9d9fbn|r|cc6cefco|r|cb3c3fdw|r|ca0b8fei|r|c8dacfei|r|c7aa1ffi|r"}
 n["@xSovrin"] = {"Sovrin", "|cc1e200S|r|ccec600o|r|cdaa900v|r|ce68c00r|r|cf37000i|r|cff5300n|r"}
 n["@gooseegoose"] = {"gooseegoose", "|c38de67g|r|c3bd076o|r|c3fc286o|r|c42b495s|r|c45a6a4e|r|c4897b3e|r|c4b89c2g|r|c4e7bd1o|r|c526de1o|r|c555ff0s|r|c5851ffe|r"}
 n["@L.aurelin"] = {"L.aurelin", "|cfba000L|r|cf68c00.|r|cf27800a|r|cee6400u|r|ce95000r|r|ce53c00e|r|ce12800l|r|cdc1400i|r|cd80000n|r"}
