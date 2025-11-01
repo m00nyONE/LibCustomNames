@@ -22,3 +22,4 @@ n["@Ravlet"] = {"Telvar", "|c5da3ffTelvar|r"}
 n["@P5L0CYB1N"] = {"P5L0CYB1N", "|cff0000P|r|c09dbff5|r|c02ff32L|r|cee27ff0|r|cc57800C|r|c00ec9aY|r|cff7917B|r|cfeff141|r|c0004f5N|r"}
 n["@Wak3dMagneticZ"] = {"Waked", "|c4d22b2Waked|r"}
 n["@grvpx"] = {"grape", "|cb18cfegrape|r"}
+n["@Ap3x IRISH"] = {"Ap3x IRISH", "|ccafb00A|r|ccfdf1cp|r|cd5c3383|r|cdaa754x|r |ce5708cI|r|cea54a8R|r|cef38c4I|r|cf51ce0S|r|cfa00fcH|r"}
