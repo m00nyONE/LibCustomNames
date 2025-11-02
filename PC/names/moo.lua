@@ -61,6 +61,7 @@ n["@Drachilo"] = {"Drachilo", "|c12acffD|r|c24b4ffr|r|c36bbffa|r|c48c2ffc|r|c59c
 n["@snowiii"] = {"snowiii", "|cece5fbs|r|cd9d9fbn|r|cc6cefco|r|cb3c3fdw|r|ca0b8fei|r|c8dacfei|r|c7aa1ffi|r |t20:20:/esoui/art/castbar/castbar_leadingedge_efx.dds|t"}
 n["@TimistGOTT"] = {"Timso", "|c7900ffT|r|c9300ffi|r|cac00ffm|r|cc600ffs|r|ce000ffo|r |t20:20:/esoui/art/castbar/castbar_leadingedge_efx.dds|t"}
 n["@Ermsi"] = {"Ermsi", "|cc9f9c6E|r|c9cf397r|r|c6eed68m|r|c41e739s|r|c14e10ai|r"}
+n["@RayRegiCide"] = {"Ray", "|c0c941eR|r|c06a038a|r|c00ad53y|r |t20:20:/esoui/art/castbar/castbar_leadingedge_efx.dds|t"}
 n["@NovaPixel"] = {"Nova", "|cdda140N|r|cbb6b80o|r|c9936bfv|r|c7700ffa|r"}
 n["@Dolgubon"] = {"Dolgubon", "|cDABD01Dolgubon|r"}
 n["@Magiermaedchen"] = n["@Magiermädchen"]

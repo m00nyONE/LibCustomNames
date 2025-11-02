@@ -508,7 +508,6 @@ n["@File2606"] = {"File", "|c0d8319F|r|c13972ai|r|c18ab3cl|r|c1dbf4de|r"}
 n["@KatLynx"] = {"KatLynx", "|ce424c4K|r|cca3bcda|r|caf52d7t|r|c9468e0L|r|c797feay|r|c5f96f3n|r|c44adfdx|r"}
 n["@Sacmai"] = {"Sacmai", "|cd53bebS|r|caa62eca|r|c808aecc|r|c55b1ecm|r|c2bd8eda|r|c00ffedi|r"}
 n["@eliasnollnollett"] = {"eliasnollnollett", "|cff9c00eliasnollnollett|r"}
-n["@RayRegiCide"] = {"Ray", "|c0c941eR|r|c06a038a|r|c00ad53y|r"}
 n["@ylinalta"] = {"Ylinalta", "|cd337ffY|r|cda53ffl|r|ce070ffi|r|ce68dffn|r|ceca9ffa|r|cf3c6ffl|r|cf9e2fft|r|cffffffa|r"}
 n["@Talline"] = {"Talline", "|cfb9924T|r|cf78049a|r|cf3666dl|r|cee4d92l|r|cea33b6i|r|ce61adbn|r|ce200ffe|r"}
 n["@younguitar"] = {"younguitar", "|cfa81c6y|r|cfa81c6o|r|cfa81c6u|r|cfa81c6n|r|cfa81c6g|r|cfa81c6u|r|cfa81c6i|r|cfa81c6t|r|cfa81c6a|r|cfa81c6r|r"}
