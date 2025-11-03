@@ -273,3 +273,4 @@ n["@Neifary"] = {"Neifary", "|c9dcda1N|r|ca4c6a4e|r|cabbfa7i|r|cb3b9aaf|r|cbab2a
 n["@Crocoenjoyer"] = {"Crocoenjoyer", "|c645437C|r|c6c6345r|r|c757353o|r|c7e8261c|r|c86926fo|r|c8fa27ee|r|c98b18cn|r|ca0c19aj|r|ca9d0a8o|r|cb2e0b6y|r|cbaefc4e|r|cc3ffd2r|r"}
 n["@Nala-78"] = {"Nala-78", "|cdf36d7N|r|cbf3ddda|r|c9f44e4l|r|c804beba|r|c6052f2-|r|c4059f87|r|c2060ff8|r"}
 n["@Aries13th"] = {"Aries13th", "|cff4800A|r|cff5800r|r|cff7100i|r|cff8c00e|r|cff8c00s|r|cdddddd1|r|cdddddd3|r|cff8c00t|r|cff8c00h|r"}
+n["@xSHANNARAx"] = {"SHANNARA", "|cde8919S|r|ce39827H|r|ce7a734A|r|cecb642N|r|cf1c550N|r|cf6d45eA|r|cfae36bR|r|cfff279A|r"}
