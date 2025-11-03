@@ -1,9 +1,2 @@
--- SPDX-FileCopyrightText: 2025 m00nyONE
--- SPDX-License-Identifier: Artistic-2.0
-
-local lib_name = "LibCustomNames"
-local lib = _G[lib_name]
-local n = lib.GetNamesTable()
-
 n["@NooobzBeHatln"] = {"Nooobz", "|c5fc461N|r|c7c9d81o|r|c9876a0o|r|cb54ec0o|r|cd127dfb|r|cee00ffz|r"}
 n["@PandaX420"] = {"CANCERBOY", "|c00cd59C|r|c20c54fa|r|c40bc45n|r|c60b43bc|r|c80ab31e|r|c9fa326r|r|cbf9a1cB|r|cdf9212o|r|cff8908y|r"}
