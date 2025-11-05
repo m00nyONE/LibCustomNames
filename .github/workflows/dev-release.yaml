@@ -1,4 +1,4 @@
-name: Dev Release
+name: Release (Dev)
 
 on:
   push:
@@ -8,42 +8,38 @@ on:
 jobs:
   test:
     uses: ./.github/workflows/_tests.yml
-  test-pc:
-    uses: ./.github/workflows/_tests_pc.yml
-  test-console:
-    uses: ./.github/workflows/_tests_console.yml
+
   release:
-    if: github.repository_owner == 'm00nyONE'
     name: "dev release"
     runs-on: ubuntu-latest
     permissions: write-all
-    needs: [ 'test', 'test-pc', 'test-console' ]
+    needs: [ 'test' ]
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: get repo name
-        run: echo "REPO_NAME=${{ github.event.repository.name }}" >> $GITHUB_ENV
+      - name: Get repo name
+        run: echo "REPO_NAME=${{ github.event.repository.name }}" >> "$GITHUB_ENV"
 
       - name: Get current year, month and day
         run: |
-          echo "BUILD_DATE_YEAR=$(date -u +'%Y')" >> $GITHUB_ENV
-          echo "BUILD_DATE_MONTH=$(date -u +'%m')" >> $GITHUB_ENV
-          echo "BUILD_DATE_DAY=$(date -u +'%d')" >> $GITHUB_ENV
-          echo "BUILD_DATE_NUMBER=$(date +'%Y%m%d')" >> $GITHUB_ENV
-          echo "BUILD_DATE_WITH_DOT=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
-          echo "BUILD_DATE_WITH_HYPHEN=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "BUILD_DATE_YEAR=$(date -u +'%Y')" >> "$GITHUB_ENV"
+          echo "BUILD_DATE_MONTH=$(date -u +'%m')" >> "$GITHUB_ENV"
+          echo "BUILD_DATE_DAY=$(date -u +'%d')" >> "$GITHUB_ENV"
+          echo "BUILD_DATE_NUMBER=$(date +'%Y%m%d')" >> "$GITHUB_ENV"
+          echo "BUILD_DATE_WITH_DOT=$(date +'%Y.%m.%d')" >> "$GITHUB_ENV"
+          echo "BUILD_DATE_WITH_HYPHEN=$(date +'%Y-%m-%d')" >> "$GITHUB_ENV"
 
       - name: Create env variables
         run: |
           addon_name="${{ env.REPO_NAME }}"
           version="${{ env.BUILD_DATE_WITH_HYPHEN }}-dev"
-          
-          echo "ADDON_NAME=$addon_name" >> $GITHUB_ENV
-          echo "ADDON_VERSION=$version" >> $GITHUB_ENV
-          
-          echo "ZIP_FULL_NAME_PC=${addon_name}-${version}-pc.zip" >> $GITHUB_ENV
-          echo "ZIP_FULL_NAME_CONSOLE=${addon_name}-${version}-console.zip" >> $GITHUB_ENV
+
+          echo "ADDON_NAME=$addon_name" >> "$GITHUB_ENV"
+          echo "ADDON_VERSION=$version" >> "$GITHUB_ENV"
+
+          echo "ZIP_FULL_NAME_PC=${addon_name}-${version}-pc.zip" >> "$GITHUB_ENV"
+          echo "ZIP_FULL_NAME_CONSOLE=${addon_name}-${version}-console.zip" >> "$GITHUB_ENV"
 
       - name: Replace placeholders with current date
         run: |
@@ -56,24 +52,24 @@ jobs:
           REPO_FOLDER=$(pwd)
           TMP_FOLDER_PC="/tmp/pc/${{ env.ADDON_NAME }}"
           TMP_FOLDER_CONSOLE="/tmp/console/${{ env.ADDON_NAME }}"
-          
+
           # Define the path to the ignore pattern file
           ignore_file=".build-ignore"
-          
+
           # Read and process ignore patterns into a single line
           exclude_patterns=$(cat "$ignore_file" | awk '{print "--exclude " $0}' | tr '\n' ' ')
-          
+
           # Make folder and copy content for PC
           mkdir -p $TMP_FOLDER_PC
           rsync -a --quiet $exclude_patterns --exclude "Console" "$REPO_FOLDER/" "$TMP_FOLDER_PC/"
-          
+
           # Make folder and copy content for Console
           mkdir -p $TMP_FOLDER_CONSOLE
           rsync -a --quiet $exclude_patterns --exclude "PC" "$REPO_FOLDER/" "$TMP_FOLDER_CONSOLE/"
-          
+
            # create zip for PC
           (cd /tmp/pc && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_PC }}" "${{ env.ADDON_NAME }}")
-          
+
           # create zip for Console
           (cd /tmp/console && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_CONSOLE }}" "${{ env.ADDON_NAME }}")
 
@@ -81,6 +77,16 @@ jobs:
         run: |
           awk '/^## / { if (!found) { found=1; print; next } else { exit } } found' CHANGELOG.md > latest_changes.md
           cat latest_changes.md
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v5
+        with:
+          name: releases
+          path: |
+            ${{ env.ZIP_FULL_NAME_PC }}
+            ${{ env.ZIP_FULL_NAME_CONSOLE }}
+            latest_changes.md
+          retention-days: 7
 
       - name: Create GitHub Release
         uses: ncipollo/release-action@v1
@@ -92,15 +98,28 @@ jobs:
           artifactContentType: application/zip
           bodyFile: latest_changes.md
           allowUpdates: true
-          makeLatest: true
           prerelease: true
           updateOnlyUnreleased: true
 
-      - name: Test Upload to ESOUI
+      - name: Check ESOUI secrets
+        id: check_eso_secrets
+        run: |
+          if [ -z "${{ secrets.ESOUI_ADDON_ID }}" ] || \
+             [ -z "${{ secrets.ESOUI_API_KEY }}" ];
+          then
+            echo "::warning::⚠️ ESOUI secrets are not set. Skip upload."
+            echo "valid=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ESOUI secrets are set"
+            echo "valid=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Test upload [PC] version to ESOUI
+        if: ${{ steps.check_eso_secrets.outputs.valid == 'true' }}
         uses: m00nyONE/esoui-upload@main
         with:
+          addon_id: ${{ secrets.ESOUI_ADDON_ID }}
           api_key: ${{ secrets.ESOUI_API_KEY }}
-          addon_id: '4155'
           version: ${{ env.ADDON_VERSION }}
           zip_file: ${{ env.ZIP_FULL_NAME_PC }}
           changelog_file: 'CHANGELOG.md'
