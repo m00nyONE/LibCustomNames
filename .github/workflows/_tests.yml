@@ -1,6 +1,7 @@
 name: Tests
 on:
   workflow_call:
+
 jobs:
   missing-includes:
     runs-on: ubuntu-latest
@@ -10,6 +11,7 @@ jobs:
       - name: Check for missing includes in LibCustomIcons.addon
         run: |
           python3 .github/scripts/tests/check-includes.py .
+
   syntax-check:
     runs-on: ubuntu-latest
     steps:
@@ -29,3 +31,12 @@ jobs:
           chmod +x emmylua_check
 
           ./emmylua_check ./PC/names ./Console/names
+
+  test-names:
+    name: ${{ matrix.path }}
+    uses: ./.github/workflows/_tests_path.yml
+    strategy:
+      matrix:
+        path: [ 'PC', 'Console' ]
+    with:
+      NAMES_PATH: "${{ matrix.path }}/names"

@@ -7,9 +7,5 @@ on:
   pull_request:
 
 jobs:
-  tests:
+  test:
     uses: ./.github/workflows/_tests.yml
-  console-tests:
-    uses: ./.github/workflows/_tests_console.yml
-  tests-pc:
-    uses: ./.github/workflows/_tests_pc.yml
