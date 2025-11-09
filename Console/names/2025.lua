@@ -55,3 +55,4 @@ n["@xSeenze"] = {"Seenze", "|c0061feSe|r|cffffffen|r|cff3a30ze|r"}
 n["@KhemsaPhenomene"] = {"Khemsa", "|c00ff00Khemsa|r"}
 n["@lunadis"] = {"lunadis", "|cff0000Lu|r|cffff00na|r|cff0000dis|r"}
 n["@Lippi1606"] = {"Lippi1606", "|c000000Lip|r|cff0000pi1|r|cffff00606|r"}
+n["@M0n_IKeY_D_R4V3N"] = {"モンキー・D・レイブン", "|cff0000モンキー|r|cffffff・D・|r|cff0000レイブン|r"}
