@@ -276,4 +276,5 @@ n["@Aries13th"] = {"Aries13th", "|cff4800A|r|cff5800r|r|cff7100i|r|cff8c00e|r|cf
 n["@FairyMori"] = {"FairyMori", "|cffcd33F|r|cffd238a|r|cffd73ei|r|cffdc44r|r|cffe249y|r|cffe74fM|r|cffec55o|r|cfff15ar|r|cfff660i|r"}
 n["@xSHANNARAx"] = {"SHANNARA", "|cde8919S|r|ce39827H|r|ce7a734A|r|cecb642N|r|cf1c550N|r|cf6d45eA|r|cfae36bR|r|cfff279A|r"}
 n["@TheElusiveBread"] = {"ElusiveBread", "|c0000ffE|r|c0017ffl|r|c002effu|r|c0046ffs|r|c005dffi|r|c0074ffv|r|c008bffe|r|c00a2ffB|r|c00b9ffr|r|c00d1ffe|r|c00e8ffa|r|c00ffffd|r"}
-
+n["@Painkileuse"] = {"Painkileuse", "|c00f5a1P|r|c00ebaba|r|c00e2b4i|r|c00d8bdn|r|c00cec7k|r|c00c4d0i|r|c00badal|r|c00b0e3e|r|c00a7ecu|r|c009df6s|r|c0093ffe|r"}
+n["@M.Berlingot"] = {"M.Berlingot", "|cecfbffM|r|cd9f8ff.|r|cc6f4ffB|r|cb3f1ffe|r|ca0edffr|r|c8ceaffl|r|c79e6ffi|r|c66e3ffn|r|c53dfffg|r|c40dcffo|r|c2dd8fft|r"}
