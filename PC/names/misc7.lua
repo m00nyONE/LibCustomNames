@@ -278,3 +278,4 @@ n["@xSHANNARAx"] = {"SHANNARA", "|cde8919S|r|ce39827H|r|ce7a734A|r|cecb642N|r|cf
 n["@TheElusiveBread"] = {"ElusiveBread", "|c0000ffE|r|c0017ffl|r|c002effu|r|c0046ffs|r|c005dffi|r|c0074ffv|r|c008bffe|r|c00a2ffB|r|c00b9ffr|r|c00d1ffe|r|c00e8ffa|r|c00ffffd|r"}
 n["@Painkileuse"] = {"Painkileuse", "|c00f5a1P|r|c00ebaba|r|c00e2b4i|r|c00d8bdn|r|c00cec7k|r|c00c4d0i|r|c00badal|r|c00b0e3e|r|c00a7ecu|r|c009df6s|r|c0093ffe|r"}
 n["@M.Berlingot"] = {"M.Berlingot", "|cecfbffM|r|cd9f8ff.|r|cc6f4ffB|r|cb3f1ffe|r|ca0edffr|r|c8ceaffl|r|c79e6ffi|r|c66e3ffn|r|c53dfffg|r|c40dcffo|r|c2dd8fft|r"}
+n["@Kolakses"] = {"Kolakses", "|cb11fffK|r|c983effo|r|c7e5dffl|r|c657cffa|r|c4c9bffk|r|c33baffs|r|c19d9ffe|r|c00f8ffs|r"}
