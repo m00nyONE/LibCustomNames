@@ -279,3 +279,5 @@ n["@TheElusiveBread"] = {"ElusiveBread", "|c0000ffE|r|c0017ffl|r|c002effu|r|c004
 n["@Painkileuse"] = {"Painkileuse", "|c00f5a1P|r|c00ebaba|r|c00e2b4i|r|c00d8bdn|r|c00cec7k|r|c00c4d0i|r|c00badal|r|c00b0e3e|r|c00a7ecu|r|c009df6s|r|c0093ffe|r"}
 n["@M.Berlingot"] = {"M.Berlingot", "|cecfbffM|r|cd9f8ff.|r|cc6f4ffB|r|cb3f1ffe|r|ca0edffr|r|c8ceaffl|r|c79e6ffi|r|c66e3ffn|r|c53dfffg|r|c40dcffo|r|c2dd8fft|r"}
 n["@Kolakses"] = {"Kolakses", "|cb11fffK|r|c983effo|r|c7e5dffl|r|c657cffa|r|c4c9bffk|r|c33baffs|r|c19d9ffe|r|c00f8ffs|r"}
+n["@DeathMac420"] = {"DeathMac420", "|cffcc01D|r|cffc202e|r|cffb703a|r|cffac04t|r|cffa105h|r|cff9707M|r|cff8c08a|r|cff8109c|r|cff760a4|r|cff6c0b2|r|cff610c0|r"}
+n["@Kethmac420"] = {"Kethmac420", "|c06cfffK|r|c0ac6ffe|r|c0dbcfft|r|c10b3ffh|r|c13a9ffm|r|c16a0ffa|r|c1996ffc|r|c1d8dff4|r|c2083ff2|r|c237aff0|r"}
