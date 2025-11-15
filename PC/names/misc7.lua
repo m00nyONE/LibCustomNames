@@ -281,3 +281,7 @@ n["@M.Berlingot"] = {"M.Berlingot", "|cecfbffM|r|cd9f8ff.|r|cc6f4ffB|r|cb3f1ffe|
 n["@Kolakses"] = {"Kolakses", "|cb11fffK|r|c983effo|r|c7e5dffl|r|c657cffa|r|c4c9bffk|r|c33baffs|r|c19d9ffe|r|c00f8ffs|r"}
 n["@DeathMac420"] = {"DeathMac420", "|cffcc01D|r|cffc202e|r|cffb703a|r|cffac04t|r|cffa105h|r|cff9707M|r|cff8c08a|r|cff8109c|r|cff760a4|r|cff6c0b2|r|cff610c0|r"}
 n["@Kethmac420"] = {"Kethmac420", "|c06cfffK|r|c0ac6ffe|r|c0dbcfft|r|c10b3ffh|r|c13a9ffm|r|c16a0ffa|r|c1996ffc|r|c1d8dff4|r|c2083ff2|r|c237aff0|r"}
+n["@Scartha_Morin"] = {"Scartha", "|cbe24efS|r|c9f49f1c|r|c7f6df2a|r|c5f92f4r|r|c3fb6f5t|r|c20dbf7h|r|c00fff8a|r"}
+n["@supershdow"] = {"Supershdow", "|c390002S|r|c470004u|r|c550005p|r|c630007e|r|c720008r|r|c800009s|r|c8e000bh|r|c9c000cd|r|caa000eo|r|cb8000fw|r"}
+n["@RedLeader99"] = {"RedLeader99", "|c3dffdaR|r|c50ffd1e|r|c62ffc9d|r|c74ffc1L|r|c86ffb8e|r|c99ffb0a|r|cabffa7d|r|cbdff9fe|r|ccfff97r|r|ce2ff8e9|r|cf4ff869|r"}
+n["@Eredthelion"] = {"Eredthelion", "|c0fead3E|r|c1ed5d8r|r|c2dc0dce|r|c3cabe0d|r|c4b96e5t|r|c5b82e9h|r|c6a6deee|r|c7958f2l|r|c8843f6i|r|c972efbo|r|ca619ffn|r"}
