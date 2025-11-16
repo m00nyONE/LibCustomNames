@@ -17,7 +17,7 @@ jobs:
     name: "dev release"
     runs-on: ubuntu-latest
     permissions: write-all
-    needs: [ 'test' ]
+    needs: [ 'test', 'test-pc', 'test-console' ]
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
