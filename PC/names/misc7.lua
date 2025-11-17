@@ -288,4 +288,4 @@ n["@PartialEthos"] = {"Ethos", "|c008162E|r|c008552t|r|c008841h|r|c008c31o|r|c00
 n["@Simondu0"] = {"Simondunull", "|cff1301S|r|cff2601i|r|cff3901m|r|cff4c01o|r|cff5f01n|r|cff7300d|r|cff8600u|r|cff9900n|r|cffac00u|r|cffbf00l|r|cffd200l|r"}
 n["@LadyDesire"] = {"LadyDesire", "|cff00a3LadyDesire|r"}
 n["@Eredthelion"] = {"Eredthelion", "|c0fead3E|r|c1ed5d8r|r|c2dc0dce|r|c3cabe0d|r|c4b96e5t|r|c5b82e9h|r|c6a6deee|r|c7958f2l|r|c8843f6i|r|c972efbo|r|ca619ffn|r"}
-n["@Lord_Asteroth"] = {"Asteroth", "|ca0015bAsteroth|r"}
+n["@Lord_Asteroth"] = {"Asteroth", "|cb484ffAsteroth|r"}
