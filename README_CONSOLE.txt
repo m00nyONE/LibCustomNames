@@ -20,8 +20,7 @@ Want to be featured with your own custom name?
 How to participate:
 
 If you know how to code, you can always create a Pull-Request on https://github.com/m00nyONE/LibCustomNames
-If you need help and have a bit of gold to spare, you can donate 1M to the following helpers and they will do it for you:
 
-XBOX-NA: @YoZoPoClo --  Requests are accepted in-game only :)
+If you need help, just join this Discord Server: https://discord.gg/8YpvXJhAyz and there is a volunteer who will help you get your custom name .-)
 
-This helps support development and keeps the ESO addon ecosystem fun and alive!
+If you are willing to create custom names for people who do not know how todo it themselves, hit me up on Discord. I'm currently searching for some Volunteers who want to do that for their specific Platform/Region.
