@@ -1,0 +1,44 @@
+name: Check Changes Since Last Release
+on:
+  workflow_call:
+    outputs:
+      has_changes:
+        description: 'Whether relevant file changes have occurred since the last release'
+        value: ${{ jobs.check-for-changes.outputs.has_changes }}
+jobs:
+  check-for-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.check_changes.outputs.has_changes }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check for changes since last release
+        id: check_changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "🔍 Checking for changes since the last release..."
+          REPO="$GITHUB_REPOSITORY"
+          LAST_RELEASE_TAG=$(gh api repos/${GITHUB_REPOSITORY}/releases/latest --jq .tag_name || echo "")
+          
+          if [ -z "$LAST_RELEASE_TAG" ] || [ "$LAST_RELEASE_TAG" = "null" ]; then
+            echo "⚠️ No previous release found, proceeding with release."
+            echo "should_release=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          echo "Last release tag: $LAST_RELEASE_TAG"
+          
+          git fetch --quiet --tags
+          CHANGED=$(git diff --name-only "$LAST_RELEASE_TAG" HEAD | grep -E '\.(lua|txt|md|xml|addon|dds)$' || true)
+          
+          if [ -z "$CHANGED" ]; then
+            echo "✅ No relevant file changes since $LAST_RELEASE_TAG."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "✅ Changes detected:"
+            echo "$CHANGED"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
