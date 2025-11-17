@@ -93,5 +93,5 @@ jobs:
           version: ${{ needs.create-addon-zip.outputs.addon_version }}
           zip_file: ${{ needs.create-addon-zip.outputs.zip_pc }}
           changelog_file: 'CHANGELOG.md'
-          #description_file: 'README_ESOUI.bbcode'
+          description_file: 'README_ESOUI.bbcode'
           test: true

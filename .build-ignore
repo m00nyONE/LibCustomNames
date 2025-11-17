@@ -2,7 +2,7 @@
 .github
 .gitignore
 .build-ignore
-README_ESOUI.txt
+README_ESOUI.bbcode
 README_CONSOLE.txt
 docs-lua
 docs-md

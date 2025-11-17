@@ -4,7 +4,7 @@ LibCustomNames is a lightweight library for ESO that allows custom names for pla
 
 - description:
 
-Whether you're a streamer, guild leader, or just want to stand out with a personalized name, this library gives you that little touch of customization â€” shared across all supported addons.
+Whether you're a streamer, guild leader, or just want to stand out with a personalized name, this library gives you that little touch of customization - shared across all supported addons.
 
 Features
 
