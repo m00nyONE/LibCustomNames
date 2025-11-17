@@ -6,18 +6,21 @@ on:
       - main
 
 jobs:
-  test:
-    uses: ./.github/workflows/_tests.yml
+  test-general:
+    uses: ./.github/workflows/_tests_general.yml
   test-pc:
-    uses: ./.github/workflows/_tests_pc.yml
+    uses: ./.github/workflows/_tests_platform.yml
+    with:
+      NAMES_PATH: PC/names
   test-console:
-    uses: ./.github/workflows/_tests_console.yml
+    uses: ./.github/workflows/_tests_platform.yml
+    with:
+      NAMES_PATH: Console/names
   release:
-    if: github.repository_owner == 'm00nyONE'
     name: "dev release"
     runs-on: ubuntu-latest
     permissions: write-all
-    needs: [ 'test', 'test-pc', 'test-console' ]
+    needs: [ 'test-general', 'test-pc', 'test-console' ]
     steps:
       - name: Check out repository
         uses: actions/checkout@v4

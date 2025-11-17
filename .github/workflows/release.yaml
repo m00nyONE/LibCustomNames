@@ -1,4 +1,4 @@
-name: ESOUI Release
+name: Release
 
 on:
   workflow_dispatch:
@@ -7,15 +7,19 @@ on:
     - cron: "15 22 * * 0"
 
 jobs:
-  test:
+  test-general:
     if: github.repository_owner == 'm00nyONE'
-    uses: ./.github/workflows/_tests.yml
+    uses: ./.github/workflows/_tests_general.yml
   test-pc:
     if: github.repository_owner == 'm00nyONE'
-    uses: ./.github/workflows/_tests_pc.yml
+    uses: ./.github/workflows/_tests_platform.yml
+    with:
+      NAMES_PATH: PC/names
   test-console:
     if: github.repository_owner == 'm00nyONE'
-    uses: ./.github/workflows/_tests_console.yml
+    uses: ./.github/workflows/_tests_platform.yml
+    with:
+      NAMES_PATH: Console/names
   docs:
     if: github.repository_owner == 'm00nyONE'
     uses: ./.github/workflows/_generate-docs.yml
@@ -26,7 +30,7 @@ jobs:
     name: "release"
     runs-on: ubuntu-latest
     permissions: write-all
-    needs: [ 'test', 'test-pc', 'test-console' ]
+    needs: [ 'test-general', 'test-pc', 'test-console' ]
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
