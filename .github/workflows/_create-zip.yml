@@ -87,11 +87,11 @@ jobs:
 
           # Make folder and copy content for PC
           mkdir -p $TMP_FOLDER_PC
-          rsync -a --quiet $exclude_patterns --exclude "*/Console/" "$REPO_FOLDER/" "$TMP_FOLDER_PC/"
+          rsync -a --quiet $exclude_patterns --exclude "Console/" "$REPO_FOLDER/" "$TMP_FOLDER_PC/"
 
           # Make folder and copy content for Console
           mkdir -p $TMP_FOLDER_CONSOLE
-          rsync -a --quiet $exclude_patterns --exclude "*/PC/" "$REPO_FOLDER/" "$TMP_FOLDER_CONSOLE/"
+          rsync -a --quiet $exclude_patterns --exclude "PC/" "$REPO_FOLDER/" "$TMP_FOLDER_CONSOLE/"
 
           # create zip for a combined package
           (cd /tmp/multi && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_MULTI }}" "${{ env.ADDON_NAME }}")
