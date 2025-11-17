@@ -10,19 +10,19 @@ jobs:
   check-for-changes:
     uses: ./.github/workflows/_check-changes.yml
   test-general:
-    if: jobs.check-for-changes.outputs.has_changes == 'true'
+    if: needs.check-for-changes.outputs.has_changes == 'true'
     uses: ./.github/workflows/_tests-general.yml
     needs:
       - check-for-changes
   test-pc:
-    if: jobs.check-for-changes.outputs.has_changes == 'true'
+    if: needs.check-for-changes.outputs.has_changes == 'true'
     uses: ./.github/workflows/_tests-platform.yml
     needs:
       - check-for-changes
     with:
       NAMES_PATH: PC/names
   test-console:
-    if: jobs.check-for-changes.outputs.has_changes == 'true'
+    if: needs.check-for-changes.outputs.has_changes == 'true'
     uses: ./.github/workflows/_tests-platform.yml
     needs:
       - check-for-changes
