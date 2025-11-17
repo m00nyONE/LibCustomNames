@@ -9,15 +9,15 @@ on:
 jobs:
   test-general:
     if: github.repository_owner == 'm00nyONE'
-    uses: _tests-general.yml
+    uses: ./.github/workflows/_tests-general.yml
   test-pc:
     if: github.repository_owner == 'm00nyONE'
-    uses: _tests-platform.yml
+    uses: ./.github/workflows/_tests-platform.yml
     with:
       NAMES_PATH: PC/names
   test-console:
     if: github.repository_owner == 'm00nyONE'
-    uses: _tests-platform.yml
+    uses: ./.github/workflows/_tests-platform.yml
     with:
       NAMES_PATH: Console/names
   docs:

@@ -18,6 +18,10 @@ jobs:
       NAMES_PATH: Console/names
   create-release-notes:
     uses: ./.github/workflows/_create-release-notes.yml
+    needs:
+      - test-general
+      - test-pc
+      - test-console
   create-addon-zip:
     uses: ./.github/workflows/_create-zip.yml
     with:
