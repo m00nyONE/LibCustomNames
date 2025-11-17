@@ -1,0 +1,19 @@
+name: Test
+
+on:
+  push:
+    branches-ignore:
+      - main
+  pull_request:
+
+jobs:
+  test-general:
+    uses: ./.github/workflows/_tests_general.yml
+  test-pc:
+    uses: ./.github/workflows/_tests_platform.yml
+    with:
+      NAMES_PATH: PC/names
+  test-console:
+    uses: ./.github/workflows/_tests_platform.yml
+    with:
+      NAMES_PATH: Console/names

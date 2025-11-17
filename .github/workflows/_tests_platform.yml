@@ -1,15 +1,11 @@
-name: Tests
+name: Tests (Platform)
 on:
   workflow_call:
+    inputs:
+      NAMES_PATH:
+        required: true
+        type: string
 jobs:
-  missing-includes:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-      - name: Check for missing includes in LibCustomIcons.addon
-        run: |
-          python3 .github/scripts/tests/check-includes.py .
   syntax-check:
     runs-on: ubuntu-latest
     steps:
@@ -28,4 +24,16 @@ jobs:
           tar -xzf emmylua_check-linux-x64.tar.gz
           chmod +x emmylua_check
 
-          ./emmylua_check ./PC/names ./Console/names
+          ./emmylua_check ${{ inputs.NAMES_PATH }}
+  check-duplicates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for duplicate definitions
+        run: python3 .github/scripts/tests/check-duplicates.py ${{ inputs.NAMES_PATH }}
+  check-color-formatting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for correct formatting of colored name strings
+        run: python3 .github/scripts/tests/check-color-formatting.py ${{ inputs.NAMES_PATH }}

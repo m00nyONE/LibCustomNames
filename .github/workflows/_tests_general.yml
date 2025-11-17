@@ -1,0 +1,12 @@
+name: Tests (General)
+on:
+  workflow_call:
+jobs:
+  missing-includes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Check for missing includes in LibCustomNames.addon
+        run: |
+          python3 .github/scripts/tests/check-includes.py .
