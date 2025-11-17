@@ -1,0 +1,31 @@
+name: Create Release Notes
+on:
+  workflow_call:
+    outputs:
+      release_notes:
+        description: 'The name of the generated release notes file'
+        value: ${{ jobs.create-release-notes.outputs.release_notes }}
+jobs:
+  create-release-notes:
+    runs-on: ubuntu-latest
+    outputs:
+      release_notes: ${{ steps.set_outputs.outputs.release_notes }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Extract latest changelog entry
+        run: |
+          awk '/^## / { if (!found) { found=1; print; next } else { exit } } found' CHANGELOG.md > RELEASE_NOTES.md
+          cat RELEASE_NOTES.md
+
+      - name: Upload Release Notes
+        uses: actions/upload-artifact@v4
+        with:
+          name: RELEASE_NOTES.md
+          path: RELEASE_NOTES.md
+
+      - name: Set outputs
+        id: set_outputs
+        run: |
+          echo "release_notes=RELEASE_NOTES.md" >> $GITHUB_OUTPUT

@@ -1,0 +1,130 @@
+name: Create ZIP Files
+on:
+  workflow_call:
+    inputs:
+      dev_version:
+        required: false
+        type: boolean
+        default: false
+    outputs:
+      zip_multi:
+        description: 'The name of the created multi ZIP file'
+        value: ${{ jobs.create-addon-zip.outputs.zip_multi }}
+      zip_pc:
+        description: 'The name of the created PC ZIP file'
+        value: ${{ jobs.create-addon-zip.outputs.zip_pc }}
+      zip_console:
+        description: 'The name of the created Console ZIP file'
+        value: ${{ jobs.create-addon-zip.outputs.zip_console }}
+      addon_name:
+        description: 'The name of the addon'
+        value: ${{ jobs.create-addon-zip.outputs.addon_name }}
+      addon_version:
+        description: 'The version of the addon'
+        value: ${{ jobs.create-addon-zip.outputs.addon_version }}
+jobs:
+  create-addon-zip:
+    runs-on: ubuntu-latest
+    outputs:
+      zip_multi: ${{ steps.set_outputs.outputs.zip_multi }}
+      zip_pc: ${{ steps.set_outputs.outputs.zip_pc }}
+      zip_console: ${{ steps.set_outputs.outputs.zip_console }}
+      addon_name: ${{ steps.set_outputs.outputs.addon_name }}
+      addon_version: ${{ steps.set_outputs.outputs.addon_version }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: get repo name
+        run: echo "REPO_NAME=${{ github.event.repository.name }}" >> $GITHUB_ENV
+
+      - name: Get current year, month and day
+        run: |
+          echo "BUILD_DATE_YEAR=$(date -u +'%Y')" >> $GITHUB_ENV
+          echo "BUILD_DATE_MONTH=$(date -u +'%m')" >> $GITHUB_ENV
+          echo "BUILD_DATE_DAY=$(date -u +'%d')" >> $GITHUB_ENV
+          echo "BUILD_DATE_NUMBER=$(date +'%Y%m%d')" >> $GITHUB_ENV
+          echo "BUILD_DATE_WITH_DOT=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
+          echo "BUILD_DATE_WITH_HYPHEN=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Create env variables
+        run: |
+          addon_name="${{ env.REPO_NAME }}"
+          version="${{ env.BUILD_DATE_WITH_HYPHEN }}"
+          if [ "${{ inputs.dev_version }}" = "true" ]; then
+            version="${version}-dev"
+          fi
+
+          echo "ADDON_NAME=$addon_name" >> $GITHUB_ENV
+          echo "ADDON_VERSION=$version" >> $GITHUB_ENV
+
+          echo "ZIP_FULL_NAME_MULTI=${addon_name}-${version}-multi.zip" >> $GITHUB_ENV
+          echo "ZIP_FULL_NAME_PC=${addon_name}-${version}-pc.zip" >> $GITHUB_ENV
+          echo "ZIP_FULL_NAME_CONSOLE=${addon_name}-${version}-console.zip" >> $GITHUB_ENV
+
+      - name: Replace placeholders with current date
+        run: |
+          sed -i "s/version = \"dev\"/version = \"${{ env.ADDON_VERSION }}\"/g" ${{ env.ADDON_NAME }}.lua
+          sed -i "s/## Version: dev/## Version: ${{ env.ADDON_VERSION }}/g" ${{ env.ADDON_NAME }}.addon
+          sed -i "s/## AddOnVersion: 99999999/## AddOnVersion: ${{ env.BUILD_DATE_NUMBER }}/g" ${{ env.ADDON_NAME }}.addon
+
+      - name: Create ZIP archives
+        run: |
+          REPO_FOLDER=$(pwd)
+          TMP_FOLDER_MULTI="/tmp/multi/${{ env.ADDON_NAME }}"
+          TMP_FOLDER_PC="/tmp/pc/${{ env.ADDON_NAME }}"
+          TMP_FOLDER_CONSOLE="/tmp/console/${{ env.ADDON_NAME }}"
+
+          # Define the path to the ignore pattern file
+          ignore_file=".build-ignore"
+
+          # Read and process ignore patterns into a single line
+          exclude_patterns=$(cat "$ignore_file" | awk '{print "--exclude " $0}' | tr '\n' ' ')
+
+          # Make folder and copy content for all platforms
+          mkdir -p $TMP_FOLDER_MULTI
+          rsync -a --quiet $exclude_patterns "$REPO_FOLDER/" "$TMP_FOLDER_MULTI/"
+
+          # Make folder and copy content for PC
+          mkdir -p $TMP_FOLDER_PC
+          rsync -a --quiet $exclude_patterns --exclude "*/Console/" "$REPO_FOLDER/" "$TMP_FOLDER_PC/"
+
+          # Make folder and copy content for Console
+          mkdir -p $TMP_FOLDER_CONSOLE
+          rsync -a --quiet $exclude_patterns --exclude "*/PC/" "$REPO_FOLDER/" "$TMP_FOLDER_CONSOLE/"
+
+          # create zip for a combined package
+          (cd /tmp/multi && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_MULTI }}" "${{ env.ADDON_NAME }}")
+
+          # create zip for PC
+          (cd /tmp/pc && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_PC }}" "${{ env.ADDON_NAME }}")
+
+          # create zip for Console
+          (cd /tmp/console && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_CONSOLE }}" "${{ env.ADDON_NAME }}")
+
+      - name: Upload ZIP Multi
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.ZIP_FULL_NAME_MULTI }}
+          path: ${{ env.ZIP_FULL_NAME_MULTI }}
+
+      - name: Upload ZIP PC
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.ZIP_FULL_NAME_PC }}
+          path: ${{ env.ZIP_FULL_NAME_PC }}
+
+      - name: Upload ZIP Console
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.ZIP_FULL_NAME_CONSOLE }}
+          path: ${{ env.ZIP_FULL_NAME_CONSOLE }}
+
+      - name: Set outputs
+        id: set_outputs
+        run: |
+          echo "zip_multi=${{ env.ZIP_FULL_NAME_MULTI }}" >> $GITHUB_OUTPUT
+          echo "zip_pc=${{ env.ZIP_FULL_NAME_PC }}" >> $GITHUB_OUTPUT
+          echo "zip_console=${{ env.ZIP_FULL_NAME_CONSOLE }}" >> $GITHUB_OUTPUT
+          echo "addon_name=${{ env.ADDON_NAME }}" >> $GITHUB_OUTPUT
+          echo "addon_version=${{ env.ADDON_VERSION }}" >> $GITHUB_OUTPUT

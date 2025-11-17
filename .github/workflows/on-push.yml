@@ -8,12 +8,12 @@ on:
 
 jobs:
   test-general:
-    uses: _tests-general.yml
+    uses: ./.github/workflows/_tests-general.yml
   test-pc:
-    uses: _tests-platform.yml
+    uses: ./.github/workflows/_tests-platform.yml
     with:
       NAMES_PATH: PC/names
   test-console:
-    uses: _tests-platform.yml
+    uses: ./.github/workflows/_tests-platform.yml
     with:
       NAMES_PATH: Console/names

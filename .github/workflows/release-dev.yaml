@@ -1,4 +1,4 @@
-name: Dev Release
+name: Release (Dev)
 
 on:
   push:
@@ -7,104 +7,87 @@ on:
 
 jobs:
   test-general:
-    uses: _tests-general.yml
+    uses: ./.github/workflows/_tests-general.yml
   test-pc:
-    uses: _tests-platform.yml
+    uses: ./.github/workflows/_tests-platform.yml
     with:
       NAMES_PATH: PC/names
   test-console:
-    uses: _tests-platform.yml
+    uses: ./.github/workflows/_tests-platform.yml
     with:
       NAMES_PATH: Console/names
-  release:
-    name: "dev release"
+  create-release-notes:
+    uses: ./.github/workflows/_create-release-notes.yml
+  create-addon-zip:
+    uses: ./.github/workflows/_create-zip.yml
+    with:
+      dev_version: true
+    needs:
+      - test-general
+      - test-pc
+      - test-console
+
+  create-github-release:
+    name: "Create Github Release"
     runs-on: ubuntu-latest
     permissions: write-all
-    needs: [ 'test-general', 'test-pc', 'test-console' ]
+    needs:
+      - create-addon-zip
+      - create-release-notes
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: get repo name
-        run: echo "REPO_NAME=${{ github.event.repository.name }}" >> $GITHUB_ENV
-
-      - name: Get current year, month and day
-        run: |
-          echo "BUILD_DATE_YEAR=$(date -u +'%Y')" >> $GITHUB_ENV
-          echo "BUILD_DATE_MONTH=$(date -u +'%m')" >> $GITHUB_ENV
-          echo "BUILD_DATE_DAY=$(date -u +'%d')" >> $GITHUB_ENV
-          echo "BUILD_DATE_NUMBER=$(date +'%Y%m%d')" >> $GITHUB_ENV
-          echo "BUILD_DATE_WITH_DOT=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
-          echo "BUILD_DATE_WITH_HYPHEN=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
-
-      - name: Create env variables
-        run: |
-          addon_name="${{ env.REPO_NAME }}"
-          version="${{ env.BUILD_DATE_WITH_HYPHEN }}-dev"
-          
-          echo "ADDON_NAME=$addon_name" >> $GITHUB_ENV
-          echo "ADDON_VERSION=$version" >> $GITHUB_ENV
-          
-          echo "ZIP_FULL_NAME_PC=${addon_name}-${version}-pc.zip" >> $GITHUB_ENV
-          echo "ZIP_FULL_NAME_CONSOLE=${addon_name}-${version}-console.zip" >> $GITHUB_ENV
-
-      - name: Replace placeholders with current date
-        run: |
-          sed -i "s/version = \"dev\"/version = \"${{ env.ADDON_VERSION }}\"/g" ${{ env.ADDON_NAME }}.lua
-          sed -i "s/## Version: dev/## Version: ${{ env.ADDON_VERSION }}/g" ${{ env.ADDON_NAME }}.addon
-          sed -i "s/## AddOnVersion: 99999999/## AddOnVersion: ${{ env.BUILD_DATE_NUMBER }}/g" ${{ env.ADDON_NAME }}.addon
-
-      - name: Create ZIP archive
-        run: |
-          REPO_FOLDER=$(pwd)
-          TMP_FOLDER_PC="/tmp/pc/${{ env.ADDON_NAME }}"
-          TMP_FOLDER_CONSOLE="/tmp/console/${{ env.ADDON_NAME }}"
-          
-          # Define the path to the ignore pattern file
-          ignore_file=".build-ignore"
-          
-          # Read and process ignore patterns into a single line
-          exclude_patterns=$(cat "$ignore_file" | awk '{print "--exclude " $0}' | tr '\n' ' ')
-          
-          # Make folder and copy content for PC
-          mkdir -p $TMP_FOLDER_PC
-          rsync -a --quiet $exclude_patterns --exclude "Console" "$REPO_FOLDER/" "$TMP_FOLDER_PC/"
-          
-          # Make folder and copy content for Console
-          mkdir -p $TMP_FOLDER_CONSOLE
-          rsync -a --quiet $exclude_patterns --exclude "PC" "$REPO_FOLDER/" "$TMP_FOLDER_CONSOLE/"
-          
-           # create zip for PC
-          (cd /tmp/pc && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_PC }}" "${{ env.ADDON_NAME }}")
-          
-          # create zip for Console
-          (cd /tmp/console && zip -r --quiet "$REPO_FOLDER/${{ env.ZIP_FULL_NAME_CONSOLE }}" "${{ env.ADDON_NAME }}")
-
-      - name: Extract latest changelog entry
-        run: |
-          awk '/^## / { if (!found) { found=1; print; next } else { exit } } found' CHANGELOG.md > latest_changes.md
-          cat latest_changes.md
+      - name: Download ZIP Multi
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ needs.create-addon-zip.outputs.zip_multi }}
+      - name: Download ZIP PC
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ needs.create-addon-zip.outputs.zip_pc }}
+      - name: Download ZIP Console
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ needs.create-addon-zip.outputs.zip_console }}
+      - name: Download Release Notes
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ needs.create-release-notes.outputs.release_notes }}
 
       - name: Create GitHub Release
         uses: ncipollo/release-action@v1
         with:
-          name: "${{ env.ADDON_VERSION }}"
+          name: "${{ needs.create-addon-zip.outputs.addon_version }}"
           commit: ${{ github.ref }}
-          tag: "${{ env.ADDON_VERSION }}"
-          artifacts: "${{ env.ZIP_FULL_NAME_PC }},${{ env.ZIP_FULL_NAME_CONSOLE }}"
+          tag: "${{ needs.create-addon-zip.outputs.addon_version }}"
+          artifacts: "${{ needs.create-addon-zip.outputs.zip_multi }},${{ needs.create-addon-zip.outputs.zip_pc }},${{ needs.create-addon-zip.outputs.zip_console }}"
           artifactContentType: application/zip
-          bodyFile: latest_changes.md
+          bodyFile: ${{ needs.create-release-notes.outputs.release_notes }}
           allowUpdates: true
           makeLatest: true
           prerelease: true
           updateOnlyUnreleased: true
 
-      - name: Test Upload to ESOUI
+  create-esoui-release:
+    name: "ESOUI Release (TEST)"
+    runs-on: ubuntu-latest
+    if: github.repository_owner == 'm00nyONE'
+    needs:
+      - create-addon-zip
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download ZIP PC
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ needs.create-addon-zip.outputs.zip_pc }}
+
+      - name: Upload to ESOUI (Test)
         uses: m00nyONE/esoui-upload@main
         with:
           api_key: ${{ secrets.ESOUI_API_KEY }}
           addon_id: '4155'
-          version: ${{ env.ADDON_VERSION }}
-          zip_file: ${{ env.ZIP_FULL_NAME_PC }}
+          version: ${{ needs.create-addon-zip.outputs.addon_version }}
+          zip_file: ${{ needs.create-addon-zip.outputs.zip_pc }}
           changelog_file: 'CHANGELOG.md'
+          #description_file: 'README_ESOUI.bbcode'
           test: true
