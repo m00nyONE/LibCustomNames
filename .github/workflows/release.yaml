@@ -106,7 +106,7 @@ jobs:
         uses: m00nyONE/esoui-upload@main
         with:
           api_key: ${{ secrets.ESOUI_API_KEY }}
-          addon_id: '4155'
+          addon_id: ${{ vars.ESOUI_ADDON_ID }}
           version: ${{ needs.create-addon-zip.outputs.addon_version }}
           zip_file: ${{ needs.create-addon-zip.outputs.zip_pc }}
           changelog_file: 'CHANGELOG.md'
@@ -134,7 +134,7 @@ jobs:
         with:
           BNET_USERNAME: ${{ secrets.BNET_USERNAME }}
           BNET_PASSWORD: ${{ secrets.BNET_PASSWORD }}
-          addon_id: "5eaa0d91-47f8-4c5e-8673-db3ab518a752"
+          addon_id: ${{ vars.BNET_ADDON_ID }}
           version: ${{ needs.create-addon-zip.outputs.addon_version }}
           zip_file: ${{ needs.create-addon-zip.outputs.zip_console }}
           release_notes_file: ${{ needs.create-release-notes.outputs.release_notes }}

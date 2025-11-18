@@ -89,7 +89,7 @@ jobs:
         uses: m00nyONE/esoui-upload@main
         with:
           api_key: ${{ secrets.ESOUI_API_KEY }}
-          addon_id: '4155'
+          addon_id: ${{ vars.ESOUI_ADDON_ID }}
           version: ${{ needs.create-addon-zip.outputs.addon_version }}
           zip_file: ${{ needs.create-addon-zip.outputs.zip_pc }}
           changelog_file: 'CHANGELOG.md'
