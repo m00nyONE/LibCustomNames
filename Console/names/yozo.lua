@@ -75,3 +75,4 @@ n["@Phyozo"] = {"Phyozo", "|cFF7700P|r|cFF9933h|r|cFFBB66y|r|cFFDD99o|r|cFFFFCCz
 n["@Drlxzel"] = {"Drlxzel", "|cFFD700L|r|cFFCC33f|r|cFFC166G|r|cFFB699o|r|cFFABCCt|r|cFFA0FFh|r|cFF99FFG|r|cFF88FFi|r|cFF77FFr|r|cFF66FFl|r|cFF55FFs|r"}
 n["@Cybersigil"] = {"Cybersigil", "|cFF7E26Cyber|r"}
 n["@tineybean"] = {"tineybean", "|cFF66DDt|r|cFF55EEi|r|cFF44FFn|r|cDD44FFe|r|cBB44FFy|r|c9944FFb|r|c7744FFe|r|c5544FFa|r|c3344FFn|r"}
+n["@Rein Lawton"] = {"Rein Lawton", "|cFFC0CBRein|r"}
