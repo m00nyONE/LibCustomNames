@@ -86,3 +86,4 @@ n["@ReganStevenss"] = {"3InchPP", "|cbd3bff3|r|cc631fcI|r|cce27f8n|r|cd71ef5c|r|
 n["@Diehler86"] = {"Diehler86", "|cffff00D|r|cdfff20i|r|cbfff40e|r|c9fff60h|r|c80ff80l|r|c60ff9fe|r|c40ffbfr|r|c20ffdf8|r|c00ffff6|r"}
 n["@LowCost21"] = {"LowCost21", "|cfdc700Lo|r|cffab01w|r|cff6a00C|r|cff4015o|r|ce22400s|r|cb51a00t21|r"}
 n["@JNK Marley"] = {"JNK Marley", "|c000000J|r|c8E0000N|r|cb29600K|r |c8a2be2M|r|c4a74ffa|r|c4ca2c0r|r|c4dbaa1l|r|c4dd181e|r|c4ee862y|r"}
+n["@Thrupit86"] = {"Thrupit", "|c0000FFT|r|c0033FFr|r|c0066FFh|r|c0099FFr|r|c00CCFFo|r|c00FFCCu|r|c00FF99p|r|c00FF66l|r|c00FF33e|r|c33FF00T|r|c66FF00r|r|c99FF00o|r|cCCFF00u|r|cFFFF00b|r|cFFFF00l|r|cFFFF00e|r"}
