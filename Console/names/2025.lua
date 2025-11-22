@@ -110,3 +110,4 @@ n["@jh20405270"] = {"jh20405270", "|c003400j|r|c003000h|r|c002d012|r|c0029010|r|
 n["@Bl4ckDragon1572"] = {"Bl4ckDragon1572", "|c000000B|r|c008000l|r|c00ff004c|r|c0f4d11k|r|c00ffffD|r|c33ffccr|r|c66ff99a|r|c99ff66g|r|cccff33o|r|cffff00n|r|cff00001|r|cff55005|r|cffaa007|r|cffff002|r"}
 n["@Monthanes"] = {"Monthanes", "|c484bffM|r|c5f49e5o|r|c7647cbn|r|c8d45b1t|r|ca44398h|r|cba407ea|r|cd13e64n|r|ce83c4ae|r|cff3a30s|r"}
 n["@Grimsey10_"] = {"Hugh Jaynus", "|c01c7fcHugh Jaynus|r"}
+n["@Xeniaathena"] = {"Xeniaathena", "|c009246Xeni|r|cFFFFFFaat|r|cCE2B37hena|r"}
