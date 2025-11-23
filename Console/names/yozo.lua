@@ -35,7 +35,6 @@ n["@SQUEAKYBOBBLE"] = {"SQUEAKYBOBBLE", "|c00EEFFS|r|c33DDFFQ|r|c66CCFFU|r|c99BB
 n["@DropYourWall3t"] = {"DropYourWall3t", "|cAA44FFW|r|c8833CCa|r|c6622AAl|r|c442288l|r|c221166e|r|c000000t|r"}
 n["@iBranches"] = {"iBranches", "|c008800B|r|c33AA22r|r|c44CC33a|r|c00FF00n|r|c44CC33c|r|c33AA22h|r|c008800e|r|c008800s|r"}
 n["@SyberSiberius"] = {"SyberSiberius", "|cFFDD00PookieMaster|r"}
-n["@FlamingOil4163"] = {"FlamingOil4163", "|cFF00EEOil|r"}
 n["@MBBO WOLVERINE"] = {"MBBO WOLVERINE", "|c77CCFFWOLVO|r"}
 n["@Canasian546"] = {"Canasian546", "|cFFFF00Canasian|r"}
 n["@TheGenuineBuzz"] = {"TheGenuineBuzz", "|c44EECBB|r|c77FFDDu|r|cAAFFEEz|r|cDDFFFFz|r"}
