@@ -290,3 +290,5 @@ n["@LadyDesire"] = {"LadyDesire", "|cff00a3LadyDesire|r"}
 n["@Eredthelion"] = {"Eredthelion", "|c0fead3E|r|c1ed5d8r|r|c2dc0dce|r|c3cabe0d|r|c4b96e5t|r|c5b82e9h|r|c6a6deee|r|c7958f2l|r|c8843f6i|r|c972efbo|r|ca619ffn|r"}
 n["@Lord_Asteroth"] = {"Asteroth", "|c00f9b4A|r|c00f3bfs|r|c00edc9t|r|c00e7d4e|r|c00e1dfr|r|c00dbeao|r|c00d5f4t|r|c00cfffh|r"}
 n["@Ap_pA"] = {"Appa", "|cfef7dbAppa|r"}
+n["@JustStoned420"] = {"JustStoned420", "|c06ff23J|r|c0cff20u|r|c12ff1ds|r|c18ff1at|r|c1eff17S|r|c24ff14t|r|c2aff12o|r|c30ff0fn|r|c36ff0ce|r|c3cff09d|r|c42ff064|r|c48ff032|r|c4eff000|r"}
+n["@jobru"] = {"Jobru", "|cff3200J|r|cff5400o|r|cff7600b|r|cff9800r|r|cffba00u|r"}
