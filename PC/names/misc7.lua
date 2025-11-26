@@ -292,3 +292,6 @@ n["@Lord_Asteroth"] = {"Asteroth", "|c00f9b4A|r|c00f3bfs|r|c00edc9t|r|c00e7d4e|r
 n["@Ap_pA"] = {"Appa", "|cfef7dbAppa|r"}
 n["@JustStoned420"] = {"JustStoned420", "|c06ff23J|r|c0cff20u|r|c12ff1ds|r|c18ff1at|r|c1eff17S|r|c24ff14t|r|c2aff12o|r|c30ff0fn|r|c36ff0ce|r|c3cff09d|r|c42ff064|r|c48ff032|r|c4eff000|r"}
 n["@jobru"] = {"Jobru", "|cff3200J|r|cff5400o|r|cff7600b|r|cff9800r|r|cffba00u|r"}
+n["@RandomUser123"] = {"Random", "|cff0c18R|r|cff1816a|r|cff2313n|r|cff2f10d|r|cff3b0eo|r|cff470bm|r|cff5308U|r|cff5e05s|r|cff6a03e|r|cff7600r|r"}
+n["@Liftwithyaback"] = {"Liftwithyaback", "|cb618ffL|r|caa1affi|r|c9d1cfff|r|c911dfft|r|c841fffw|r|c7821ffi|r|c6b23fft|r|c5e25ffh|r|c5227ffy|r|c4529ffa|r|c392affb|r|c2c2cffa|r|c202effc|r|c1330ffk|r"}
+n["@Stellare"] = {"Stellare", "|c00ecbd|L0:0:0:85%%:1:00536d|lS|l|r|c00d9b3|L0:0:0:85%%:1:006677|lt|l|r|c00c6a9|L0:0:0:85%%:1:007981|le|l|r|c00b39f|L0:0:0:85%%:1:008c8b|ll|l|r|c009f95|L0:0:0:85%%:1:009f95|ll|l|r|c008c8b|L0:0:0:85%%:1:00b39f|la|l|r|c007981|L0:0:0:85%%:1:00c6a9|lr|l|r|c006677|L0:0:0:85%%:1:00d9b3|le|l|r"}
