@@ -297,3 +297,5 @@ n["@Liftwithyaback"] = {"Liftwithyaback", "|cb618ffL|r|caa1affi|r|c9d1cfff|r|c91
 n["@Stellare"] = {"Stellare", "|c00ecbd|L0:0:0:85%%:1:00536d|lS|l|r|c00d9b3|L0:0:0:85%%:1:006677|lt|l|r|c00c6a9|L0:0:0:85%%:1:007981|le|l|r|c00b39f|L0:0:0:85%%:1:008c8b|ll|l|r|c009f95|L0:0:0:85%%:1:009f95|ll|l|r|c008c8b|L0:0:0:85%%:1:00b39f|la|l|r|c007981|L0:0:0:85%%:1:00c6a9|lr|l|r|c006677|L0:0:0:85%%:1:00d9b3|le|l|r"}
 n["@Cragborne"] = {"Cragborne", "|c2bb589Cragborne|r"}
 n["@brainsnorkel"] = {"brainsnorkel", "|cffc500b|r|cdbcc33r|r|cb8d866a|r|c94e399i|r|c70f0ccn|r|c4cffe0s|r|c27e9ebn|r|c13c6f1o|r|c1192f5r|r|c2461f7k|r|c3d35f6e|r|c220cf2l|r"}
+n["@Dan_Prime"] = {"Dan_Prime", "|cf77e2dD|r|cf88927a|r|cf99422n|r|cfa9f1c_|r|cfbab17P|r|cfcb611r|r|cfdc10bi|r|cfecc06m|r|cffd700e|r"}
+n["@spinostern"] = {"spino", "|c33e2f0s|r|c66c5f1p|r|c99a9f1i|r|ccc8cf2n|r|cff6ff3o|r"}
