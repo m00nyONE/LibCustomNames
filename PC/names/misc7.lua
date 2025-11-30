@@ -305,3 +305,4 @@ n["@liminal.exe"] = {"liminal.exe", "|c17e8ecl|r|c2ed1edi|r|c46b9edm|r|c5da2edi|
 n["@PinkPinkPink.Pink"] = {"PinkPinkPink.Pink", "|cf6c4f9P|r|cf6bef3i|r|cf7b7edn|r|cf7b0e7k|r|cf8aae1P|r|cf9a3dbi|r|cf99cd5n|r|cfa96cfk|r|cfa8fcaP|r|cfb89c4i|r|cfb82ben|r|cfc7bb8k|r|cfd75b2.|r|cfd6eacP|r|cfe67a6i|r|cfe61a0n|r|cff5a9ak|r"}
 n["@creepp"] = {"哈基鸭", "|c6006aa哈|r|caf0d55基|r|cff1300鸭|r"}
 n["@iamskullkid"] = {"Zynrei", "|cc123ffZ|r|c9b46ffy|r|c746affn|r|c4d8dffr|r|c27b0ffe|r|c00d3ffi|r"}
+n["@PlayerFinity"] = {"PlayerFinity", "|cff80e8P|r|ce88ceal|r|cd197eba|r|cb9a3edy|r|ca2aeefe|r|c8bbaf1r|r|c74c5f2F|r|c5dd1f4i|r|c46dcf6n|r|c2ee8f8i|r|c17f3f9t|r|c00fffby|r"}
