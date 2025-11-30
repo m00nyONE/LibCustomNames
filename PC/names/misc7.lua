@@ -299,4 +299,4 @@ n["@Cragborne"] = {"Cragborne", "|c2bb589Cragborne|r"}
 n["@brainsnorkel"] = {"brainsnorkel", "|cffc500b|r|cdbcc33r|r|cb8d866a|r|c94e399i|r|c70f0ccn|r|c4cffe0s|r|c27e9ebn|r|c13c6f1o|r|c1192f5r|r|c2461f7k|r|c3d35f6e|r|c220cf2l|r"}
 n["@Dan_Prime"] = {"Dan_Prime", "|cf77e2dD|r|cf88927a|r|cf99422n|r|cfa9f1c_|r|cfbab17P|r|cfcb611r|r|cfdc10bi|r|cfecc06m|r|cffd700e|r"}
 n["@spinostern"] = {"spino", "|c33e2f0s|r|c66c5f1p|r|c99a9f1i|r|ccc8cf2n|r|cff6ff3o|r"}
-n["@stephnie"] = {"Steph", "|cffe6f0S|r|cffaf72t|r|cffa3bce|r|cffda40p|r|cffb300h|r"}
+n["@stephnie"] = {"Steph", "|cffe6f0S|r|cffaf72t|r|cff795ae|re|r|cff952bbp|r|cff952bbh|r"}
