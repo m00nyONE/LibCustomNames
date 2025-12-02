@@ -306,3 +306,4 @@ n["@PinkPinkPink.Pink"] = {"PinkPinkPink.Pink", "|cf6c4f9P|r|cf6bef3i|r|cf7b7edn
 n["@creepp"] = {"哈基鸭", "|c6006aa哈|r|caf0d55基|r|cff1300鸭|r"}
 n["@iamskullkid"] = {"Zynrei", "|cc123ffZ|r|c9b46ffy|r|c746affn|r|c4d8dffr|r|c27b0ffe|r|c00d3ffi|r"}
 n["@PlayerFinity"] = {"PlayerFinity", "|cff80e8P|r|ce88ceal|r|cd197eba|r|cb9a3edy|r|ca2aeefe|r|c8bbaf1r|r|c74c5f2F|r|c5dd1f4i|r|c46dcf6n|r|c2ee8f8i|r|c17f3f9t|r|c00fffby|r"}
+n["@Darkpown"] = {"Darkpown", "|c5dbac0D|r|c5ca9c0a|r|c5b97bfr|r|c5a86bfk|r|c5dbac0p|r|c5ca9c0o|r|c5b97bfw|r|c5a86bfn|r"}
