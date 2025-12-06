@@ -178,3 +178,4 @@ n["@Twiisttyy_"] = {"Twiisttyy", "|c982abcT|r|c983fb0w|r|c9854a5i|r|c976999i|r|c
 n["@Errant Sky"] = {"Batman", "|c000000B|r|c00002ba|r|c000055t|r|c000080m|r|c0000aaa|r|c0000d5n|r"}
 n["@Notsojoe"] = {"Blame Joe", "|cEF6C00Blame Joe|r"}
 n["@iCerberus-XI"] = {"iCerberus-XI", "|cff0000iC|r|ceb040de|r|cd6081ar|r|cc20c27b|r|cad1034e|r|c991440r|r|c84184du|r|c701c5as|r|c5b2067-|r|c761b56X|r|c691d5eI|r"}
+n["@II AWW II"] = {"Willy", "|c0000ffW|r|cffffffi|r|caaaaffl|r|c5555ffl|r|c0000ffy|r"}
