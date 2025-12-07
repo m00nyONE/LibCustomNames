@@ -309,3 +309,4 @@ n["@PlayerFinity"] = {"PlayerFinity", "|cff80e8P|r|ce88ceal|r|cd197eba|r|cb9a3ed
 n["@Darkpown"] = {"Darkpown", "|c5dbac0D|r|c5ca9c0a|r|c5b97bfr|r|c5a86bfk|r|c5dbac0p|r|c5ca9c0o|r|c5b97bfw|r|c5a86bfn|r"}
 n["@BeNeutralized"] = {"BeNeutralized", "|c4985fdB|r|c6d96cee|r|c92a6a0N|r|cb6b771e|r|cdbc743u|r|cffd814t|r|ce5cc35r|r|ccbc057a|r|cb1b478l|r|c97a999i|r|c7d9dbaz|r|c6391dce|r|c4985fdd|r"}
 n["@diduka"] = {"diduka", "|cdb0f0fd|r|cce0d0di|r|cc10a0ad|r|cb50808u|r|ca80505k|r|c9b0303a|r"}
+n["@hb.p"] = {"hb.p", "|c7f45c9h|r|c617c9fb|r|c42b475.|r|c24eb4bp|r"}
