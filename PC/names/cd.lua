@@ -5,13 +5,6 @@ local lib_name = "LibCustomNames"
 local lib = _G[lib_name]
 local n = lib.GetNamesTable()
 
--- SPDX-FileCopyrightText: 2025 m00nyONE
--- SPDX-License-Identifier: Artistic-2.0
-
-local lib_name = "LibCustomNames"
-local lib = _G[lib_name]
-local n = lib.GetNamesTable()
-
 n["@CroNoS.TOG"] = {"Cronos", "|cffe200C|r|cffcb00r|r|cffb500o|r|cff9e00n|r|cff8700o|r|cff7000s|r"}
 n["@NamelessOne87"] = {"Robert", "|cff77ffR|r|cff89ffo|r|cff9bffb|r|cffadffe|r|cffbfffr|r|cffd1fft|r"}
 n["@Sacriefy"] = {"Luke", "|cf5ca40L|r|ceca780u|r|ce283bfk|r|cd860ffe|r"}
