@@ -15,6 +15,6 @@ n["@Venator21"] = {"Venator", "|ce94409V|r|cec5113e|r|cf05e1cn|r|cf36c25a|r|cf77
 n["@Wolf384"] = {"WolF", "|cf30090W|r|ce700b5o|r|cda00dal|r|cce00ffF|r"}
 n["@xxFeyLamiaxx"] = {"Fey", "|c8d0714F|r|cb40d27e|r|cdc143by|r"}
 n["@Marcosis_Ginger92"] = {"Marco", "|cf800ffM|r|cf600ffa|r|cf400ffr|r|cf200ffc|r|cf000ffo|r"}
-n["@KeyTexTv"] = {"KexTexTv", "|cff0030KeyTexTv|r"}
+n["@KeyTexTv"] = {"KeyTexTv", "|cff0030KeyTexTv|r"}
 n["@Saryoo"] = {"Saryoo", "|c200038Saryoo|r"}
 n["@abstand1312"] = {"abstand1312", "|c00f2ffabstand1312|r"}
