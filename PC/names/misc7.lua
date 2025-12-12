@@ -316,4 +316,3 @@ n["@JanosikHarnas"] = {"JanosikHarnas", "|cff7b1dJ|r|cff771ca|r|cff731an|r|cff6e
 n["@Mia1119"] = {"Mia1119", "|cffd940M|r|cffc05ei|r|cffa77da|r|cff8d9b1|r|cff74ba1|r|cff5bd81|r|cff42f79|r"}
 n["@cn.rd"] = {"Conrad", "|c4b007fC|r|c55007eo|r|c60007dn|r|c6b007br|r|c75007aa|r|c800079d|r"}
 n["@Ophaniel741"] = {"Ophaniel", "|c20dffeO|r|c40bffep|r|c609ffeh|r|c8080ffa|r|c9f60ffn|r|cbf40ffi|r|cdf20ffe|r|cff00ffl|r"}
-n["@hb.p"] = {"hb.p", "|c7f45c9h|r|c617c9fb|r|c42b475.|r|c24eb4bp|r"}
