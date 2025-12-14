@@ -62,7 +62,6 @@ n["@Ruleeus"] = {"Ruleeus", "|cFF0000T|r|cFF0000h|r|cFF0000e|r|cDD0000 |r|cDD000
 n["@Sazzle1992"] = {"Sazzle1992", "|cAA00AASazz|r"}
 n["@YO GNOME"] = {"YO GNOME", "|c00FF00G|r|c33DD33N|r|c66BB66O|r|c9988AAM|r|cCC66FFE|r"}
 n["@azgmt"] = {"azgmt", "|c0055EEG|r|c3388FFa|r|c66BBFFb|r|c99EEFFi|r"}
-n["@Leaks Strats"] = {"Leaks Strats", "|cFF0000S|r|cFF3333R|r|cFF6666T|r|cFF8888 |r|cFFBBBBG|r|cFFDDDDa|r|cFFFFFFm|r|cFFFFFFe|r|cFFFFFFr|r"}
 n["@Ms HARLEY QUIN"] = {"Ms HARLEY QUIN", "|cFFFF00Lil Baddie|r"}
 n["@J-Webz"] = {"J-Webz", "|cFFFF00W|r|cFFDD00e|r|cFFBB00b|r|cFF9900z|r"}
 n["@jaaynal"] = {"jaaynal", "|c55FFEEJ|r|c44EECCa|r|c33DDAAa|r|c22CC88y|r|c22BB66n|r|c11AA44a|r|c00FF00l|r"}
