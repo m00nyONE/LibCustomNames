@@ -25,3 +25,4 @@ n["@JRM-MORT"] = {"JRM", "|cbfcd5cJ|r|c80b9aeR|r|c40a4ffM|r"}
 n["@Fondianist"] = {"L'aveugle", "|cffffffL'aveugle|r"}
 n["@Kinseht"]= {"AnalKin'g", "|cee0594A|r|cdc0a81n|r|ccb106fa|r|cb9155cl|r|ca81a4aK|r|c961f37i|r|c852525n|r|c732a12'|r|c622f00g|r"}
 n["@Tonifiantmusculaire"]= {"PA", "|cffffffP|r|cffffffA|r"}
+n["@zSevou"] = {"zSevou", "|cf200aaz|r|cf432baS|r|cf664cae|r|cf795dav|r|cf9c7eao|r|cfbf9fau|r"}
