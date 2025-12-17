@@ -320,3 +320,4 @@ n["@CrazyFreak99"] = {"CrazyFreak99", "|c0030ffC|r|c003effr|r|c004bffa|r|c0059ff
 n["@Dovhesi"] = {"Dovhesi", "|ceae0c8D|r|cd0bbd1o|r|cb695dav|r|c9c70e4h|r|c814bede|r|c6725f6s|r|c4d00ffi|r"}
 n["@DJ_M1n3r"] = {"DJ_M1n3r", "|c207ae6D|r|c4068cdJ|r|c6057b4_|r|c80469bM|r|c9f34811|r|cbf2368n|r|cdf114f3|r|cff0036r|r"}
 n["@Ch95_HxssaN"] = {"Kutubaru", "|c0037ffK|r|c004bffu|r|c005ffft|r|c0074ffu|r|c0088ffb|r|c009cffa|r|c00b0ffr|r|c00c4ffu|r"}
+n["@melviniuspants"] = {"Melvinius", "|c21feccM|r|c3dfcb2e|r|c58fb99l|r|c74f97fv|r|c90f866i|r|cacf64cn|r|cc7f533i|r|ce3f319u|r|cfff200s|r"}
