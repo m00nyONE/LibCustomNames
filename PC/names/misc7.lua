@@ -325,3 +325,6 @@ n["@superduperbeans"] =  {"superduperbeans", "|cfe0045s|r|cfd0142u|r|cfc0140p|r|
 n["@Perseus001"] = {"Perseus", "|cff4eecP|r|cff6cefe|r|cff89f2r|r|cffa7f6s|r|cffc4f9e|r|cffe2fcu|r|cffffffs|r"}
 n["@Snow-Moon"] = {"Snow-Moon", "|c5a00aaS|r|c5600a6n|r|c5300a3o|r|c4f00a0w|r|c4c009c-|r|c480099M|r|c450096o|r|c410092o|r|c3e008fn|r"}
 n["@Ivcsi"] = {"Ivcsi", "|c659feaI|r|c8b77d5v|r|cb250c1c|r|cd828acs|r|cff0097i|r"}
+n["@Saryoo"] = {"Saryoo", "|c291fffS|r|c5219ffa|r|c7b13ffr|r|ca30cffy|r|ccc06ffo|r|cf500ffo|r"}
+n["@Biopress"] = {"Biopress", "|cff0f00B|r|cff1f00i|r|cff2e00o|r|cff3d00p|r|cff4c00r|r|cff5c00e|r|cff6b00s|r|cff7a00s|r"}
+n["@abstand1312"] = {"abstand1312", "|c7d3ce5a|r|c714ee7b|r|c6461eas|r|c5873edt|r|c4b85efa|r|c3f97f2n|r|c32a9f4d|r|c26bbf71|r|c19cefa3|r|c0de0fc1|r|c00f2ff2|r"}
