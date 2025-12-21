@@ -17,4 +17,6 @@ n["@xxFeyLamiaxx"] = {"Fey", "|c8d0714F|r|cb40d27e|r|cdc143by|r"}
 n["@Marcosis_Ginger92"] = {"Marco", "|cf800ffM|r|cf600ffa|r|cf400ffr|r|cf200ffc|r|cf000ffo|r"}
 n["@abstand1312"] = {"abstand1312", "|c00f2ffabstand1312|r"}
 n["@KeyTexTv"] = {"KeyTexTv", "|cff0030KeyTexTv|r"}
-n["@Saryoo"] = {"Saryoo", "|c200038Saryoo|r"}
+n["@Saryoo"] = {"Saryoo", "|c291fffS|r|c5219ffa|r|c7b13ffr|r|ca30cffy|r|ccc06ffo|r|cf500ffo|r"}
+n["@Biopress"] = {"Biopress", "|cff0f00B|r|cff1f00i|r|cff2e00o|r|cff3d00p|r|cff4c00r|r|cff5c00e|r|cff6b00s|r|cff7a00s|r"}
+n["@abstand1312"] = {"abstand1312", "|c7d3ce5a|r|c714ee7b|r|c6461eas|r|c5873edt|r|c4b85efa|r|c3f97f2n|r|c32a9f4d|r|c26bbf71|r|c19cefa3|r|c0de0fc1|r|c00f2ff2|r"}
