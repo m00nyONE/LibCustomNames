@@ -216,3 +216,4 @@ n["@IAzure Skies"] = {"Azure Skies", "|cb1d2f7A|r|cb8cef4z|r|cc0caf2u|r|cc8c6f0r
 n["@TeachDemKidz"] = {"TeachDemKidz", "|cff9500T|r|cff8713e|r|cff7a26a|r|cff6c39c|r|cff5f4ch|r|cff515fD|r|cff4471e|r|cff3684m|r|cff2997K|r|cff1baai|r|cff0ebdd|r|cff00d0z|r"}
 n["@deviiish_xo"] = {"Devilish_Bihh", "|c753299D|r|c6b2ea2e|r|c622aaav|r|c5826b3i|r|c4e21bbl|r|c441dc4i|r|c3b19ccs|r|c3115d5h|r|c2711dd_|r|c1d0de6B|r|c1408eei|r|c0a04f7h|r|c0000ffh|r"}
 n["@ItsBigMic"] = {"Mic", "|c2b00ffM|r|c950080i|r|cff0000c|r"}
+n["@alessa19"] = {"Alessa19", "|cfecb3eA|r|cecb44bl|r|cdb9e58e|r|cc98764s|r|cb87071s|r|ca65a7ea|r|c94438b1|r|c832c989|r"}
