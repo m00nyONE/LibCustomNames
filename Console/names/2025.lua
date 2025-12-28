@@ -229,3 +229,4 @@ n["@qTeemoBOSS"] = {"qTeemoBOSS", "|cff4015q|r|cef3e2aT|r|cdf3d40e|r|ccf3b55e|r|
 n["@Big Satch9387"] = {"BIG SATCH938", "|c864ffeB|r|c835bf0I|r|c8067e1G|r |c7a7fc4S|r|c778bb6A|r|c7597a7T|r|c72a399C|r|c6faf8aH|r|c6cbb7c9|r|c69c76d3|r|c66d35f8|r"}
 n["@Xecuteyy"] = {"Xecuteyy", "|c39ff14Xecuteyy|r"}
 n["@VxDeXZ"] = {"VxDeXZ", "|cff0000D|r|cff4800e|r|cff8f00X|r|cffd700Z|r"}
+n["@RoLo TSG"] = {"RoLo TSG", "|c003ff1RoLo TSG|r"}
