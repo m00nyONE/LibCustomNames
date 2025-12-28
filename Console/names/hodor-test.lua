@@ -19,3 +19,4 @@ n["@m00nyONE"] = {"m00ny", "|c76c3f4m00ny|r"}
 n["@seadotarley"] = {"seado", "|cb1a1a6s|r|cb1a1a6e|r|cb1a1a6a|r|cef7682d|r|cff6b79o|r"}
 n["@NefasQS"] = {"Nefas", "|cf1f300N|r|ce3f600e|r|cd4f900f|r|cc6fc00a|r|cb8ff00s|r"}
 n["@Solinur"] = {"Solinur", "|cffc800Solinur|r"}
+n["@RoLo TSG"] = {"RoLo TSG", "|c003ff1RoLo TSG|r"}
