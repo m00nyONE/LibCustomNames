@@ -5,6 +5,7 @@ local lib_name = "LibCustomNames"
 local lib = _G[lib_name]
 local n = lib.GetNamesTable()
 
+n["@I2edemptionn"] = {"I2edemptionn", " |c480866I|r|c421d5e2|r|c3c3155e|r|c36464dd|r|c305a44e|r|c2a6f3cm|r|c248433p|r|c1e982at|r|c18ad22i|r|c12c11ao|r|c0cd611n|r|c06ea09n|r}
 n["@GodKND"] = {"GodKND", "|cEF2B2DK|r|cEF2B2Dn|r|cFFFFFFu|r|c00205Bd|r|cFFFFFFs|r|cEF2B2De|r|cEF2B2Dn|r"}
 n["@megggish"] = {"Megggish", "|ce292feM|r|ce386ebe|r|ce379d8g|r|ce46dc5g|r|ce460b3g|r|ce554a0i|r|ce5478ds|r|ce63b7ah|r"}
 n["@lBeatrix"] = {"lBeatrix", "|cff00ffl|r|cec00ffB|r|cd900ffe|r|cc600ffa|r|cb300fft|r|ca000ffr|r|c8d00ffi|r|c7a00ffx|r"}
