@@ -232,3 +232,4 @@ n["@VxDeXZ"] = {"VxDeXZ", "|cff0000D|r|cff4800e|r|cff8f00X|r|cffd700Z|r"}
 n["@RoLo TSG"] = {"RoLo TSG", "|c001effR|r|c0533e4o|r|c0a47c8L|r|c0f5cado|r |c1a8576T|r|c1f995aS|r|c24ae3fG|r"}
 n["@ELH0B0L0C0"] = {"ELH0B0L0C0", "|cbf1d1dE|r|cc62a1aL|r|ccd3817H|r|cd445130|r|cdb5210B|r|ce3600d0|r|cea6d0aL|r|cf17a060|r|cf88803C|r|cff95000|r"}
 n["@I2edemptionn"] = {"I2edemptionn", "|c480866I|r|c421d5e2|r|c3c3155e|r|c36464dd|r|c305a44e|r|c2a6f3cm|r|c248433p|r|c1e982at|r|c18ad22i|r|c12c11ao|r|c0cd611n|r|c06ea09n|r"}
+n["@Al1204042"] = {"Al1204042", "|c4d52ffA|r|c4468dfl|r|c3b7dbf1|r|c32939f2|r|c29a9800|r|c1fbe604|r|c16d4400|r|c0de9204|r|c04ff002|r"}
