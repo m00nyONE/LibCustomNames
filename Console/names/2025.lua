@@ -230,3 +230,4 @@ n["@Big Satch9387"] = {"BIG SATCH938", "|c864ffeB|r|c835bf0I|r|c8067e1G|r |c7a7f
 n["@Xecuteyy"] = {"Xecuteyy", "|c39ff14Xecuteyy|r"}
 n["@VxDeXZ"] = {"VxDeXZ", "|cff0000D|r|cff4800e|r|cff8f00X|r|cffd700Z|r"}
 n["@RoLo TSG"] = {"RoLo TSG", "|c001effR|r|c0533e4o|r|c0a47c8L|r|c0f5cado|r |c1a8576T|r|c1f995aS|r|c24ae3fG|r"}
+n["@ELH0B0L0C0"] = {"ELH0B0L0C0", "|cbf1d1dE|r|cc62a1aL|r|ccd3817H|r|cd445130|r|cdb5210B|r|ce3600d0|r|cea6d0aL|r|cf17a060|r|cf88803C|r|cff95000|r"}
