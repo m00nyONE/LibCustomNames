@@ -332,3 +332,5 @@ n["@gianlux96"] = {"gianlux96", "|cff0e00gianlux96|r"}
 n["@Cammiepoo"] = {"Cammiepoo", "|c279a5cC|r|c299b64a|r|c2b9b6cm|r|c2d9c74m|r|c309c7di|r|c329d85e|r|c349d8dp|r|c369e95o|r|c389e9do|r"}
 n["@Grim_Loki"] = {"Grim_Loki", "|ce3891cG|r|cc69139r|r|caa9a55i|r|c8ea371m|r|c71ab8e_|r|c55b4aaL|r|c39bdc6o|r|c1cc5e3k|r|c00ceffi|r"}
 n["@DoNotAnnoyMe"] = {"Frank", "|c9651ceF|r|c7168ccr|r|c4d7ecba|r|c2895c9n|r|c03acc7k|r"}
+n["@Neurospider"] = {"Neurospider", "|ceeeeeeN|r|cdddddde|r|cccccccu|r|cbbbbbbr|r|caaaaaao|r|c999999s|r|c888888p|r|c777777i|r|c666666d|r|c555555e|r|c444444r|r"}
+n["@Upari"] = {"Upari", "|cd03320U|r|ca16626p|r|c73992ba|r|c44cc31r|r|c15ff37i|r"}
