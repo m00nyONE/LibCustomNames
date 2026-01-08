@@ -336,3 +336,4 @@ n["@Neurospider"] = {"Neurospider", "|ceeeeeeN|r|cdddddde|r|cccccccu|r|cbbbbbbr|
 n["@Upari"] = {"Upari", "|cd03320U|r|ca16626p|r|c73992ba|r|c44cc31r|r|c15ff37i|r"}
 n["@Fitspatrik"] = {"Fitspatrik", "|c1ab3ffF|r|c33bcffi|r|c4dc4fft|r|c66cdffs|r|c80d5ffp|r|c99ddffa|r|cb3e6fft|r|ccceeffr|r|ce5f7ffi|r|cffffffk|r"}
 n["@Springey"] = {"Springey", "|c19e6feS|r|c28cdfep|r|c38b3fer|r|c479affi|r|c5781ffn|r|c6668ffg|r|c764effe|r|c8535ffy|r"}
+n["@kabellay"] = {"Kabellay", "|c8a00ffK|r|c9700ffa|r|ca300ffb|r|caf00ffe|r|cbb00ffl|r|cc800ffl|r|cd400ffa|r|ce000ffy|r"}
