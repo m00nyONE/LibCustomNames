@@ -339,3 +339,4 @@ n["@Springey"] = {"Springey", "|c19e6feS|r|c28cdfep|r|c38b3fer|r|c479affi|r|c578
 n["@kabellay"] = {"Kabellay", "|c8a00ffK|r|c9700ffa|r|ca300ffb|r|caf00ffe|r|cbb00ffl|r|cc800ffl|r|cd400ffa|r|ce000ffy|r"}
 n["@Riidgy"] = {"Riidgy", "|cFE66C4Riidgy|r"}
 n["@iamwezo"] = {"iamwezo", "|c41C9FFi|r|c42CAFAa|r|c45CEEBm|r|c4AD5D2w|r|c52DFAFe|r|c5CEB82z|r|c68FB4Co|r"}
+n["@VxDeXZZ"] = {"DeXZ", "|cff0000D|r|cff4800e|r|cff8f00X|r|cffd700Z|r"}
