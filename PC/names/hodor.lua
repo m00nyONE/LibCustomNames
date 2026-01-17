@@ -24,3 +24,4 @@ n["@LokiClermeil"] = {"Loki", "|c32CD32L|r|cFFFFFFok|r|cFF0000i|r"}
 n["@Hjelmi"] = {"Hjelmi", "|cff71C6Hjelmi|r"}
 n["@ChaosAD2077"] = {"Chaos", "|c98FB98Chaos|r"}
 n["@VanaEvr"] = {"Vana", "Vana"}
+n["@Soul_Hagans"] = {"Soul Hagans", "|cff6401S|r|cff7103o|r|cff7e04u|r|cff8b05l|r |cff9807H|r|cffa408a|r|cffb109g|r|cffbe0aa|r|cffcb0cn|r|cffd80ds|r"}
