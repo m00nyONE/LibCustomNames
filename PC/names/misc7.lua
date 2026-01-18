@@ -342,3 +342,4 @@ n["@Riidgy"] = {"Riidgy", "|cFE66C4Riidgy|r"}
 n["@iamwezo"] = {"iamwezo", "|c41C9FFi|r|c42CAFAa|r|c45CEEBm|r|c4AD5D2w|r|c52DFAFe|r|c5CEB82z|r|c68FB4Co|r"}
 n["@VxDeXZZ"] = {"DeXZ", "|cff0000D|r|cff4800e|r|cff8f00X|r|cffd700Z|r"}
 n["@Soul_Hagans"] = {"Soul Hagans", "|cff6401S|r|cff7103o|r|cff7e04u|r|cff8b05l|r |cff9807H|r|cffa408a|r|cffb109g|r|cffbe0aa|r|cffcb0cn|r|cffd80ds|r"}
+n["@Chio-Cill"] = {"Юля", "|c10be00Юля|r"}
