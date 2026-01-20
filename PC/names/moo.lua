@@ -74,3 +74,4 @@ n["@Ermsi2"] = n["@Ermsi"]
 n["@Fjior"] = {"Fjiör", "|c2B8BFFFjiör|r"}
 n["@Rappy_R50"] = {"Rappy", "|cFF4500Rappy|r"}
 n["@YungGunz"] = {"Ptheven", "|cFF69B4Ptheven|r"}
+n["@MedicateMe"] = {"Medicate", "|c3272D2Medicate|r"}
