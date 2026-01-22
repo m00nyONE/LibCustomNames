@@ -345,3 +345,4 @@ n["@Soul_Hagans"] = {"Soul Hagans", "|cff6401S|r|cff7103o|r|cff7e04u|r|cff8b05l|
 n["@Chio-Cill"] = {"Юля", "|c10be00Юля|r"}
 n["@NecroCat_Crimson"] = {"Sill Crimson", "|c924fc1S|r|c9260c5i|r|c9272c8l|r|c9284ccl|r |c9295cfC|r|c91a7d3r|r|c91b8d6i|r|c91cadam|r|c91dcdds|r|c91ede1o|r|c91ffe4n|r"}
 n["@I_RobzzX"] = {"RobZz", "|c610f0fR|r|c4f1f32o|r|c3c3055b|r|c2a4078Z|r|c17509bz|r"}
+n["@Splandonge"] = {"Siinnd", "|cFCD4F3S|r|cFCD1E9i|r|cFCCEDFi|r|cFBCCD6n|r|cFBC9CCn|r|cFBC6C2d|r"}
