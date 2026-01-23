@@ -19,3 +19,4 @@ n["@FireballNeat"] = {"Ball","|cff40ffB|r|cdb76ffa|r|cb8adfel|r|c94e3fel|r"}
 n["@R3D KH4L"] = {"RED KHAL","|cff6a00R|r|cfb6000E|r|cf75600D|r |cee4200K|r|cea3800H|r|ce62e00A|r|ce22400L|r"}
 n["@corvid_hypnagog"] = {"corvid","|c047d00corvid|r"}
 n["@x13lys13x"] = {"x13lys13x","|c00a1d8x13lys13x|r"}
+n["@manaere"] = {"manaere","|c7600b5manaere|r"}
