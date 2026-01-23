@@ -17,4 +17,3 @@ n["@ShyAlyaKujou"] = {"FINITA","|c0000ffF|r|c3333ffI|r|c6666ffN|r|c9999ffI|r|ccc
 n["@AIIlison"] = {"AIIlison","|cff73a6A|r|ced71b3I|r|cdb70bfI|r|cc96eccl|r|cb86dd9i|r|ca66be6s|r|c946af2o|r|c8268ffn|r"}
 n["@FireballNeat"] = {"Ball","|cff40ffB|r|cdb76ffa|r|cb8adfel|r|c94e3fel|r"}
 n["@R3D KH4L"] = {"RED KHAL","|cff6a00R|r|cfb6000E|r|cf75600D|r |cee4200K|r|cea3800H|r|ce62e00A|r|ce22400L|r"}
-n["@BroseidonWayne"] = {"LOL Sorry","|c0055ffL|r|c1f64e1O|r|c3d73c2L|r |c7a9185S|r|c99a067o|r|cb7af48r|r|cd6be2ar|r|cf4cd0by|r"}
