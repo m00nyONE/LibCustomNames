@@ -245,3 +245,5 @@ n["@AGeNT-ReLLiK"] = {"AGeNT-ReLLiK", "|c8000ffA|r|c8700e8G|r|c8f00d1e|r|c9600b9
 n["@ManicMushroom"] = {"Manii", "|cde83b1Manii|r"}
 n["@CHAOSARMY"] = {"Chaos", "|cde83b1Chaos|r"}
 n["@JustlQuietly"] = {"Quie", "|cde83b1Quie|r"}
+n["@corvid_hypnagog"] = {"corvid","|c047d00corvid|r"}
+n["@x13lys13x"] = {"x13lys13x","|c00a1d8x13lys13x|r"}
