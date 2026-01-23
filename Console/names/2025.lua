@@ -248,3 +248,4 @@ n["@JustlQuietly"] = {"Quie", "|cde83b1Quie|r"}
 n["@corvid_hypnagog"] = {"corvid","|c047d00corvid|r"}
 n["@x13lys13x"] = {"x13lys13x","|c00a1d8x13lys13x|r"}
 n["@manaere"] = {"manaere","|c7600b5manaere|r"}
+n["@OnceUponMidnight"] = {"midnight","|c00ab83midnight|r"}
