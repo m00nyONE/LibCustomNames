@@ -20,3 +20,4 @@ n["@R3D KH4L"] = {"RED KHAL","|cff6a00R|r|cfb6000E|r|cf75600D|r |cee4200K|r|cea3
 n["@corvid_hypnagog"] = {"corvid","|c047d00corvid|r"}
 n["@x13lys13x"] = {"x13lys13x","|c00a1d8x13lys13x|r"}
 n["@manaere"] = {"manaere","|c7600b5manaere|r"}
+n["@OnceUponMidnight"] = {"midnight","|c00ab83midnight|r"}
