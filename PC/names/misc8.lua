@@ -12,3 +12,4 @@ n["@CodieRay"] = {"CodieRay", "|ce1c841C|r|cc4d05co|r|ca6d777d|r|c88de93i|r|c6ae
 n["@DejaEntendude"] = {"DejaEntendude", "|cd314ffD|r|cd315ffe|r|cd315ffj|r|cd216ffa|r|cd216ffE|r|cd216ffn|r|cd217fft|r|cd217ffe|r|cd217ffn|r|cd118ffd|r|cd118ffu|r|cd119ffd|r|cd119ffe|r"}
 n["@Ukmadorian"] = {"Ukma", "|c8b008bUkma|r"}
 n["@Kuroko29012"] = {"Kuroko29012", "|cffdbe3K|r|cffc5e6u|r|cffafe8r|r|cff99eao|r|cff83edk|r|cff6eefo|r|cff58f22|r|cff42f49|r|cff2cf60|r|cff16f91|r|cff00fb2|r"}
+n["@Beaver720"] = {"Beaver720", "|c9519ffB|r|c8332ffe|r|c704bffa|r|c5d64ffv|r|c4b7effe|r|c3897ffr|r|c25b0ff7|r|c13c9ff2|r|c00e2ff0|r"}
