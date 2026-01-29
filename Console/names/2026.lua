@@ -28,3 +28,4 @@ n["@AlockaFlocka"] = {"AlockaFlocka","|c7d10eaA|r|c7219dfl|r|c6823d4o|r|c5d2cc9c
 n["@IlVisionary"] = {"vis","|c52d6fcvis|r"}
 n["@MisS AgoNyQc"] = {"MisS AgoNyQc","|c00fbffM|r|c00fcebi|r|c00fcd7s|r|c00fdc4S|r |c00fe9cA|r|c00ff88g|r|c00ff9co|r|c00ffb1N|r|c00ffc5y|r|c00ffdaQ|r|c00ffeec|r"}
 n["@zebra-x-w-t-w-xx"] = {"STK","|c7d10eaSTK|r"}
+n["@saddo42"] = {"saddo42","|cff69b4s|r|cfd78b6a|r|cfb87b9d|r|cfa96bbd|r|cf8a4bdo|r|cf6b3c04|r|cf4c2c22|r"}
