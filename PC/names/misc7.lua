@@ -287,6 +287,7 @@ n["@RedLeader99"] = {"RedLeader99", "|c3dffdaR|r|c50ffd1e|r|c62ffc9d|r|c74ffc1L|
 n["@PartialEthos"] = {"Ethos", "|c008162E|r|c008552t|r|c008841h|r|c008c31o|r|c009020s|r"}
 n["@Simondu0"] = {"Simondunull", "|cff1301S|r|cff2601i|r|cff3901m|r|cff4c01o|r|cff5f01n|r|cff7300d|r|cff8600u|r|cff9900n|r|cffac00u|r|cffbf00l|r|cffd200l|r"}
 n["@LadyDesire"] = {"LadyDesire", "|cff00a3LadyDesire|r"}
+n["@LadyYousha"] = {"LadyDesire", "|cff00a3LadyYousha|r"}
 n["@Eredthelion"] = {"Eredthelion", "|c0fead3E|r|c1ed5d8r|r|c2dc0dce|r|c3cabe0d|r|c4b96e5t|r|c5b82e9h|r|c6a6deee|r|c7958f2l|r|c8843f6i|r|c972efbo|r|ca619ffn|r"}
 n["@Lord_Asteroth"] = {"Asteroth", "|c00f9b4A|r|c00f3bfs|r|c00edc9t|r|c00e7d4e|r|c00e1dfr|r|c00dbeao|r|c00d5f4t|r|c00cfffh|r"}
 n["@Ap_pA"] = {"Appa", "|cfef7dbAppa|r"}
