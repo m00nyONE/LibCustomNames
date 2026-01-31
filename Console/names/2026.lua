@@ -28,6 +28,7 @@ n["@AlockaFlocka"] = {"AlockaFlocka","|c7d10eaA|r|c7219dfl|r|c6823d4o|r|c5d2cc9c
 n["@IlVisionary"] = {"vis","|c52d6fcvis|r"}
 n["@MisS AgoNyQc"] = {"MisS AgoNyQc","|c00fbffM|r|c00fcebi|r|c00fcd7s|r|c00fdc4S|r |c00fe9cA|r|c00ff88g|r|c00ff9co|r|c00ffb1N|r|c00ffc5y|r|c00ffdaQ|r|c00ffeec|r"}
 n["@zebra-x-w-t-w-xx"] = {"STK","|c7d10eaSTK|r"}
+n["@saddo42"] = {"saddo42","|cff69b4s|r|cfd78b6a|r|cfb87b9d|r|cfa96bbd|r|cf8a4bdo|r|cf6b3c04|r|cf4c2c22|r"}
 n["@MsAngelousy"] = {"Angel","|cfd9dffA|r|cfe8cffn|r|cfe7bffg|r|cff6afee|r|cff59fel|r"}
 n["@Haku Ryuka"] = {"Haku Ryuka","|cff0000H|r|ce3001ca|r|cc60039k|r|caa0055u|r |c71008eR|r|c5500aay|r|c3900c6u|r|c1c00e3k|r|c0000ffa|r"}
 n["@Yunicornis"] = {"Yunicornis", "|c00ffffY|r|c0ce8f6u|r|c18d2ecn|r|c24bbe3i|r|c30a4dac|r|c3d8ed0o|r|c4977c7r|r|c5560ben|r|c614ab4i|r|c6d33abs|r"}
