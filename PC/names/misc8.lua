@@ -21,3 +21,6 @@ n["@AsieRubio"] = {"AsieRubio", "|cdbff00A|r|cf9ff00s|r|cff1700i|r|cff1700e|r|c1
 n["@itsTraka"] = {"îtşŦŗåĶå", "|cd6fd1fî|r|cb8fb3ft|r|c99f85eş|r|c7bf67eŦ|r|c5cf49dŗ|r|c3df2bcå|r|c1fefdcĶ|r|c00edfbå|r"}
 n["@Bakabcn"] = {"Bakabcn", "|ce65342B|r|ccd575ca|r|cb45b75k|r|c9c5f8ea|r|c8363a7b|r|c6a67c1c|r|c516bdan|r"}
 n["@Beaver720"] = {"Beaver720", "|c9519ffB|r|c8332ffe|r|c704bffa|r|c5d64ffv|r|c4b7effe|r|c3897ffr|r|c25b0ff7|r|c13c9ff2|r|c00e2ff0|r"}
+n["@knd775"] = {"ben", "|c4b86e8b|r|c25c3d2e|r|c00ffbbn|r"}
+n["@Freddingerz"] = {"Freddingerz", "|cff1301F|r|cff2601r|r|cff3901e|r|cff4c01d|r|cff5f01d|r|cff7300i|r|cff8600n|r|cff9900g|r|cffac00e|r|cffbf00r|r|cffd200z|r"}
+n["@Senfkorn"] = {"SenfKorn", "|c2632ffS|r|c394effe|r|c4b6bffn|r|c5d87fff|r|c6fa4ffK|r|c82c0ffo|r|c94ddffr|r|ca6f9ffn|r"}
