@@ -29,6 +29,7 @@ PC/menu.lua
 Console/menu.lua
 
 ## PC names
+PC/names/APH.lua
 PC/names/cd.lua
 PC/names/cfm.lua
 PC/names/chainreaction.lua
