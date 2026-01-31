@@ -28,7 +28,6 @@ n["@OvrlordxActual"] = {"OvrlordxActual", "|c6600FF大|r|cFF6699君|r|cFFCC44主
 n["@Talamrail"] = {"Talamrail", "|cCC0000NotTheRealTala|r"}
 n["@Oh You Missed"] = {"Oh You Missed", "|cFF0000M|r|cFF8800o|r|cFFFF00n|r|c00FF00k|r|c00FFFFe|r|c0066FFy|r"}
 n["@AIR CHAVO"] = {"AIR CHAVO", "|c00FFFFMorganWallen|r"}
-n["@Ashhhhh v"] = {"Ashhhhh v", "|cFF0000A|r|cBB0066s|r|c7700CCh|r"}
 n["@ii Rad x"] = {"ii Rad x", "|cFF0000C|r|cFF3300o|r|cFF6600n|r|cFF8800n|r|cFFBB00o|r|cFFEE00r|r"}
 n["@SQUEAKYBOBBLE"] = {"SQUEAKYBOBBLE", "|c00EEFFS|r|c33DDFFQ|r|c66CCFFU|r|c99BBFFE|r|cCCAAFFA|r|cEE99FFK|r|cFF88DDY|r"}
 n["@SyberSiberius"] = {"SyberSiberius", "|cFFDD00PookieMaster|r"}
