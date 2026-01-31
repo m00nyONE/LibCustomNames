@@ -24,3 +24,4 @@ n["@Beaver720"] = {"Beaver720", "|c9519ffB|r|c8332ffe|r|c704bffa|r|c5d64ffv|r|c4
 n["@knd775"] = {"ben", "|c4b86e8b|r|c25c3d2e|r|c00ffbbn|r"}
 n["@Freddingerz"] = {"Freddingerz", "|cff1301F|r|cff2601r|r|cff3901e|r|cff4c01d|r|cff5f01d|r|cff7300i|r|cff8600n|r|cff9900g|r|cffac00e|r|cffbf00r|r|cffd200z|r"}
 n["@Senfkorn"] = {"SenfKorn", "|c2632ffS|r|c394effe|r|c4b6bffn|r|c5d87fff|r|c6fa4ffK|r|c82c0ffo|r|c94ddffr|r|ca6f9ffn|r"}
+n["@ClothFollow1"] = {"ClothFollow1", "|c1aedd1C|r|c2edbd5l|r|c41c9dao|r|c55b7det|r|c69a5e2h|r|c7d94e6F|r|c9082eao|r|ca470eel|r|cb85ef3l|r|ccc4cf7o|r|cdf3afbw|r|cf328ff1|r"}
