@@ -30,5 +30,3 @@ n["@NierielSootica"] = {"NierielSootica", "|c840cb0N|r|c8e14a2i|r|c971d95e|r|ca1
 n["@EviceratorN"] = {"EviceratorN", "|cf50d0dE|r|cea1919v|r|ce02626i|r|cd53333c|r|ccb4040e|r|cc04c4cr|r|cb65959a|r|cab6666t|r|ca17373o|r|c967f7fr|r|c8c8c8cN|r"}
 n["@MatejSitar"] = {"Matej", "|cffe478M|r|cffdc5aa|r|cffd53ct|r|cffcd1ee|r|cffc500j|r"}
 n["@Admral_Snakbar"] = {"Snakbar", "|c918bffS|r|c8a92ffn|r|c8298ffa|r|c7a9effk|r|c72a4ffb|r|c6babffa|r|c63b1ffr|r"}
-
---/hodor test @Secret's
