@@ -34,3 +34,5 @@ n["@Akira_tm"] = {"Akira", "|ccc0000A|r|ce66c00k|r|cd9b700i|r|ce66c00r|r|ccc0000
 n["@Enji.ESO"] = {"Enji.ESO", "|ccc0c10Enji.ESO|r"}
 n["@MrSalv"] = {"MrSalv", "|cd5fe00M|r|caafe00r|r|c80ff00S|r|c55ff00a|r|c2bff00l|r|c00ff00v|r"}
 n["@Nicotine92"] = {"Nicotine", "|cfffe00Nicotine|r"}
+n["@Velarion"] = {"Velarion", "|ce2f902V|r|cc5fa05e|r|ca8fb07l|r|c8cfc09a|r|c6ffc0br|r|c52fd0ei|r|c35fe10o|r|c18ff12n|r"}
+n["@LilianHeart"] = {"LilianHeart", "|cfff4faL|r|cffe8f5i|r|cffddf0l|r|cffd1ebi|r|cffc6e6a|r|cffbae0n|r|cffafdbH|r|cffa3d6e|r|cff98d1a|r|cff8cccr|r|cff81c7t|r"}
