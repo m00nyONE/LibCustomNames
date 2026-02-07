@@ -1,3 +1,6 @@
+## 2026.02.07
+- adding STUDLETON to the authors list
+
 ## 2025.10.24
 - The release pipeline now automatically creates separate versions for PC & Console. There is no need for users on PC having all the custom names of the console players and vice versa.
 
