@@ -35,4 +35,5 @@ n["@Yunicornis"] = {"Yunicornis", "|c00ffffY|r|c0ce8f6u|r|c18d2ecn|r|c24bbe3i|r|
 n["@DeviIish_xo"] = {"DeviI_bihh","|cff0000D|r|cff001ce|r|cff0039v|r|cff0055i|r|cff0071I|r|cff008e_|r|cff00aab|r|cff00c6i|r|cff00e3h|r|cff00ffh|r"}
 n["@Electrik-_Wizard"] = {"Toeg-_-","|c00fafaT|r|c26f6d0o|r|c4bf2a7e|r|c71ee7dg|r|c96e953-|r|cbce52a_|r|ce1e100-|r"}
 n["@ixXMostHatedXxi"] = {"HATE X","|c01c7fcHATE X|r"}
-n["@Ashhhhh v"] = {"Ashhhhh v", "|cFF0000A|r|cBB0066s|r|c7700CCh|r"}
+n["@Ashhhhh v"] = {"Ashhh", "|cff4015A|r|cff631fs|r|cff862ah|r|cfea834h|r|cfecb3eh|r"}
+n["@BloodySknemo"] = {"GuarEmperor", "|c980101G|r|c9f0b01u|r|ca61501a|r|cad1f01r|r|cb42901E|r|cbb3302m|r|cc23d02p|r|cc94702e|r|cd05102r|r|cd75b02o|r|cde6502r|r"}
