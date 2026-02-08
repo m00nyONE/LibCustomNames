@@ -36,3 +36,5 @@ n["@MrSalv"] = {"MrSalv", "|cd5fe00M|r|caafe00r|r|c80ff00S|r|c55ff00a|r|c2bff00l
 n["@Nicotine92"] = {"Nicotine", "|cfffe00Nicotine|r"}
 n["@Arhwan"] = {"Ar'hwan", "|ce2d900A|r|cd6e000r|r|ccae600'|r|cbfec00h|r|cb3f200w|r|ca7f900a|r|c9bff00n|r"}
 n["@Wusband"] = {"Wusband", "|cfeeef5W|r|cfedeecu|r|cfecee3s|r|cffbedbb|r|cffaed2a|r|cff9ec9n|r|cff8ec0d|r"}
+n["@Velarion"] = {"Velarion", "|ce2f902V|r|cc5fa05e|r|ca8fb07l|r|c8cfc09a|r|c6ffc0br|r|c52fd0ei|r|c35fe10o|r|c18ff12n|r"}
+n["@LilianHeart"] = {"LilianHeart", "|cfff4faL|r|cffe8f5i|r|cffddf0l|r|cffd1ebi|r|cffc6e6a|r|cffbae0n|r|cffafdbH|r|cffa3d6e|r|cff98d1a|r|cff8cccr|r|cff81c7t|r"}
