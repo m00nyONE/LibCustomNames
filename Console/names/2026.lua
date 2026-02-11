@@ -36,3 +36,4 @@ n["@DeviIish_xo"] = {"DeviI_bihh","|cff0000D|r|cff001ce|r|cff0039v|r|cff0055i|r|
 n["@Electrik-_Wizard"] = {"Toeg-_-","|c00fafaT|r|c26f6d0o|r|c4bf2a7e|r|c71ee7dg|r|c96e953-|r|cbce52a_|r|ce1e100-|r"}
 n["@ixXMostHatedXxi"] = {"HATE X","|c01c7fcHATE X|r"}
 n["@Ashhhhh v"] = {"Ashhhhh v", "|cFF0000A|r|cBB0066s|r|c7700CCh|r"}
+n["@Ice_Bear_Spartan"] = {"Psycho Blue", "|c0000ffPsycho|r |c0000ffBlue|r"}
