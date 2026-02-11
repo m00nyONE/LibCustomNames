@@ -38,3 +38,4 @@ n["@ixXMostHatedXxi"] = {"HATE X","|c01c7fcHATE X|r"}
 n["@Ashhhhh v"] = {"Ashhhhh v", "|cFF0000A|r|cBB0066s|r|c7700CCh|r"}
 n["@Ice_Bear_Spartan"] = {"Psycho Blue", "|c0000ffPsycho|r |c0000ffBlue|r"}
 n["@Kev374"] = {"French Lightning", "|c640000French|r |c640000Lightning|r"}
+n["@Slvrldy"] = {"Slvrldy", "|cFf004fSlvrldy|r"}
