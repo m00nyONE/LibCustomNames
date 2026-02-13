@@ -6,10 +6,6 @@ local lib = _G[lib_name]
 local n = lib.GetNamesTable()
 
 n["@RedBoul"] = {"RedBoul", "|ca8211eR|r|cb7422fe|r|cc56240d|r|cd48252B|r|ce2a263o|r|cf1c374u|r|cffe385l|r"}
-n["@samihaize"] = {"samihaize", "|cf500e2s|r|ceb00e5a|r|ce100e9m|r|cd700edi|r|cce00f0h|r|cc400f4a|r|cba00f8i|r|cb000fbz|r|ca600ffe|r"}
-n["@ikillmeee"] = {"ikillmeee", "|c23ff00i|r|c21ff00k|r|c1fff00i|r|c1dff00l|r|c1bff00l|r|c19ff00m|r|c17ff00e|r|c15ff00e|r|c13ff00e|r"}
-n["@CodieRay"] = {"CodieRay", "|ce1c841C|r|cc4d05co|r|ca6d777d|r|c88de93i|r|c6ae5aee|r|c4dedc9R|r|c2ff4e4a|r|c11fbffy|r"}
-n["@DejaEntendude"] = {"DejaEntendude", "|cd314ffD|r|cd315ffe|r|cd315ffj|r|cd216ffa|r|cd216ffE|r|cd216ffn|r|cd217fft|r|cd217ffe|r|cd217ffn|r|cd118ffd|r|cd118ffu|r|cd119ffd|r|cd119ffe|r"}
 n["@Kuroko29012"] = {"Kuroko29012", "|cffdbe3K|r|cffc5e6u|r|cffafe8r|r|cff99eao|r|cff83edk|r|cff6eefo|r|cff58f22|r|cff42f49|r|cff2cf60|r|cff16f91|r|cff00fb2|r"}
 n["@zDarkus"] = {"zDarkus", "|cff2f00zDarkus|r"}
 n["@Juanut0"] = {"Juanuto", "|cff390aJ|r|cff550fu|r|cff7114a|r|cff8c18n|r|cffa81du|r|cffc422t|r|cffe027o|r"}
@@ -39,3 +35,4 @@ n["@Wusband"] = {"Wusband", "|cfeeef5W|r|cfedeecu|r|cfecee3s|r|cffbedbb|r|cffaed
 n["@Velarion"] = {"Velarion", "|ce2f902V|r|cc5fa05e|r|ca8fb07l|r|c8cfc09a|r|c6ffc0br|r|c52fd0ei|r|c35fe10o|r|c18ff12n|r"}
 n["@LilianHeart"] = {"LilianHeart", "|cfff4faL|r|cffe8f5i|r|cffddf0l|r|cffd1ebi|r|cffc6e6a|r|cffbae0n|r|cffafdbH|r|cffa3d6e|r|cff98d1a|r|cff8cccr|r|cff81c7t|r"}
 n["@Heshima"] = { "Heshima", "|cFF0000H|r|cFF0000e|r|cFFFFFFs|r|cFFFFFFh|r|c0000FFi|r|c0000FFm|r|c0000FFa|r" }
+n["@Valerachich"] = {"Valerachich", "|c7c00ccV|r|c8202d1a|r|c8804d6l|r|c8e06dbe|r|c9408e0r|r|c9a0ae5a|r|ca00ceac|r|ca60eefh|r|cac10f4i|r|cb012f9c|r|cb414ffh|r"}
