@@ -457,7 +457,7 @@ n["@zoladeseul"] = {"Zola =O^O=", "|c19e7e3Z|r|c31eac6o|r|c4aedaal|r|c62f08ea|r 
 n["@EdwardSheeran"] = {"Edward", "|cffd400E|r|cffbc00d|r|cffa400w|r|cff8c00a|r|cff7400r|r|cff5c00d|r"}
 n["@Morning_Skooma"] = {"Skooma ", "|cde5577S|r|cbe5992k|r|c9d5eaeo|r|c7c63c9o|r|c5c67e4m|r|c3b6cffa|r "}
 n["@Dai_Suda"] = {"DaiSuda", "|ce220dfD|r|cd840bfa|r|ccd609fi|r|cc28080|r|cb79f60S|r|cadbf40u|r|ca2df20d|r|c97ff00a|r"}
-n["@ShadowDios"] = {"ShadowDios", "|cf200c5S|r|ce500cbh|r|cd900d2a|r|ccc00d8d|r|cbf00dfo|r|cb200e5w|r|ca500ecD|r|c9900f2i|r|c8c00f9o|r|c7f00ffs|r"}
+n["@Secret's"] = {"Secrets", "|cffdbdeS|r|cffb6bde|r|cff929cc|r|cff6d7br|r|cff495ae|r|cff2439t|r|cff0018s|r"}
 n["@Proud7"] = {"Proud", "|ccc0033P|r|c990066r|r|c660099o|r|c3300ccu|r|c0000ffd|r"}
 n["@Lykeion"] = {"Lykeion", "|c396086L|r|c516978y|r|c6a7169k|r|c82795be|r|c9b814ci|r|cb38a3eo|r|ccc922fn|r"}
 n["@Marnorlot"] = {"Marnorlot", "|cb61d34Marnorlot|r"}
