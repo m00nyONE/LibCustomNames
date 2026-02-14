@@ -37,3 +37,6 @@ n["@Electrik-_Wizard"] = {"Toeg-_-","|c00fafaT|r|c26f6d0o|r|c4bf2a7e|r|c71ee7dg|
 n["@ixXMostHatedXxi"] = {"HATE X","|c01c7fcHATE X|r"}
 n["@Ashhhhh v"] = {"Ashhh", "|cff4015A|r|cff631fs|r|cff862ah|r|cfea834h|r|cfecb3eh|r"}
 n["@BloodySknemo"] = {"GuarEmperor", "|c980101G|r|c9f0b01u|r|ca61501a|r|cad1f01r|r|cb42901E|r|cbb3302m|r|cc23d02p|r|cc94702e|r|cd05102r|r|cd75b02o|r|cde6502r|r"}
+n["@doctor mrow"] = {"kiki mrow","|cff00ffk|r|cdf20ffi|r|cbf40ffk|r|c9f60ffi|r |c609fffm|r|c40bfffr|r|c20dfffo|r|c00ffffw|r"}
+n["@Mikes-Swagger00"] = {"Mikes-Swagger00","|c0011ffM|r|c011fedi|r|c022edbk|r|c033cc8e|r|c044bb6s|r|c0559a4-|r|c066892S|r|c087680w|r|c09846da|r|c0a935bg|r|c0ba149g|r|c0cb037e|r|c0dbe24r|r|c0ecd120|r|c0fdb000|r"}
+n["@WAR PIG 151"] = {"WAR PIG","|cff00ffW|r|cdb24ffA|r|cb649ffR|r |c6d92ffP|r|c49b6ffI|r|c24dbffG|r"}
