@@ -1,4 +1,4 @@
--- SPDX-FileCopyrightText: 2025 m00nyONE
+-- SPDX-FileCopyrightText: 2025 m00nyONE STUDLETON
 -- SPDX-License-Identifier: Artistic-2.0
 
 local lib_name = "LibCustomNames"
@@ -14,7 +14,7 @@ n["@NooobzBeHatln"] = {"Nooobz", "|c5fc461N|r|c7c9d81o|r|c9876a0o|r|cb54ec0o|r|c
 n["@PandaX420"] = {"CANCERBOY", "|c00cd59C|r|c20c54fa|r|c40bc45n|r|c60b43bc|r|c80ab31e|r|c9fa326r|r|cbf9a1cB|r|cdf9212o|r|cff8908y|r"}
 n["@tcnnerr"] = {"tannerk", "|cf0e0fft|r|ce4d3ffa|r|cd7c5ffn|r|ccbb8ffn|r|cbeabffe|r|cb29dffr|r|ca590ffk|r"}
 n["@Da Mashed Tater"] = {"BilboTBaggin", "|cff4015B|r|cf34b19i|r|ce6561dl|r|cda6221b|r|ccd6d25o|r|cc17829T|r|cb4832cB|r|ca88e30a|r|c9b9934g|r|c8fa538g|r|c82b03ci|r|c76bb40n|r"}
-n["@BroseidonWayne"] = {"LOL Sorry","|c0055ffL|r|c1f64e1O|r|c3d73c2L|r |c7a9185S|r|c99a067o|r|cb7af48r|r|cd6be2ar|r|cf4cd0by|r"}
+n["@BroseidonWayne"] = {"Fullmetal Arcanist","|c27a529F|r|c29aa27u|r|c2ab024l|r|c2cb522l|r|c2eba1fm|r|c30bf1de|r|c31c51bt|r|c33ca18a|r|c35cf16l|r |c38da11A|r|c3adf0er|r|c3be50cc|r|c3dea0aa|r|c3fef07n|r|c41f405i|r|c42fa02s|r|c44ff00t|r"}
 n["@xRisK_Flash"] = {"Flash", "|ca600ffF|r|cbc00bfl|r|cd30080a|r|ce90040s|r|cff0000h|r"}
 n["@UkZ FlaKezZ"] = {"FlaKezZ", "|ca99cffF|r|c9f92ffl|r|c9688ffa|r|c8c7effK|r|c8274ffe|r|c796affz|r|c6f60ffZ|r"}
 n["@Ravlet"] = {"Telvar", "|c5da3ffTelvar|r"}
@@ -97,7 +97,7 @@ n["@Weichmayer"] = {"Weichi", "|cedb328W|r|c6b342ce|r|cff0000i|r|c44c74cc|r|cfaf
 n["@Ravox_0"] = {"Ravooox", "|c982abcRavooox|r"}
 n["@FlamingOil4163"] = {"FlamingOil", "|cff0000F|r|cf8061bl|r|cf10c36a|r|ce91351m|r|ce2196ci|r|cdb1f87n|r|cd425a2g|r|ccc2cbdO|r|cc532d8i|r|cbe38f3l|r"}
 n["@llNameIessll"] = {"Nameless", "|c00fffbN|r|c00dbd7a|r|c00b6b3m|r|c00928fe|r|c006d6cl|r|c004948e|r|c002424s|r|c000000s|r"}
-n["@VenomZ Cr"] = {"Venomz", "|ce4001fV|r|c0800dfe|r|cf8f600n|r|c00e901o|r|cff6a00m|r|cec00dcz|r"}
+n["@VenomZ Cr"] = {"Venomz","|c0061feV|r|c3381fee|r|c66a0fen|r|c99c0ffo|r|cccdfffm|r|cffffffz|r"}
 n["@AK40Webster"] = {"Webster", "|c00ff00W|r|c00ff24e|r|c00ff49b|r|c00ff6ds|r|c00ff92t|r|c00ffb6e|r|c00ffdbr|r"}
 n["@II AWW II"] = {"Willy", "|c0000ffW|r|cffffffi|r|caaaaffl|r|c5555ffl|r|c0000ffy|r"}
 n["@shadyn0slim"] = {"Shady", "|cf4a4c0S|r|ce3b2b3h|r|cd3c1a6a|r|cc2cf98d|r|cb1dd8by|r"}
@@ -200,7 +200,7 @@ n["@Xenujiva"] = {"candy", "|cFFC040ca|r|cFF8080n|r|cFF40C0d|r|cFF00FFy|r"}
 n["@Skorpion-kingx3"] = {"Skorpi", "|c7800a3Skorpi|r"}
 n["@EternalDarkside"] = {"EternalDarkside", "|c00b125E|r|c08a435t|r|c109844e|r|c188b54r|r|c1f7e63n|r|c277273a|r|c2f6582l|r|c375992D|r|c3f4ca1a|r|c473fb1r|r|c4f33c0k|r|c5626d0s|r|c5e19dfi|r|c660defd|r|c6e00fee|r"}
 n["@ItsWhoPass"] = {"Most Inexperienced", "|c94f1ffM|r|c8be3ffo|r|c83d5ffs|r|c7ac6fft|r |c68aaffI|r|c609cffn|r|c578effe|r|c4e80ffx|r|c4671ffp|r|c3d63ffe|r|c3455ffr|r|c2c47ffi|r|c2339ffe|r|c1a2bffn|r|c111cffc|r|c090effe|r|c0000ffd|r"}
-n["@III-R-Y-A-N-lll"] = {"III-R-Y-A-N-III", "|cff00ffI|r|c000000I|r|cff00ffI|r|c000000-|r|cff00ffR|r|c000000-|r|cff00ffY|r|c000000-|r|cff00ffA|r|c000000-|r|cff00ffN|r|c000000-|r|cff00ffI|r|c000000I|r|cff00ffI|r"}
+n["@x-Ryvn-"] = {"III-R-Y-A-N-III", "|cff00ffI|r|c000000I|r|cff00ffI|r|c000000-|r|cff00ffR|r|c000000-|r|cff00ffY|r|c000000-|r|cff00ffA|r|c000000-|r|cff00ffN|r|c000000-|r|cff00ffI|r|c000000I|r|cff00ffI|r"}
 n["@sajr_99"] = {"Sajr_99", "|c831100S|r|c951f00a|r|ca62d00j|r|cb83b00r|r|cca4900_|r|cdc57009|r|ced65009|r"}
 n["@James-Hond-007"] = {"James Hond", "|cffffffJ|r|cc0c0c0ames|r |cffffffH|r|cc0c0c0ond|r"}
 n["@Blaisze"] = {"Blaisze", "|cb51a00B|r|cc13700l|r|ccd5400a|r|cd97100i|r|ce58d00s|r|cf1aa00z|r|cfdc700e|r"}
