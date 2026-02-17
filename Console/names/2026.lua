@@ -44,3 +44,4 @@ n["@BloodySknemo"] = {"GuarEmperor", "|c980101G|r|c9f0b01u|r|ca61501a|r|cad1f01r
 n["@doctor mrow"] = {"kiki mrow","|cff00ffk|r|cdf20ffi|r|cbf40ffk|r|c9f60ffi|r |c609fffm|r|c40bfffr|r|c20dfffo|r|c00ffffw|r"}
 n["@Mikes-Swagger00"] = {"Mikes-Swagger00","|c0011ffM|r|c011fedi|r|c022edbk|r|c033cc8e|r|c044bb6s|r|c0559a4-|r|c066892S|r|c087680w|r|c09846da|r|c0a935bg|r|c0ba149g|r|c0cb037e|r|c0dbe24r|r|c0ecd120|r|c0fdb000|r"}
 n["@WAR PIG 151"] = {"WAR PIG","|cff00ffW|r|cdb24ffA|r|cb649ffR|r |c6d92ffP|r|c49b6ffI|r|c24dbffG|r"}
+n["@PaigeOC99"] = {"PaigeOC99","|c99244fP|r|c8c204da|r|c7e1d4bi|r|c711948g|r|c641546e|r|c561144O|r|c490e42C|r|c3b0a3f9|r|c2e063d9|r"}
