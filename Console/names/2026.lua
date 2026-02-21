@@ -51,3 +51,7 @@ n["@Robotom-9000"] = {"Robotom-9000", "|c1f00ffR|r|c1c12ffo|r|c1924ffb|r|c1636ff
 n["@BobDRAD"] = {"Bob Abides", "|cffff00B|r|cfbe90bo|r|cf7d417b|r|cf3be23 |r|cefa92eA|r|ceb933ab|r|ce77e46i|r|ce36851d|r|cdf535de|r|cdc3e69s|r"}
 n["@madridgirl7"] = {"madrid", "|cff0000m|r|cff0031a|r|cff0062d|r|cff0093r|r|cff00c4i|r|cff01f6d|r"}
 n["@RocklicenseDTB"] = {"Rock", "|c00ff1fR|r|c00e769o|r|c00cfb4c|r|c00b7ffk|r"}
+n["@XaviWalonso"] = {"XaviWalonso", "|c0fff50X|r|c0ef248a|r|c0ce640v|r|c0bd938i|r|c09cc30W|r|c08c028a|r|c06b320l|r|c05a618o|r|c039910n|r|c028d08s|r|c008000o|r"}
+n["@Stew6950"] = {"STEW","|c49007aS|r|c3100a6T|r|c1800d3E|r|c0000ffW|r"}
+n["@I-Love-Yondu"] = {"Just K","|cff00ffJ|r|ccc33ffu|r|c9966ffs|r|c6699fft|r |c00ffffK|r"}
+n["@ThePrettyNiki"] = {"iJustWorkHere","|cff2391i|r|cff359aJ|r|cff48a3u|r|cff5aads|r|cff6cb6t|r|cff7fbfW|r|cff91c8o|r|cffa3d1r|r|cffb6dak|r|cffc8e4H|r|cffdaede|r|cffedf6r|r|cffffffe|r"}
