@@ -42,3 +42,4 @@ n["@gnomeimnot"] = {"gnomeimnot", "|cff64bcg|r|cff75c3n|r|cff87cbo|r|cff98d2m|r|
 n["@Nickx9"] = {"Nick", "|cd00cffN|r|cba19ffi|r|ca525ffc|r|c8f31ffk|r"}
 n["@LeeWangcai"] = {"Wangcai", "|cfc2428W|r|cf84922a|r|cf56d1bn|r|cf19214g|r|ceeb60dc|r|ceadb07a|r|ce7ff00i|r"}
 n["@Saarz"] = {"Saarz", "|c8200ffS|r|c9000ffa|r|c9d00ffa|r|cab00ffr|r|cb900ffz|r"}
+n["@ShuguBota"] = {"ShuguBota", "|cffe200S|r|cffc600h|r|cffa900u|r|cff8d00g|r|cff7100u|r|cff5500B|r|cff3800o|r|cff1c00t|r|cff0000a|r"}
