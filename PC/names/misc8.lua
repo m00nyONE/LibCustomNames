@@ -39,3 +39,6 @@ n["@Valerachich"] = {"Valerachich", "|c7c00ccV|r|c8202d1a|r|c8804d6l|r|c8e06dbe|
 n["@TrustInDust"] = {"TrustInDust", "|cd37e2aT|r|cd38434r|r|cd48a3du|r|cd59046s|r|cd59650t|r|cd69b59I|r|cd6a163n|r|cd7a76cD|r|cd8ad75u|r|cd8b37fs|r|cd9b988t|r"}
 n["@Fanatir"] = {"Fanatir", "|c54bde0Fanatir|r"}
 n["@gnomeimnot"] = {"gnomeimnot", "|cff64bcg|r|cff75c3n|r|cff87cbo|r|cff98d2m|r|cffa9dae|r|cffbae1i|r|cffcbe9m|r|cffddf0n|r|cffeef8o|r|cfffffft|r"}
+n["@Nickx9"] = {"Nick", "|cd00cffN|r|cba19ffi|r|ca525ffc|r|c8f31ffk|r"}
+n["@LeeWangcai"] = {"Wangcai", "|cfc2428W|r|cf84922a|r|cf56d1bn|r|cf19214g|r|ceeb60dc|r|ceadb07a|r|ce7ff00i|r"}
+n["@Saarz"] = {"Saarz", "|c8200ffS|r|c9000ffa|r|c9d00ffa|r|cab00ffr|r|cb900ffz|r"}
