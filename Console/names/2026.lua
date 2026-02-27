@@ -58,3 +58,5 @@ n["@KruxAF"] = {"KruxAF", "|cff99ffK|r|cdcaddcr|r|cb9c2bau|r|c97d697x|r|c74eb75A
 n["@BakerBakker"] = {"Baker", "|c0cf3dbB|r|c0cf3dba|r|c0cf3dbk|r|c0cf3dbe|r|c0cf3dbr|r"}
 n["@RocklicenseDTB"] = {"Rock -_-", "|cffe335R|r|cffe52do|r|cffe725c|r|cffea1ek|r|cffec16 |r|cffef0f-|r|cfff107_|r|cfff400-|r"}
 n["@madridgirl7"] = {"madridgirl7", "|cfff600m|r|cfcdd19a|r|cf9c433d|r|cf6ac4cr|r|cf49366i|r|cf17b7fd|r|cee6299g|r|cec49b2i|r|ce931ccr|r|ce618e5l|r|ce400ff7|r"}
+n["@Cindeless"] = {"Sweetroll", "|cf1c9feS|r|ceccefew|r|ce7d3fee|r|ce2d8fee|r|cdeddfet|r|cd9e1fer|r|cd4e6feo|r|ccfebfel|r|ccaf0fel|r"}
+n["@Pixella"] = {"Dusk", "|c0d0d0dDusk|r"}
