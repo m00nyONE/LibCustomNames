@@ -57,3 +57,5 @@ n["@Stew6950"] = {"STEW","|c49007aS|r|c3100a6T|r|c1800d3E|r|c0000ffW|r"}
 n["@I-Love-Yondu"] = {"Just K","|cff00ffJ|r|ccc33ffu|r|c9966ffs|r|c6699fft|r |c00ffffK|r"}
 n["@ThePrettyNiki"] = {"iJustWorkHere","|cff2391i|r|cff359aJ|r|cff48a3u|r|cff5aads|r|cff6cb6t|r|cff7fbfW|r|cff91c8o|r|cffa3d1r|r|cffb6dak|r|cffc8e4H|r|cffdaede|r|cffedf6r|r|cffffffe|r"}
 n["@KruxAF"] = {"KruxAF", "|cff99ffK|r|cdcaddcr|r|cb9c2bau|r|c97d697x|r|c74eb75A|r|c51ff52F|r"}
+n["@Cindeless"] = {"Sweetroll", "|cf1c9feS|r|ceccefew|r|ce7d3fee|r|ce2d8fee|r|cdeddfet|r|cd9e1fer|r|cd4e6feo|r|ccfebfel|r|ccaf0fel|r"}
+n["@Pixella"] = {"Dusk", "|c0d0d0dDusk|r"}
