@@ -62,3 +62,4 @@ n["@Pixella"] = {"Dusk", "|c0d0d0dDusk|r"}
 n["@iCreativities"] = {"Crete", "|cd357feC|r|cb377fer|r|c9397fde|r|c72b6fdt|r|c52d6fce|r"}
 n["@kub"] = {"TK", "|cb51a00T|r|c000000K|r"}
 n["@Vlessi"] = {"Vlessi", "|c5e30ebV|r|c6f42efl|r|c7f55f3e|r|c9067f6s|r|ca07afas|r|cb18cfei|r"}
+n["@glumshine"] = {"glumshine", "|c00ffffg|r|c0bededl|r|c16dbdbu|r|c20c8c9m|r|c2bb6b8s|r|c36a4a6h|r|c419294i|r|c4b7f82n|r|c566d70e|r"}
