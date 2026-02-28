@@ -59,3 +59,6 @@ n["@ThePrettyNiki"] = {"iJustWorkHere","|cff2391i|r|cff359aJ|r|cff48a3u|r|cff5aa
 n["@KruxAF"] = {"KruxAF", "|cff99ffK|r|cdcaddcr|r|cb9c2bau|r|c97d697x|r|c74eb75A|r|c51ff52F|r"}
 n["@Cindeless"] = {"Sweetroll", "|cf1c9feS|r|ceccefew|r|ce7d3fee|r|ce2d8fee|r|cdeddfet|r|cd9e1fer|r|cd4e6feo|r|ccfebfel|r|ccaf0fel|r"}
 n["@Pixella"] = {"Dusk", "|c0d0d0dDusk|r"}
+n["@iCreativities"] = {"Crete", "|cd357feC|r|cb377fer|r|c9397fde|r|c72b6fdt|r|c52d6fce|r"}
+n["@kub"] = {"TK", "|cb51a00T|r|c000000K|r"}
+n["@Vlessi"] = {"Vlessi", "|c5e30ebV|r|c6f42efl|r|c7f55f3e|r|c9067f6s|r|ca07afas|r|cb18cfei|r"}
