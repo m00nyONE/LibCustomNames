@@ -65,3 +65,5 @@ n["@kub"] = {"TK", "|cb51a00T|r|c000000K|r"}
 n["@Vlessi"] = {"Vlessi", "|c5e30ebV|r|c6f42efl|r|c7f55f3e|r|c9067f6s|r|ca07afas|r|cb18cfei|r"}
 n["@glumshine"] = {"glumshine", "|c00ffffg|r|c0bededl|r|c16dbdbu|r|c20c8c9m|r|c2bb6b8s|r|c36a4a6h|r|c419294i|r|c4b7f82n|r|c566d70e|r"}
 n["@Syphon"] = {"Mo", "|cff0000M|r|c0000ffo|r"}
+n["@Angels_Slaughter"] = {"Angel (^.^)", "|cff0000A|r|ce51019n|r|ccc2133g|r|cb2314ce|r|c994266l|r|c7f537f |r|c666399(|r|c4c74b2^|r|c3384cc.|r|c1995e5^|r|c00a6ff)|r"}
+n["@WrathOfKore"] = {"~Wrath~", "|c1600ff~|r|c1214ffW|r|c0e29ffr|r|c0b3effa|r|c0753fft|r|c0368ffh|r|c007dff~|r"}
