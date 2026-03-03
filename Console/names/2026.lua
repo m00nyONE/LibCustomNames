@@ -67,3 +67,4 @@ n["@glumshine"] = {"glumshine", "|c00ffffg|r|c0bededl|r|c16dbdbu|r|c20c8c9m|r|c2
 n["@Syphon"] = {"Mo", "|cff0000M|r|c0000ffo|r"}
 n["@Angels_Slaughter"] = {"Angel (^.^)", "|cff0000A|r|ce51019n|r|ccc2133g|r|cb2314ce|r|c994266l|r|c7f537f |r|c666399(|r|c4c74b2^|r|c3384cc.|r|c1995e5^|r|c00a6ff)|r"}
 n["@WrathOfKore"] = {"~Wrath~", "|c1600ff~|r|c1214ffW|r|c0e29ffr|r|c0b3effa|r|c0753fft|r|c0368ffh|r|c007dff~|r"}
+n["@Wnrxz"] = {"Weiners", "|c1e00c4Weiners|r"}
