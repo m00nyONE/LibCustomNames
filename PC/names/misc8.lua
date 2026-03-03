@@ -44,3 +44,4 @@ n["@LeeWangcai"] = {"Wangcai", "|cfc2428W|r|cf84922a|r|cf56d1bn|r|cf19214g|r|cee
 n["@Saarz"] = {"Saarz", "|c8200ffS|r|c9000ffa|r|c9d00ffa|r|cab00ffr|r|cb900ffz|r"}
 n["@ShuguBota"] = {"ShuguBota", "|cffe200S|r|cffc600h|r|cffa900u|r|cff8d00g|r|cff7100u|r|cff5500B|r|cff3800o|r|cff1c00t|r|cff0000a|r"}
 n["@Barrrny"] = {"Barrny", "|c002bffB|r|c0055ffa|r|c0080ffr|r|c00aafer|r|c00d4fen|r|c00fffey|r"}
+n["@FIatIining"] = {"Ciel", "|c43c9f8C|r|c7493fbi|r|ca45dfde|r|cd427ffl|r"}
