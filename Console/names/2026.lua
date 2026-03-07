@@ -58,3 +58,4 @@ n["@Vlessi"] = {"Vlessi", "|c5e30ebV|r|c6f42efl|r|c7f55f3e|r|c9067f6s|r|ca07afas
 n["@glumshine"] = {"glumshine", "|c00ffffg|r|c0bededl|r|c16dbdbu|r|c20c8c9m|r|c2bb6b8s|r|c36a4a6h|r|c419294i|r|c4b7f82n|r|c566d70e|r"}
 n["@Syphon"] = {"Mo", "|cff0000M|r|c0000ffo|r"}
 n["@Wnrxz"] = {"Weiners", "|c1e00c4Weiners|r"}
+n["@Mondfrost"] = {"Mooncake", "|c00f600M|r|c1dd322o|r|c3ab044o|r|c578d66n|r|c756989c|r|c9246aba|r|caf23cdk|r|ccc00efe|r"}
