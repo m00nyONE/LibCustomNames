@@ -59,3 +59,6 @@ n["@glumshine"] = {"glumshine", "|c00ffffg|r|c0bededl|r|c16dbdbu|r|c20c8c9m|r|c2
 n["@Syphon"] = {"Mo", "|cff0000M|r|c0000ffo|r"}
 n["@Wnrxz"] = {"Weiners", "|c1e00c4Weiners|r"}
 n["@Mondfrost"] = {"Mooncake", "|c00f600M|r|c1dd322o|r|c3ab044o|r|c578d66n|r|c756989c|r|c9246aba|r|caf23cdk|r|ccc00efe|r"}
+n["@CookiezSlayerZ"] = {"CookiezSlayerZ","|cffff00C|r|cebff00o|r|cd8ff00o|r|cc4ff00k|r|cb1ff00i|r|c9dff00e|r|c89ff00z|r|c76ff00S|r|c62ff00l|r|c4eff00a|r|c3bff00y|r|c27ff00e|r|c14ff00r|r|c00ff00Z|r"}
+n["@Valklnr"] = {"Valklnr","|c009a85V|r|c009699a|r|c0091ael|r|c008dc2k|r|c0089d6l|r|c0084ebn|r|c0080ffr|r"}
+n["@Rico RDH"] = {"RICO","|c00ffffR|r|c00c7f1I|r|c0090e2C|r|c0058d4O|r"}
