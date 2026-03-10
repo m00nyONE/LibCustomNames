@@ -45,3 +45,7 @@ n["@Saarz"] = {"Saarz", "|c8200ffS|r|c9000ffa|r|c9d00ffa|r|cab00ffr|r|cb900ffz|r
 n["@ShuguBota"] = {"ShuguBota", "|cffe200S|r|cffc600h|r|cffa900u|r|cff8d00g|r|cff7100u|r|cff5500B|r|cff3800o|r|cff1c00t|r|cff0000a|r"}
 n["@Barrrny"] = {"Barrny", "|c002bffB|r|c0055ffa|r|c0080ffr|r|c00aafer|r|c00d4fen|r|c00fffey|r"}
 n["@FIatIining"] = {"Ciel", "|c43c9f8C|r|c7493fbi|r|ca45dfde|r|cd427ffl|r"}
+n["@PyroFD3S"] = {"PyroFD3S", "|cff0000P|r|cff2400y|r|cff4900r|r|cff6d00o|r|cff9200F|r|cffb600D|r|cffdb003|r|cffff00S|r"}
+n["@rowenlacour"] = {"rowenlacour", "|c73ff00r|r|c81e609o|r|c8fcc12w|r|c9db31be|r|cab9924n|r|cb9802dl|r|cc76635a|r|cd54d3ec|r|ce33347o|r|cf11a50u|r|cff0059r|r"}
+n["@CJACKS25"] = {"CJACKS25", "|c53d709C|r|c49d70fJ|r|c40d615A|r|c36d61bC|r|c2dd520K|r|c23d526S|r|c1ad42c2|r|c10d4325|r"}
+n["@TABANTHAA"] = {"TABANTHAA", "|cd00505T|r|cc20707A|r|cb50a0aB|r|ca70c0cA|r|c860d58N|r|c650da3T|r|c6d0b9dH|r|c760a98A|r|c7e0892A|r"}
