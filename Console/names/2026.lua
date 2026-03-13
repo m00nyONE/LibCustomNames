@@ -62,3 +62,7 @@ n["@Mondfrost"] = {"Mooncake", "|c00f600M|r|c1dd322o|r|c3ab044o|r|c578d66n|r|c75
 n["@CookiezSlayerZ"] = {"CookiezSlayerZ","|cffff00C|r|cebff00o|r|cd8ff00o|r|cc4ff00k|r|cb1ff00i|r|c9dff00e|r|c89ff00z|r|c76ff00S|r|c62ff00l|r|c4eff00a|r|c3bff00y|r|c27ff00e|r|c14ff00r|r|c00ff00Z|r"}
 n["@Valklnr"] = {"Valklnr","|c009a85V|r|c009699a|r|c0091ael|r|c008dc2k|r|c0089d6l|r|c0084ebn|r|c0080ffr|r"}
 n["@Rico RDH"] = {"RICO","|c00ffffR|r|c00c7f1I|r|c0090e2C|r|c0058d4O|r"}
+n["@JungleismVIP"] = {"Jungle", "|c00a300J|r|c1b8231u|r|c366262n|r|c514194g|r|c6c21c5l|r|c8700f6e|r"}
+n["@notnearlyelite"] = {"notnearlyelite", "|c00ff00n|r|c00eb14o|r|c00d827t|r|c00c43bn|r|c00b14ee|r|c009d62a|r|c008976r|r|c007689l|r|c00629dy|r|c004eb1e|r|c003bc4l|r|c0027d8i|r|c0014ebt|r|c0000ffe|r"}
+n["@Midnight_Storm_X"] = {"Midnight_X", "|cff00ffM|r|ce31cffi|r|cc639ffd|r|caa55ffn|r|c8e71ffi|r|c718effg|r|c55aaffh|r|c39c6fft|r|c1ce3ff_|r|c00ffffX|r"}
+n["@darkluk2406"] = {"darkluk2406", "|c000000dark|r|c00e1ffluk|r|cd100002406|r"}
