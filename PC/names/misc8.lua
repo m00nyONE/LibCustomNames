@@ -51,3 +51,4 @@ n["@DunklesLink"] = {"DunklesLink", "|ceffaffD|r|cdff5ffu|r|cd0f0ffn|r|cc0ebffk|
 n["@Sher-E"] = {"Sher-E", "|ce515ffS|r|cd229ffh|r|cbe3effe|r|caa53ffr|r|c9767ff-|r|c837cffE|r"}
 n["@CoOkieBlaster182"] = {"CoOkieBlaster182", "|cfddd35C|r|cfcd243o|r|cfac650O|r|cf9bb5ek|r|cf7af6bi|r|cf5a379e|r|cf49886B|r|cf28c94l|r|cf080a1a|r|cef75aes|r|ced69bct|r|cec5ec9e|r|cea52d7r|r|ce846e41|r|ce73bf28|r|ce52fff2|r"}
 n["@BEAR_406ttv"] = {"BEAR", "|cff4340B|r|cff8280E|r|cffc0bfA|r|cffffffR|r"}
+n["@LuttyTheKiller"] = {"Lutty", "|c187d81Lutty|r"}
