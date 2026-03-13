@@ -65,3 +65,4 @@ n["@Rico RDH"] = {"RICO","|c00ffffR|r|c00c7f1I|r|c0090e2C|r|c0058d4O|r"}
 n["@JungleismVIP"] = {"Jungle", "|c00a300J|r|c1b8231u|r|c366262n|r|c514194g|r|c6c21c5l|r|c8700f6e|r"}
 n["@notnearlyelite"] = {"notnearlyelite", "|c00ff00n|r|c00eb14o|r|c00d827t|r|c00c43bn|r|c00b14ee|r|c009d62a|r|c008976r|r|c007689l|r|c00629dy|r|c004eb1e|r|c003bc4l|r|c0027d8i|r|c0014ebt|r|c0000ffe|r"}
 n["@Midnight_Storm_X"] = {"Midnight_X", "|cff00ffM|r|ce31cffi|r|cc639ffd|r|caa55ffn|r|c8e71ffi|r|c718effg|r|c55aaffh|r|c39c6fft|r|c1ce3ff_|r|c00ffffX|r"}
+n["@darkluk2406"] = {"darkluk2406", "|c000000dark|r|c00e1ffluk|r|cd100002406|r"}
