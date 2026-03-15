@@ -49,3 +49,4 @@ n["@PyroFD3S"] = {"PyroFD3S", "|cff0000P|r|cff2400y|r|cff4900r|r|cff6d00o|r|cff9
 n["@rowenlacour"] = {"rowenlacour", "|c73ff00r|r|c81e609o|r|c8fcc12w|r|c9db31be|r|cab9924n|r|cb9802dl|r|cc76635a|r|cd54d3ec|r|ce33347o|r|cf11a50u|r|cff0059r|r"}
 n["@CJACKS25"] = {"CJACKS25", "|c53d709C|r|c49d70fJ|r|c40d615A|r|c36d61bC|r|c2dd520K|r|c23d526S|r|c1ad42c2|r|c10d4325|r"}
 n["@TABANTHAA"] = {"TABANTHAA", "|cd00505T|r|cc20707A|r|cb50a0aB|r|ca70c0cA|r|c860d58N|r|c650da3T|r|c6d0b9dH|r|c760a98A|r|c7e0892A|r"}
+n["@mdjessup"] = {"mdjessup", "|cc2d428m|r|cc8dc1ed|r|ccfe414j|r|cd5ec0ae|r|cdbf400s|r|cced810s|r|cc1bb20u|r|cb49f30p|r"}
