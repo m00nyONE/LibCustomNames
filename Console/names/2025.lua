@@ -1,4 +1,4 @@
--- SPDX-FileCopyrightText: 2025 m00nyONE
+-- SPDX-FileCopyrightText: 2025 m00nyONE STUDLETON
 -- SPDX-License-Identifier: Artistic-2.0
 
 local lib_name = "LibCustomNames"
@@ -14,7 +14,7 @@ n["@NooobzBeHatln"] = {"Nooobz", "|c5fc461N|r|c7c9d81o|r|c9876a0o|r|cb54ec0o|r|c
 n["@PandaX420"] = {"CANCERBOY", "|c00cd59C|r|c20c54fa|r|c40bc45n|r|c60b43bc|r|c80ab31e|r|c9fa326r|r|cbf9a1cB|r|cdf9212o|r|cff8908y|r"}
 n["@tcnnerr"] = {"tannerk", "|cf0e0fft|r|ce4d3ffa|r|cd7c5ffn|r|ccbb8ffn|r|cbeabffe|r|cb29dffr|r|ca590ffk|r"}
 n["@Da Mashed Tater"] = {"BilboTBaggin", "|cff4015B|r|cf34b19i|r|ce6561dl|r|cda6221b|r|ccd6d25o|r|cc17829T|r|cb4832cB|r|ca88e30a|r|c9b9934g|r|c8fa538g|r|c82b03ci|r|c76bb40n|r"}
-n["@BroseidonWayne"] = {"Broseidon", "|c0000ffB|r|c1412e2r|r|c2724c5o|r|c3b35a8s|r|c4e478be|r|c62596ei|r|c756b51d|r|c897c34o|r|c9c8e17n|r"}
+n["@BroseidonWayne"] = {"LOL Sorry","|c0055ffL|r|c1f64e1O|r|c3d73c2L|r |c7a9185S|r|c99a067o|r|cb7af48r|r|cd6be2ar|r|cf4cd0by|r"}
 n["@xRisK_Flash"] = {"Flash", "|ca600ffF|r|cbc00bfl|r|cd30080a|r|ce90040s|r|cff0000h|r"}
 n["@UkZ FlaKezZ"] = {"FlaKezZ", "|ca99cffF|r|c9f92ffl|r|c9688ffa|r|c8c7effK|r|c8274ffe|r|c796affz|r|c6f60ffZ|r"}
 n["@Ravlet"] = {"Telvar", "|c5da3ffTelvar|r"}
@@ -57,7 +57,7 @@ n["@Lippi1606"] = {"Lippi1606", "|c000000Lip|r|cff0000pi1|r|cffff00606|r"}
 n["@M0n_IKeY_D_R4V3N"] = {"モンキー・D・レイブン", "|cff0000モンキー|r|cffffff・D・|r|cff0000レイブン|r"}
 n["@RAGE TurtIe"] = {"RAGE TurtIe", "|cb51a00R|r|cb72a00A|r|cb83a00G|r|cba4b00E|r |cbd6b00T|r|cbe7b00u|r|cc08b00r|r|cc19c00t|r|cc3ac00I|r|cc4bc00e|r"}
 n["@xEarthAngeI"] = {"xEarthAngeI", "|ceaafc8x|r|cdda5c5E|r|cd09bc2a|r|cc392ber|r|cb688bbt|r|caa7eb8h|r|c9d74b5A|r|c906ab2n|r|c8361aeg|r|c7657abe|r|c694da8l|r "}
-n["@ReaperVixn"] = {"ReaperVixn", "|c00ffffR|r|c1cffe3e|r|c39ffc6a|r|c55ffaap|r|c71ff8ee|r|c8eff71r|r|caaff55V|r|cc6ff39i|r|ce3ff1cx|r|cffff00n|r"}
+n["@ReaperVixn"] = {"GordyRamsey","|c00ffffG|r|c1affe6o|r|c33ffccr|r|c4dffb3d|r|c66ff99y|r|c80ff80R|r|c99ff66a|r|cb3ff4dm|r|cccff33s|r|ce6ff1ae|r|cffff00y|r"}
 n["@bLazinggg-"] = {"bLazinggg-", "|c2bebeeb|r|c42d1f0L|r|c59b7f2a|r|c709df4z|r|c8783f6i|r|c9f68f7n|r|cb64ef9g|r|ccd34fbg|r|ce41afdg|r|cfb00ff-|r"}
 n["@AzAssassin1"] = {"AzAssassin", "|cffff00A|r|cffe300z|r|cffc600A|r|cffaa00s|r|cff8e00s|r|cff7100a|r|cff5500s|r|cff3900s|r|cff1c00i|r|cff0000n|r"}
 n["@Jrotten34555"] = {"Floor Lord", "|cffffffFloor Lord|r"}
@@ -197,10 +197,10 @@ n["@iheartesa"] = {"Esa", "|cdda2ffEsa|r"}
 n["@Esa Raptors"] = {"Esa", "|cdda2ffEsa|r"}
 n["@InfiniteDarkside"] = {"1%Darkside", "|cff00001|r|cf8061b%|r|cf10c36D|r|ce91351a|r|ce2196cr|r|cdb1f87k|r|cd425a2s|r|ccc2cbdi|r|cc532d8d|r|cbe38f3e|r"}
 n["@Xenujiva"] = {"candy", "|cFFC040ca|r|cFF8080n|r|cFF40C0d|r|cFF00FFy|r"}
-n["@Skorpin-kingx3"] = {"Skorpi", "|c7800a3Skorpi|r"}
+n["@Skorpion-kingx3"] = {"Skorpi", "|c7800a3Skorpi|r"}
 n["@EternalDarkside"] = {"EternalDarkside", "|c00b125E|r|c08a435t|r|c109844e|r|c188b54r|r|c1f7e63n|r|c277273a|r|c2f6582l|r|c375992D|r|c3f4ca1a|r|c473fb1r|r|c4f33c0k|r|c5626d0s|r|c5e19dfi|r|c660defd|r|c6e00fee|r"}
 n["@ItsWhoPass"] = {"Most Inexperienced", "|c94f1ffM|r|c8be3ffo|r|c83d5ffs|r|c7ac6fft|r |c68aaffI|r|c609cffn|r|c578effe|r|c4e80ffx|r|c4671ffp|r|c3d63ffe|r|c3455ffr|r|c2c47ffi|r|c2339ffe|r|c1a2bffn|r|c111cffc|r|c090effe|r|c0000ffd|r"}
-n["@III-R-Y-A-N-lll"] = {"III-R-Y-A-N-III", "|cff00ffI|r|c000000I|r|cff00ffI|r|c000000-|r|cff00ffR|r|c000000-|r|cff00ffY|r|c000000-|r|cff00ffA|r|c000000-|r|cff00ffN|r|c000000-|r|cff00ffI|r|c000000I|r|cff00ffI|r"}
+n["@x-Ryvn-"] = {"III-R-Y-A-N-III", "|cff00ffI|r|c000000I|r|cff00ffI|r|c000000-|r|cff00ffR|r|c000000-|r|cff00ffY|r|c000000-|r|cff00ffA|r|c000000-|r|cff00ffN|r|c000000-|r|cff00ffI|r|c000000I|r|cff00ffI|r"}
 n["@sajr_99"] = {"Sajr_99", "|c831100S|r|c951f00a|r|ca62d00j|r|cb83b00r|r|cca4900_|r|cdc57009|r|ced65009|r"}
 n["@James-Hond-007"] = {"James Hond", "|cffffffJ|r|cc0c0c0ames|r |cffffffH|r|cc0c0c0ond|r"}
 n["@Blaisze"] = {"Blaisze", "|cb51a00B|r|cc13700l|r|ccd5400a|r|cd97100i|r|ce58d00s|r|cf1aa00z|r|cfdc700e|r"}
@@ -221,7 +221,7 @@ n["@Ave_Wi"] = {"Ave", "|c00c203Ave|r"}
 n["@Lady Lykan"] = {"Lady Lykan", "|c5e30ebL|r|c6c41eda|r|c7952efd|r|c8763f1y|r |ca285f6L|r|cb096f8y|r|cbea7fak|r|ccbb8fca|r|cd9c9fen|r"}
 n["@ElderModz1423"] = {"ElderModz1423", "|cd357feE|r|cd062f4l|r|ccd6debd|r|ccb79e1e|r|cc884d8r|r|cc58fceM|r|cc29ac5o|r|cbfa5bbd|r|cbcb0b1z|r|cbabca81|r|cb7c79e4|r|cb4d2952|r|cb1dd8b3|r"}
 n["@sourpatchkid516"] = {"sour", "|cff0000sour|r"}
-n["@MeDuncanNow"] = {"MeDuncanNow", "|c9195ffM|r|c9995ffe|r|ca195ffD|r|ca895ffu|r|cb095ffn|r|cb895ffc|r|cc094ffa|r|cc894ffn|r|ccf94ffN|r|cd794ffo|r|cdf94ffw|r"}
+n["@MeDuncanNow"] = {"duncan", "|cb310b3d|r|c9d31bau|r|c8852c1n|r|c7273c8c|r|c5d94cfa|r|c47b5d6n|r"}
 n["@Sugar Clawz"] = {"Suge", "|cffc2f7S|r|cfed5efu|r|cfce8e7g|r|cfbfbdfe|r"}
 n["@Forward1862"] = {"Forward1862", "|cC9A227Forward1862|r"}
 n["@qTeemoBOSS"] = {"qTeemoBOSS", "|cff4015q|r|cef3e2aT|r|cdf3d40e|r|ccf3b55e|r|cbf3a6bm|r|caf3880o|r|c9e3695B|r|c8e35abO|r|c7e33c0S|r|c6e32d6S|r"}
@@ -236,8 +236,8 @@ n["@Bl4ckDragon1572"] = {"Dragon", "|c7b02b8D|r|c953593r|r|cb0676ea|r|cca9a4ag|r
 n["@Kraapo v3"] = {"Kraapo v3", "|c7b02b8K|r|c8c22a1r|r|c9c418aa|r|cad6173a|r|cbd815cp|r|ccea045o|r |cefdf17v|r|cffff003|r"}
 n["@vBeat Static"] = {"Static", "|cffff00S|r|cfefe15t|r|cfdfd2aa|r|cfbfb3et|r|cfafa53i|r|cf9f968c|r"}
 n["@Control_TheHype"] = {"Control_TheHype", "|c450d59C|r|c400f5bo|r|c3b125en|r|c361460t|r|c321763r|r|c2d1965o|r|c281c68l|r|c231e6a_|r|c1e206cT|r|c19236fh|r|c142571e|r|c102874H|r|c0b2a76y|r|c062d79p|r|c012f7be|r"}
-n["@stavizs"] = {"Ginabean", "|cff00ffG|r|cdb24ffi|r|cb649ffn|r|c926dffa|r|c6d92ffb|r|c49b6ffe|r|c24dbffa|r|c00ffffn|r"}
-n["@0-Vidrilrak-0"] = {"0-Vidrilrak-0", "|c0000ff0|r|c3333ff-|r|c6666ffV|r|c9999ffi|r|cccccffd|r|cffffffr|ril|cffffffr|r|cffbfbfa|r|cff8080k|r|cff4040-|r|cff00000|r"}
+n["@Stavizs"] = {"Ginabean", "|cff00ffG|r|cdb24ffi|r|cb649ffn|r|c926dffa|r|c6d92ffb|r|c49b6ffe|r|c24dbffa|r|c00ffffn|r"}
+n["@O-Vidrilrak-O"] = {"0-Vidrilrak-0", "|c0000ff0|r|c3333ff-|r|c6666ffV|r|c9999ffi|r|cccccffd|r|cffffffr|ril|cffffffr|r|cffbfbfa|r|cff8080k|r|cff4040-|r|cff00000|r"}
 n["@sesamel0l"] = {"sesame", "|cf051ces|r|ce861d5e|r|ce071dcs|r|cd982e3a|r|cd192eam|r|cc9a2f1e|r"}
 n["@defsyfe"] = {"defsyfe", "|c7927ddD|r|c6f3ae2e|r|c654de6f|r|c5c60ebs|r|c5272f0y|r|c4885f4f|r|c3e98f9e|r"}
 n["@EIenii"] = {"Elenii", "|cff52a5E|r|cf142b7l|r|ce431c9e|r|cd621dbn|r|cc910edi|r|cbb00ffi|r"}

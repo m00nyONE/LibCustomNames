@@ -262,6 +262,7 @@ n["@prollynate"] = {"prollynate", "|ceb12cep|r|cd624d3r|r|cc236d9o|r|cad48del|r|
 n["@Woesz"] = {"Woesz", "|c272727W|r|c4f4f4fo|r|c767676e|r|c9e9e9es|r|cc5c5c5z|r"}
 n["@DejaVuDetroit"] = {"DejaVuDetroit", "|c909b9dD|r|c8ba1a5e|r|c86a7adj|r|c81adb6a|r|c7cb3beV|r|c77b9c6u|r|c73c0ceD|r|c6ec6d6e|r|c69ccdet|r|c64d2e7r|r|c5fd8efo|r|c5adef7i|r|c55e4fft|r"}
 n["@Rustieee"] = {"Rustieee", "|c377132R|r|c466150u|r|c56516ds|r|c65418at|r|c7530a7i|r|c8420c5e|r|c9410e2e|r|ca300ffe|r"}
+n["@Rusty-Reformed"] = {"Rusty", "|c377132R|r|c466150u|r|c56516ds|r|c65418at|r|c7530a7y|r"}
 n["@ArkansasFive"] = {"ArkansasFive", "|cff2339ArkansasFive|r"}
 n["@Minartus"] = {"Minartus", "|ceb801aMinartus|r"}
 n["@Somatariel"] = {"Soma", "|c4713d2S|r|c4826a5o|r|c4a3878m|r|c4b4b4ba|r"}
