@@ -66,3 +66,5 @@ n["@notnearlyelite"] = {"notnearlyelite", "|c00ff00n|r|c00eb14o|r|c00d827t|r|c00
 n["@Midnight_Storm_X"] = {"Midnight_X", "|cff00ffM|r|ce31cffi|r|cc639ffd|r|caa55ffn|r|c8e71ffi|r|c718effg|r|c55aaffh|r|c39c6fft|r|c1ce3ff_|r|c00ffffX|r"}
 n["@darkluk2406"] = {"darkluk2406", "|c000000dark|r|c00e1ffluk|r|cd100002406|r"}
 n["@FunkyStatue"] = {"funkystatue", "|c0be2fff|r|c16ccffu|r|c21b5ffn|r|c2c9effk|r|c3788ffy|r|c4371ffs|r|c4e5bfft|r|c5944ffa|r|c642dfft|r|c6f17ffu|r|c7a00ffe|r"}
+n["@AstroSixOne"] = {"AstroSixOne", "|cff0000A|r|ceb0000s|r|cd70000t|r|cc30000r|r|caf0000o|r|c9b0000S|r|c870000i|r|c730000x|r|c5f0000O|r|c4b0000n|r|c370000e|r"}
+n["@NyxHexed"] = {"NyxHexed", "|cf05b5bN|r|cce7272y|r|cab8a8ax|r|c89a1a1H|r|c67b9b9e|r|c45d0d0x|r|c22e8e8e|r|c00ffffd|r"}
