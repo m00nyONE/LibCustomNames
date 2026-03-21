@@ -68,3 +68,6 @@ n["@darkluk2406"] = {"darkluk2406", "|c000000dark|r|c00e1ffluk|r|cd100002406|r"}
 n["@FunkyStatue"] = {"funkystatue", "|c0be2fff|r|c16ccffu|r|c21b5ffn|r|c2c9effk|r|c3788ffy|r|c4371ffs|r|c4e5bfft|r|c5944ffa|r|c642dfft|r|c6f17ffu|r|c7a00ffe|r"}
 n["@AstroSixOne"] = {"AstroSixOne", "|cff0000A|r|ceb0000s|r|cd70000t|r|cc30000r|r|caf0000o|r|c9b0000S|r|c870000i|r|c730000x|r|c5f0000O|r|c4b0000n|r|c370000e|r"}
 n["@NyxHexed"] = {"NyxHexed", "|cf05b5bN|r|cce7272y|r|cab8a8ax|r|c89a1a1H|r|c67b9b9e|r|c45d0d0x|r|c22e8e8e|r|c00ffffd|r"}
+n["@Sleeperz Fade"] = {"Zzz", "|cee719eZ|r|cf4a2bfz|r|cf9d3e0z|r"}
+n["@NocturnaStrix"] = {"NocturnaStrix", "|c000000N|r|c001500o|r|c002b00c|r|c004000t|r|c005500u|r|c006a00r|r|c008000n|r|c009500a|r|c00aa00S|r|c00bf00t|r|c00d500r|r|c00ea00i|r|c00ff00x|r"}
+n["@Sheraaa—-"] = {"@Shera", "|cff01da@|r|cdd2ce1S|r|cbb56e7h|r|c9981eee|r|c77abf4r|r|cff2ab4a|r"}
