@@ -62,3 +62,5 @@ n["@Jirachi_Ex"] = {"Jirachi", "|c19a0ffJ|r|c2c90ffi|r|c3e80ffr|r|c5170ffa|r|c63
 n["@DestroyerESO"] = {"DestroyerESO", "|c8e0bebD|r|c820bd6e|r|c760bc2s|r|c6a0baet|r|c5e0b99r|r|c530b85o|r|c470a71y|r|c3b0a5ce|r|c2f0a48r|r|c230a34E|r|c170a1fS|r|c0b0a0bO|r"}
 n["@RyznESO"] = {"Ry", "|c6680ffR|r|ccb17ffy|r"}
 n["@LordG.36"] = {"LordG.36", "|c2822fbL|r|c3141f6o|r|c3b61f2r|r|c4581edd|r|c4ea0e9G|r|c58c0e4.|r|c61dfe03|r|c6bffdb6|r"}
+n["@Xphalt"] = {"Xphalt", "|cdd2b2aX|r|cbb5555p|r|c9a807fh|r|c78aaa9a|r|c56d4d4l|r|c34fffet|r"}
+n["@SkinnyBE"] = {"SkinnyBE", "|cffce0eS|r|cffb011k|r|cff9313i|r|cff7615n|r|cff5817n|r|cff3b1ay|r|cff1d1cB|r|cff001eE|r"}
