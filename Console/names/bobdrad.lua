@@ -20,5 +20,6 @@ n["@Mikes-Swagger00"] = {"Swagger-.-", "|c3ebd34S|r|c50b63aw|r|c63af40a|r|c75a84
 n["@piefase"] = {"Pie", "|cea07c2P|r|cea07cai|r|cea07d3e|r"}
 n["@Robotom-9000"] = {"Robotom-9000", "|c00c9feR|r|c16cde6o|r|c2cd2cfb|r|c43d7b8o|r|c59dca1t|r|c6fe18ao|r|c86e673m|r|c9ceb5c-|r|cb2f0459|r|cc9f52e0|r|cdffa170|r|cf6ff000|r"}
 n["@RocklicenseDTB"] = {"Rock -_-", "|cffe335R|r|cffe52do|r|cffe725c|r|cffea1ek|r|cffec16 |r|cffef0f-|r|cfff107_|r|cfff400-|r"}
+n["@Velvett_Violence"] = {"Vel", "|cff00c0V|r|cff00c0e|r|cff00c0l|r"}
 n["@WrathOfKore"] = {"~Wrath~", "|cba08f3~|r|cc50bcbW|r|cd00ea4r|r|cdb117da|r|ce61456t|r|cf1172fh|r|cfd1b08~|r"}
 n["@xYouknowthevibes"] = {"Vibes", "|cff0000V|r|cbf003fi|r|c7f007fb|r|c3f00bfe|r|c0000ffs|r"}
