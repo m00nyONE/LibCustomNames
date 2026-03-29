@@ -71,3 +71,4 @@ n["@NyxHexed"] = {"NyxHexed", "|cf05b5bN|r|cce7272y|r|cab8a8ax|r|c89a1a1H|r|c67b
 n["@Sleeperz Fade"] = {"Zzz", "|cee719eZ|r|cf4a2bfz|r|cf9d3e0z|r"}
 n["@NocturnaStrix"] = {"NocturnaStrix", "|c000000N|r|c001500o|r|c002b00c|r|c004000t|r|c005500u|r|c006a00r|r|c008000n|r|c009500a|r|c00aa00S|r|c00bf00t|r|c00d500r|r|c00ea00i|r|c00ff00x|r"}
 n["@Sheraaa—-"] = {"@Shera", "|cff01da@|r|cdd2ce1S|r|cbb56e7h|r|c9981eee|r|c77abf4r|r|cff2ab4a|r"}
+n["@ImPoStier"] = {"ImPoStier", "|c00ffffImP|r|cff00ffo|r|c00ffffS|r|cff00fftier|r"}
