@@ -64,3 +64,6 @@ n["@RyznESO"] = {"Ry", "|c6680ffR|r|ccb17ffy|r"}
 n["@LordG.36"] = {"LordG.36", "|c2822fbL|r|c3141f6o|r|c3b61f2r|r|c4581edd|r|c4ea0e9G|r|c58c0e4.|r|c61dfe03|r|c6bffdb6|r"}
 n["@Xphalt"] = {"Xphalt", "|cdd2b2aX|r|cbb5555p|r|c9a807fh|r|c78aaa9a|r|c56d4d4l|r|c34fffet|r"}
 n["@SkinnyBE"] = {"SkinnyBE", "|cffce0eS|r|cffb011k|r|cff9313i|r|cff7615n|r|cff5817n|r|cff3b1ay|r|cff1d1cB|r|cff001eE|r"}
+n["@Kaioshin14"] = {"Kaioshin", "|c453effK|r|c5f40fea|r|c7a41fei|r|c9542fdo|r|caf43fds|r|cca45fch|r|ce446fci|r|cff47fbn|r"}
+n["@CheshireNeko"] = {"CheshireNeko", "|cc515c9C|r|cb32bcbh|r|ca140cde|r|c8f55cfs|r|c7d6ad1h|r|c6c7fd3i|r|c5a95d4r|r|c48aad6e|r|c36bfd8N|r|c24d5dae|r|c12eadck|r|c00ffdeo|r"}
+n["@SLIMLAC2000"] = {"SLIMLAC2000", "|cea3f21S|r|cd55228L|r|cbf662eI|r|caa7934M|r|c958c3bL|r|c809f41A|r|c6bb248C|r|c56c54e2|r|c40d9540|r|c2bec5b0|r|c16ff610|r"}
