@@ -67,3 +67,5 @@ n["@SkinnyBE"] = {"SkinnyBE", "|cffce0eS|r|cffb011k|r|cff9313i|r|cff7615n|r|cff5
 n["@Kaioshin14"] = {"Kaioshin", "|c453effK|r|c5f40fea|r|c7a41fei|r|c9542fdo|r|caf43fds|r|cca45fch|r|ce446fci|r|cff47fbn|r"}
 n["@CheshireNeko"] = {"CheshireNeko", "|cc515c9C|r|cb32bcbh|r|ca140cde|r|c8f55cfs|r|c7d6ad1h|r|c6c7fd3i|r|c5a95d4r|r|c48aad6e|r|c36bfd8N|r|c24d5dae|r|c12eadck|r|c00ffdeo|r"}
 n["@SLIMLAC2000"] = {"SLIMLAC2000", "|cea3f21S|r|cd55228L|r|cbf662eI|r|caa7934M|r|c958c3bL|r|c809f41A|r|c6bb248C|r|c56c54e2|r|c40d9540|r|c2bec5b0|r|c16ff610|r"}
+n["@element0032"] = {"element0032", "|c80ffffe|r|c73ecf2l|r|c66d9e6e|r|c5ac6d9m|r|c4db3cce|r|c40a0c0n|r|c338cb3t|r|c2679a60|r|c1a66990|r|c0d538d3|r|c0040802|r"}
+n["@MarmaladeMaddness"] = {"Marmalade", "|c8080ffM|r|c7b76f5a|r|c766becr|r|c7161e2m|r|c6d56d8a|r|c684ccel|r|c6341c5a|r|c5e37bbd|r|c592cb1e|r"}
