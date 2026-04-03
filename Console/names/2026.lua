@@ -75,3 +75,4 @@ n["@ImPoStier"] = {"ImPoStier", "|c00ffffImP|r|cff00ffo|r|c00ffffS|r|cff00fftier
 n["@brandonwaszczuk1"] = {"Brandon", "|cc1006eB|r|ca11673r|r|c812c78a|r|c61427dn|r|c405781d|r|c206d86o|r|c00838bn|r"}
 n["@LorienCalina"] = {"LorienCalina", "|c450051L|r|c3f004ao|r|c380042r|r|c32003bi|r|c2c0034e|r|c26002cn|r|c1f0025C|r|c19001da|r|c130016l|r|c0d000fi|r|c060007n|r|c000000a|r"}
 n["@xAkita-"] = {"xAkita-", "|cbe38f3x|r|c9e4aefA|r|c7f5beak|r|c5f6de6i|r|c3f7ee1t|r|c2090dda|r|c00a1d8-|r"}
+n["@Vozadex"] = {"Vozadex", "|c006875V|r|c11578co|r|c2245a3z|r|c3334baa|r|c4423d1d|r|c5511e8e|r|c6600ffx|r"}
