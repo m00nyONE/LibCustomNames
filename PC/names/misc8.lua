@@ -70,3 +70,4 @@ n["@SLIMLAC2000"] = {"SLIMLAC2000", "|cea3f21S|r|cd55228L|r|cbf662eI|r|caa7934M|
 n["@element0032"] = {"element0032", "|c80ffffe|r|c73ecf2l|r|c66d9e6e|r|c5ac6d9m|r|c4db3cce|r|c40a0c0n|r|c338cb3t|r|c2679a60|r|c1a66990|r|c0d538d3|r|c0040802|r"}
 n["@MarmaladeMaddness"] = {"Marmalade", "|c8080ffM|r|c7b76f5a|r|c766becr|r|c7161e2m|r|c6d56d8a|r|c684ccel|r|c6341c5a|r|c5e37bbd|r|c592cb1e|r"}
 n["@SnowPrime"] = {"SnowPrime", "|c4700e3S|r|c5e00c8n|r|c7500aco|r|c8c0091w|r|ca30075P|r|cba005ar|r|cd1003ei|r|ce80023m|r|cff0007e|r"}
+n["@xkuroibara"] = {"Kuroibara", "|cff00ffK|r|cec10f5u|r|cd920ecr|r|cc52fe2o|r|cb23fd8i|r|c8754d3b|r|c5c69cea|r|c317ec8r|r|c0693c3a|r"}
