@@ -71,3 +71,4 @@ n["@element0032"] = {"element0032", "|c80ffffe|r|c73ecf2l|r|c66d9e6e|r|c5ac6d9m|
 n["@MarmaladeMaddness"] = {"Marmalade", "|c8080ffM|r|c7b76f5a|r|c766becr|r|c7161e2m|r|c6d56d8a|r|c684ccel|r|c6341c5a|r|c5e37bbd|r|c592cb1e|r"}
 n["@SnowPrime"] = {"SnowPrime", "|c4700e3S|r|c5e00c8n|r|c7500aco|r|c8c0091w|r|ca30075P|r|cba005ar|r|cd1003ei|r|ce80023m|r|cff0007e|r"}
 n["@xkuroibara"] = {"Kuroibara", "|cff00ffK|r|cec10f5u|r|cd920ecr|r|cc52fe2o|r|cb23fd8i|r|c8754d3b|r|c5c69cea|r|c317ec8r|r|c0693c3a|r"}
+n["@ZookieFyre"] = {"Zookie", "|c8740e8Z|r|c784de4o|r|c6a5adfo|r|c5b67dbk|r|c4d74d6i|r|c3e81d2e|r"}
