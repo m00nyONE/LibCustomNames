@@ -75,3 +75,4 @@ n["@ZookieFyre"] = {"Zookie", "|c8740e8Z|r|c784de4o|r|c6a5adfo|r|c5b67dbk|r|c4d7
 n["@wojtenfall"] = {"wojtenfall", "|c00a2e8w|r|c1fb0dfo|r|c3fbed6j|r|c5ecccdt|r|c7edac4e|r|c9ee8bbn|r|cbff6b2f|r|cdff3a4a|r|cffe086l|r|cffd86el|r"}
 n["@wojtenfaII"] = {"wojtenfall", "|cffd86ew|r|cffe086o|r|cdff3a4j|r|cbff6b2t|r|c9ee8bbe|r|c7edac4n|r|c5ecccdf|r|c3fbed6a|r|c1fb0dfl|r|c00a2e8l|r"}
 n["@Sagrel"] = {"Sagrel", "|cffba52S|r|cffce85a|r|cffce85g|r|cffba52r|r|cffce85e|r|cffba52l|r"}
+n["@DonjaZero"] = {"DonjaZero", "|cdaff20DonjaZero|r"}
