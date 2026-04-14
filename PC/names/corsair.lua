@@ -26,3 +26,4 @@ n["@Petitefeuille"] = {"Petitefeuille", "|cdf5334P|r|ce15e3ee|r|ce46947t|r|ce773
 n["@Uni_ESO"] = {"Uni", "|c8a0008U|r|cb3000an|r|cdb000di|r"}
 n["@Tinkaaberu"] = {"Tinkaaberu", "|cfa0f17T|r|cf91b23i|r|cf7262en|r|cf63139k|r|cf53d45a|r|cf44850a|r|cf3535bb|r|cf15e66e|r|cf06a72r|r|cef757du|r"}
 n["@FightOne"] = {"FightOne", "|cffba2fF|r|cffc136i|r|cffc83cg|r|cffcf43h|r|cffd549t|r|cffdc4fO|r|cffe356n|r|cffea5ce|r"}
+n["@Zeerox"] = {"Zeerox", "|cd612ffZeerox|r"}
