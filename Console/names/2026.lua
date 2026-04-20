@@ -78,3 +78,4 @@ n["@xAkita-"] = {"xAkita-", "|cbe38f3x|r|c9e4aefA|r|c7f5beak|r|c5f6de6i|r|c3f7ee
 n["@Vozadex"] = {"Vozadex", "|c006875V|r|c11578co|r|c2245a3z|r|c3334baa|r|c4423d1d|r|c5511e8e|r|c6600ffx|r"}
 n["@Yo Mentality"] = {"Yo Mentality", "|cffff00Yo Mentality|r"}
 n["@Trickyvv"] = {"Scrub", "|c0000ffS|r|c0000bfc|r|c000080r|r|c000040u|r|c000000b|r"}
+n["@HOLYSHHEET"] = {"Full-Of-Shheet", "|c00ffffF|r|c14ebebu|r|c27d8d8l|r|c3bc4c4l|r|c4eb1b1-|r|c629d9dO|r|c768989f|r|c897676-|r|c9d6262S|r|cb14e4eh|r|cc43b3bh|r|cd82727e|r|ceb1414e|r|cff0000t|r"}
