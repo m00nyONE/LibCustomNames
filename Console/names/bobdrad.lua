@@ -7,7 +7,7 @@ local n = lib.GetNamesTable()
 
 -- this list is maintained by @BobDRAD on PS-NA
 
-n["@AnchorLady113"] = {"AnchorLady", "|c5e00ffA|r|c6f00ffn|r|c8100ffc|r|c9300ffh|r|ca500ffo|r|cb700ffr|r|cc900ffL|r|cdb00ffa|r|ced00ffd|r|cff00ffy|r"}
+n["@AnchorLady118"] = {"AnchorLady", "|c5e00ffA|r|c6f00ffn|r|c8100ffc|r|c9300ffh|r|ca500ffo|r|cb700ffr|r|cc900ffL|r|cdb00ffa|r|ced00ffd|r|cff00ffy|r"}
 n["@Angels_Slaughter"] = {"Angel (*.*)", "|cBD0404A|r|cC3042An|r|cCA0353g|r|cD1037Ee|r|cD703ADl|r|cDE02DE |r|cB702E4(|r|c8E01EB*|r|c6101F2.|r|c3200F8*|r|c0000FF)|r"}
 n["@BakerBakker"] = {"Baker", "|c0cf3dbB|r|c0cf3dba|r|c0cf3dbk|r|c0cf3dbe|r|c0cf3dbr|r"}
 n["@BobDRAD"] = {"the bob abides", "|cFF0088t|r|cFF0012h|r|cFF6300e|r|cFFD900 |r|cAFFF00b|r|c3AFF00o|r|c00FF3Cb|r|c00FFB2 |r|c00D6FFa|r|c0061FFb|r|c1500FFi|r|c8B00FFd|r|cFF00FEe|r|cFF0088s|r"}
