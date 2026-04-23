@@ -94,3 +94,4 @@ n["@Lilarna"] = {"Lilarna", "|c7deffaL|r|c75defbi|r|c6dcefcl|r|c66bdfca|r|c5eadf
 n["@InWater1021"] = {"V1021", "|c0054ffV|r|c0078ff1|r|c009bff0|r|c00bfff2|r|c00e3ff1|r"}
 n["@DeepSea85"] = {"DeepSea85", "|c28eda9D|r|c32dab4e|r|c3bc8bee|r|c44b6c9p|r|c4ea3d4S|r|c5791dfe|r|c607fe9a|r|c6a6cf48|r|c735aff5|r"}
 n["@yztrash"] = {"yz", "|c960061y|r|cBC007Az|r"}
+n["@Freyney"] = {"Freney", "|c44413fF|r|c504420r|r|cdcb106e|r|cffcc00n|r|cff8901e|r|cff0013y|r"}
