@@ -17,6 +17,7 @@ n["@ImmolationO_o"] = {"Immolation xD", "|cf10000I|r|cf21300m|r|cf32600m|r|cf439
 n["@ll_NooGz_ll"] = {"ll_NooGz_ll", "|cf36b31l|r|cf46045l|r|cf5555a_|r|cf64a6eN|r|cf74083o|r|cf93598o|r|cfa2aacG|r|cfb20c1z|r|cfc15d5_|r|cfd0aeal|r|cff00ffl|r"}
 n["@madridgirl7"] = {"madridgirl7", "|cfff600m|r|cfcdd19a|r|cf9c433d|r|cf6ac4cr|r|cf49366i|r|cf17b7fd|r|cee6299g|r|cec49b2i|r|ce931ccr|r|ce618e5l|r|ce400ff7|r"}
 n["@Mikes-Swagger00"] = {"Swagger-.-", "|c3ebd34S|r|c50b63aw|r|c63af40a|r|c75a846g|r|c88a14cg|r|c9a9b52e|r|cad9458r|r|cbf8d5e-|r|cd28664.|r|ce5806b-|r"}
+n["@occult_biscuit11"] = {"Biscuit", "|c9561E8B|r|cA564E7i|r|cB567E6s|r|cC36AE6c|r|cD16CE5u|r|cDE6FE4i|r|cE371DBt|r"}
 n["@piefase"] = {"Pie", "|cea07c2P|r|cea07cai|r|cea07d3e|r"}
 n["@Robotom-9000"] = {"Robotom-9000", "|c00c9feR|r|c16cde6o|r|c2cd2cfb|r|c43d7b8o|r|c59dca1t|r|c6fe18ao|r|c86e673m|r|c9ceb5c-|r|cb2f0459|r|cc9f52e0|r|cdffa170|r|cf6ff000|r"}
 n["@RocklicenseDTB"] = {"Rock -_-", "|cffe335R|r|cffe52do|r|cffe725c|r|cffea1ek|r|cffec16 |r|cffef0f-|r|cfff107_|r|cfff400-|r"}
