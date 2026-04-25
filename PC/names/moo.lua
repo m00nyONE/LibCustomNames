@@ -54,6 +54,7 @@ n["@Ryvendur"] = {"Ryv", "|ca980feR|r|c9078ffy|r|c7771ffv|r |t20:20:/esoui/art/c
 n["@Eco_212"] = {"ECO", "|cff4b2fE|r|cff883eC|r|cffc54cO|r |t20:20:/esoui/art/castbar/castbar_leadingedge_efx.dds|t"}
 n["@NikG1"] = {"NikG1", "|c5fff4bNikG1|r |t20:20:/esoui/art/castbar/castbar_leadingedge_efx.dds|t"}
 n["@Mobitor"] = {"Mobitor", "|cc76cffMobitor|r |t20:20:/esoui/art/castbar/castbar_leadingedge_efx.dds|t"}
+n["@Im5HEAD"] = {"5HEAD", "|cff14955|r|cff2972H|r|cff3d4fE|r|cff522cA|r|cff6609D|r |t20:20:/esoui/art/castbar/castbar_leadingedge_efx.dds|t"}
 n["@User7Gaming"] = {"User7Gaming", "|c1a8cffU|r|c3198ffs|r|c48a3ffe|r|c5fafffr|r|c76baff7|r|c8cc6ffG|r|ca3d1ffa|r|cbaddffm|r|cd1e8ffi|r|ce8f4ffn|r|cffffffg|r"}
 n["@Protossyder"] = {"Protossyder", "|c5a8bfeP|r|c6a96fer|r|c7ba2feo|r|c8baefet|r|c9cb9feo|r|cacc5ffs|r|cbdd0ffs|r|ccddcffy|r|cdee8ffd|r|ceef3ffe|r|cffffffr|r"}
 n["@Regenbogenman"] = {"Regen", "|cfeea57R|r|cfeea4fe|r|cffea48g|r|cffea40e|r|cffea38n|r"}
