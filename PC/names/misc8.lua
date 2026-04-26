@@ -96,3 +96,11 @@ n["@DeepSea85"] = {"DeepSea85", "|c28eda9D|r|c32dab4e|r|c3bc8bee|r|c44b6c9p|r|c4
 n["@yztrash"] = {"yz", "|c960061y|r|cBC007Az|r"}
 n["@Freyney"] = {"Freney", "|c44413fF|r|c504420r|r|cdcb106e|r|cffcc00n|r|cff8901e|r|cff0013y|r"}
 n["@pururumka"] = {"pururumka", "|ce34b76p|r|cc64587u|r|caa3f98r|r|c8e39a9u|r|c7133bbr|r|c552dccu|r|c3927ddm|r|c1c21eek|r|c001bffa|r"}
+n["@Cxdie"] = {"Cxdie", "|cb500e7C|r|cc800cex|r|cda00b6d|r|ced009di|r|cff0085e|r"}
+n["@YarboJanks"] = {"YarboJanks", "|ce319ffY|r|cca31ffa|r|cb04affr|r|c9762ffb|r|c7e7bffo|r|c6593ffJ|r|c4cacffa|r|c32c4ffn|r|c19ddffk|r|c00f5ffs|r"}
+n["@TootieTazzy"] = {"TootieTazzy", "|c70f200T|r|c7fe500o|r|c8dd700o|r|c9bca00t|r|ca9bd00i|r|cb8b000e|r|cc6a300T|r|cd49600a|r|ce28800z|r|cf17b00z|r|cff6e00y|r"}
+n["@Magic-Zack"] = {"Magic-Zack", "|cdbf81aM|r|cc2f033a|r|caae94dg|r|c92e266i|r|c7adb80c|r|c61d399-|r|c49ccb3Z|r|c31c5cca|r|c18bde5c|r|c00b6ffk|r"}
+n["@jwill2theizzay"] = {"jwill2theizzay", "|c5c88fej|r|c6882fdw|r|c757bfci|r|c8174fcl|r|c8e6dfbl|r|c9a67fa2|r|ca760f9t|r|cb459f8h|r|cc053f7e|r|ccd4cf6i|r|cd945f6z|r|ce63ef5z|r|cf238f4a|r|cff31f3y|r"}
+n["@Trouble13691"] = {"Trouble13691", "|c001cffT|r|c0030ffr|r|c0043ffo|r|c0056ffu|r|c0069ffb|r|c007dffl|r|c0090ffe|r|c00a3ff1|r|c00b6ff3|r|c00caff6|r|c00ddff9|r|c00f0ff1|r"}
+n["@Mushki"] = {"Mushki", "|cff6bf0M|r|cff6eecu|r|cff72e9s|r|cff75e6h|r|cff78e2k|r|cff7bdfi|r"}
+
