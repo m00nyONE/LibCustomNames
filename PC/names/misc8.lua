@@ -121,3 +121,6 @@ n["@GoridoTF2"] = {"Gorido", "|cff4bb1G|r|cff4fbdo|r|cff53c9r|r|cff57d5i|r|cff5b
 n["@Alatariel301183"] = {"Alatariel", "|cffb300A|r|cff8e00l|r|cff7b00a|r|cff4400t|r|cff1f00a|r|cff4400r|r|cff7b00i|r|cff8e00e|r|cffb300l|r"}
 n["@Valara-1"] = {"Valara", "|ca100fdV|r|cb400fba|r|cc700f9l|r|cd900f6a|r|cec00f4r|r|cff00f2a|r"}
 n["@MicahMXL"] = {"Maika※マイカ", "|cfcdc1cM|r|cf9c139a|r|cf7a555i|r|cf48a71k|r|cf16e8ea|r|cee53aa※|r|cec37c6マ|r|ce91ce3イ|r|ce600ffカ|r"}
+n["@annakwonda"] = {"annakwonda", "|cf0e923a|r|ce0eb1fn|r|cd1ee1cn|r|cc1f018a|r|cb2f315k|r|ca3f512w|r|c93f80eo|r|c84fa0bn|r|c74fd07d|r|c65ff04a|r"}
+n["@charlemagne9"] = {"charlemagne9", "|cff4b15c|r|cff5616h|r|cff6018a|r|cff6b1ar|r|cff751bl|r|cff801de|r|cff8a1fm|r|cff9420a|r|cff9f22g|r|cffa924n|r|cffb425e|r|cffbe279|r"}
+n["@ShadowDios"] = {"Shadow", "|cf4d5d2S|r|cf6aab4h|r|cf98096a|r|cfb5578d|r|cfd2b5ao|r|cff003cw|r"}
