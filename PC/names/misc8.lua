@@ -126,3 +126,4 @@ n["@charlemagne9"] = {"charlemagne9", "|cff4b15c|r|cff5616h|r|cff6018a|r|cff6b1a
 n["@ShadowDios"] = {"Shadow", "|cf4d5d2S|r|cf6aab4h|r|cf98096a|r|cfb5578d|r|cfd2b5ao|r|cff003cw|r"}
 n["@xDivie"] = {"Divie", "|c41b9f3D|r|c6692f3i|r|c8a6cf4v|r|caf45f4i|r|cd41ef4e|r"}
 n["@Kahlitho"] = {"Kahlitho", "|cb861fdK|r|ca377fba|r|c8d8ef9h|r|c78a5f7l|r|c63bbf5i|r|c4ed2f3t|r|c38e8f1h|r|c23ffefo|r"}
+n["@Feles"] = {"Feles", "|cdc24ffF|r|cb948ffe|r|c966bffl|r|c738fffe|r|c50b3ffs|r"}
