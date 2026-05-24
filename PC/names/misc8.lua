@@ -124,3 +124,4 @@ n["@MicahMXL"] = {"Maika※マイカ", "|cfcdc1cM|r|cf9c139a|r|cf7a555i|r|cf48a7
 n["@annakwonda"] = {"annakwonda", "|cf0e923a|r|ce0eb1fn|r|cd1ee1cn|r|cc1f018a|r|cb2f315k|r|ca3f512w|r|c93f80eo|r|c84fa0bn|r|c74fd07d|r|c65ff04a|r"}
 n["@charlemagne9"] = {"charlemagne9", "|cff4b15c|r|cff5616h|r|cff6018a|r|cff6b1ar|r|cff751bl|r|cff801de|r|cff8a1fm|r|cff9420a|r|cff9f22g|r|cffa924n|r|cffb425e|r|cffbe279|r"}
 n["@ShadowDios"] = {"Shadow", "|cf4d5d2S|r|cf6aab4h|r|cf98096a|r|cfb5578d|r|cfd2b5ao|r|cff003cw|r"}
+n["@Kahlitho"] = {"Kahlitho", "|cb861fdK|r|ca377fba|r|c8d8ef9h|r|c78a5f7l|r|c63bbf5i|r|c4ed2f3t|r|c38e8f1h|r|c23ffefo|r"}
