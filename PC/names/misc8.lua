@@ -129,3 +129,7 @@ n["@Kahlitho"] = {"Kahlitho", "|cb861fdK|r|ca377fba|r|c8d8ef9h|r|c78a5f7l|r|c63b
 n["@Feles"] = {"Feles", "|cdc24ffF|r|cb948ffe|r|c966bffl|r|c738fffe|r|c50b3ffs|r"}
 n["@jelhalla"] = {"Jelhalla", "|c0069a8J|r|c0069a8e|r|cfecc00l|r|cfecc00h|r|c0069a8a|r|c0069a8l|r|c0069a8l|r|c0069a8a|r"}
 n["@Ariadne1910"] = {"Ariadne","|cdec94aA|r|cbdab68r|r|c9c8d86i|r|c7c6fa5a|r|c5b51c3d|r|c3a33e1n|r|c1915ffe|r"}
+n["@HollywoodSandy"] = {"Hollywood", "|c6f47e1H|r|c815ed8o|r|c9375cel|r|ca58cc4l|r|cb7a2bby|r|cc9b9b1w|r|cdbd0a7o|r|cede79eo|r|cfffe94d|r"}
+n["@bradiggan"] = {"bradiggan", "|c80c0c2b|r|c7dc4bar|r|c7bc7b2a|r|c78caaad|r|c75cea1i|r|c72d199g|r|c70d491g|r|c6dd889a|r|c6adb81n|r"}
+n["@shedow2090"] = {"shedow2090", "|c33a8ffs|r|c4599ffh|r|c588affe|r|c6a7bffd|r|c7d6cffo|r|c8f5dffw|r|ca24eff2|r|cb43fff0|r|cc730ff9|r|cd921ff0|r"}
+n["@Anya-koo1"] = {"anya", "|cb793c1a|r|caaa9b3n|r|c9ebea6y|r|c91d498a|r"}
