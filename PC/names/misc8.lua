@@ -127,4 +127,5 @@ n["@ShadowDios"] = {"Shadow", "|cf4d5d2S|r|cf6aab4h|r|cf98096a|r|cfb5578d|r|cfd2
 n["@xDivie"] = {"Divie", "|c41b9f3D|r|c6692f3i|r|c8a6cf4v|r|caf45f4i|r|cd41ef4e|r"}
 n["@Kahlitho"] = {"Kahlitho", "|cb861fdK|r|ca377fba|r|c8d8ef9h|r|c78a5f7l|r|c63bbf5i|r|c4ed2f3t|r|c38e8f1h|r|c23ffefo|r"}
 n["@Feles"] = {"Feles", "|cdc24ffF|r|cb948ffe|r|c966bffl|r|c738fffe|r|c50b3ffs|r"}
+n["@jelhalla"] = {"Jelhalla", "|c0069a8J|r|c0069a8e|r|cfecc00l|r|cfecc00h|r|c0069a8a|r|c0069a8l|r|c0069a8l|r|c0069a8a|r"}
 n["@Ariadne1910"] = {"Ariadne","|cdec94aA|r|cbdab68r|r|c9c8d86i|r|c7c6fa5a|r|c5b51c3d|r|c3a33e1n|r|c1915ffe|r"}
