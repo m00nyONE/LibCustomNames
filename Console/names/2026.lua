@@ -88,3 +88,4 @@ n["@Odd Dynasty"] = {"Solo Leveling", "|cff6ffdS|r|ced78fdo|r|cdb82fdl|r|cc98bfd
 n["@SociaI Wish"] = {"Social Wish", "|cff2bfbS|r|c1fff1do|r|c1dffe8c|r|cff01bci|r|c6600e9a|r|c2affb0l|r |c43ffecW|r|cff13fdi|r|c1bff05s|r|c26fbffh|r"}
 n["@SimplyxMike"] = {"SimplyxMike", "|c0000d3S|r|c0219bei|r|c0332a9m|r|c054c94p|r|c06657fl|r|c087e6ay|r|c0a9754x|r|c0bb03fM|r|c0dca2ai|r|c0ee315k|r|c10fc00e|r"}
 n["@heflin-SA"] = {"Top G", "|c3a87feT|r|c607bfeo|r|c876ffep|r |cd357feG|r"}
+n["@RkindaIeft"] = {"Girlbossing", "|cff00bbG|r|ce600c2i|r|ccc00c9r|r|cb300cfl|r|c9900d6b|r|c8000ddo|r|c6600e4s|r|c4d00ebs|r|c3300f1i|r|c1a00f8n|r|c0000ffg|r"}
