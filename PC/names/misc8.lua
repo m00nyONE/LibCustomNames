@@ -133,3 +133,4 @@ n["@HollywoodSandy"] = {"Hollywood", "|c6f47e1H|r|c815ed8o|r|c9375cel|r|ca58cc4l
 n["@bradiggan"] = {"bradiggan", "|c80c0c2b|r|c7dc4bar|r|c7bc7b2a|r|c78caaad|r|c75cea1i|r|c72d199g|r|c70d491g|r|c6dd889a|r|c6adb81n|r"}
 n["@shedow2090"] = {"shedow2090", "|c33a8ffs|r|c4599ffh|r|c588affe|r|c6a7bffd|r|c7d6cffo|r|c8f5dffw|r|ca24eff2|r|cb43fff0|r|cc730ff9|r|cd921ff0|r"}
 n["@Anya-koo1"] = {"anya", "|cb793c1a|r|caaa9b3n|r|c9ebea6y|r|c91d498a|r"}
+n["@POCKATA"] = {"POCKATA", "|cffbe05P|r|cff9f0aO|r|cff7f0fC|r|cff5f15K|r|cff3f1aA|r|cff201fT|r|cff0024A|r"}
