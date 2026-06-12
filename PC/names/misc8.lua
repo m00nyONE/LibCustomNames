@@ -140,3 +140,4 @@ n["@iKillElves4Septims"] = {"alvedødaren", "|cfb170da|r|cf62e0bl|r|cf2460av|r|c
 n["@iGinz"] = {"Ginz", "|c5041ffG|r|c3860ffi|r|c1f80ffn|r|c079fffz|r"}
 n["@ObiJovi"] = {"ObiJovi", "|cf45499O|r|ce851aab|r|cdd4ebbi|r|cd24accJ|r|cc747ddo|r|cbb44eev|r|cb041ffi|r"}
 n["@Kansxi"] = {"Kansxi", "|c290100K|r|c520100a|r|c7b0200n|r|ca30300s|r|ccc0300x|r|cf50400i|r"}
+n["@Notpure2"] = {"Notpure", "|cb249f8N|r|cb352f5o|r|cb55af1t|r|cb663eep|r|cb76ceau|r|cb974e7r|r|cba7de3e|r"}
