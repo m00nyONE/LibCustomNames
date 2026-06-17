@@ -142,3 +142,4 @@ n["@ObiJovi"] = {"ObiJovi", "|cf45499O|r|ce851aab|r|cdd4ebbi|r|cd24accJ|r|cc747d
 n["@Kansxi"] = {"Kansxi", "|c290100K|r|c520100a|r|c7b0200n|r|ca30300s|r|ccc0300x|r|cf50400i|r"}
 n["@Notpure2"] = {"Notpure", "|cb249f8N|r|cb352f5o|r|cb55af1t|r|cb663eep|r|cb76ceau|r|cb974e7r|r|cba7de3e|r"}
 n["@Black-Arrow971"] = {"Black-Arrow971", "|c000bedB|r|c000adbl|r|c0009c8a|r|c0009b6c|r|c0008a4k|r|c000792-|r|c000680A|r|c00056dr|r|c00045br|r|c000349o|r|c000337w|r|c0002249|r|c0001127|r|c0000001|r"}
+n["@Mizael1644"] = {"Mizael", "|cf08131M|r|cf39143i|r|cf6a255z|r|cf9b267a|r|cfcc279e|r|cffd28bl|r"}
