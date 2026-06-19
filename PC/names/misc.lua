@@ -980,3 +980,4 @@ n["@alavesti"] = {"alavesti", "|c39ff2balavesti|r"}
 n["@ROACH_O"] = {"ROACH", "|cff0028ROACH|r"}
 n["@Bradadona"] = n["@Tyreh"]
 n["@The_Joji"] = n["@OwnLight88"]
+n["@MiltinJoguin"] = {"Miltin", "|c3eecd6M|r|c64daadi|r|c8bc984l|r|cb2b75bt|r|cd8a532i|r|cff9309n|r"}
