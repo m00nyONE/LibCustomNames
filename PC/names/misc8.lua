@@ -144,3 +144,5 @@ n["@Notpure2"] = {"Notpure", "|cb249f8N|r|cb352f5o|r|cb55af1t|r|cb663eep|r|cb76c
 n["@Black-Arrow971"] = {"Black-Arrow971", "|c000bedB|r|c000adbl|r|c0009c8a|r|c0009b6c|r|c0008a4k|r|c000792-|r|c000680A|r|c00056dr|r|c00045br|r|c000349o|r|c000337w|r|c0002249|r|c0001127|r|c0000001|r"}
 n["@Mizael1644"] = {"Mizael", "|cf08131M|r|cf39143i|r|cf6a255z|r|cf9b267a|r|cfcc279e|r|cffd28bl|r"}
 n["@bleeblue"] = {"bleeblue", "|cb771ffb|r|c9f74ffl|r|c8877ffe|r|c717affe|r|c597cffb|r|c427fffl|r|c2a82ffu|r|c1385ffe|r"}
+n["@Ozthos"] = {"Ozthos", "|cd7d9e6O|r|cbec0cdz|r|ca4a8b4t|r|c8a8f9bh|r|c717682o|r|c575d69s|r"}
+n["@Obrivious"] = {"XiNya", "|cff1b07X|r|cff3605i|r|cff5204N|r|cff6d02y|r|cff8800a|r"}
