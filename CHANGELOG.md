@@ -1,5 +1,5 @@
 ## 2026.06.21
-- add CLAUDE.md which states that AI is not allowed here
+- add AGENTS.md which states that AI is not allowed here
 
 ## 2026.03.30
 - bump API version to 101049 & 101050
