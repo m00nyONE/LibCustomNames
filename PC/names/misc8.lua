@@ -146,3 +146,4 @@ n["@Mizael1644"] = {"Mizael", "|cf08131M|r|cf39143i|r|cf6a255z|r|cf9b267a|r|cfcc
 n["@bleeblue"] = {"bleeblue", "|cb771ffb|r|c9f74ffl|r|c8877ffe|r|c717affe|r|c597cffb|r|c427fffl|r|c2a82ffu|r|c1385ffe|r"}
 n["@Ozthos"] = {"Ozthos", "|cd7d9e6O|r|cbec0cdz|r|ca4a8b4t|r|c8a8f9bh|r|c717682o|r|c575d69s|r"}
 n["@Obrivious"] = {"XiNya", "|cff1b07X|r|cff3605i|r|cff5204N|r|cff6d02y|r|cff8800a|r"}
+n["@raggsz"] = {"raggsz", "|cff002br|r|cff0055a|r|cff0080g|r|cff00aag|r|cff00d4s|r|cff00ffz|r"}
