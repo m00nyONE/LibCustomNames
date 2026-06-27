@@ -15,6 +15,7 @@ n["@CheerfulSlaughtr"] = {"Cheerful", "|c5A11ADC|r|c1446AFh|r|c16B1A0e|r|c18B328
 n["@cheezhead84"] = {"Cheez", "|c1c8c07C|r|c4d9f06h|r|c7fb306e|r|cb0c606e|r|ce2da06z|r"}
 n["@famed_taxpayer1"] = {"Famed <3", "|cff00fbF|r|cda21fba|r|cb643fcm|r|c9165fce|r|c6d86fdd|r|c48a8fd |r|c24cafe<|r|c00ecff3|r"}
 n["@ImmolationO_o"] = {"Immolation xD", "|cf10000I|r|cf21300m|r|cf32600m|r|cf43900o|r|cf54d01l|r|cf66001a|r|cf87301t|r|cf98601i|r|cfa9a02o|r|cfbad02n|r|cfcc002 |r|cfdd302x|r|cffe703D|r"}
+n["@KrAzY_WiLLiE12"] = {"KrAzY_WiLLiE12", "|c802079K|r|c892060r|r|c921F41A|r|c9B221Ez|r|cA44C1DY|r|cAD7D1C_|r|cB6B41AW|r|c8BBF18i|r|c57C816L|r|c1CD113L|r|c10DA47i|r|c0DE38BE|r|c09ECD81|r|c05BDF52|r"}
 n["@ll_NooGz_ll"] = {"ll_NooGz_ll", "|cf36b31l|r|cf46045l|r|cf5555a_|r|cf64a6eN|r|cf74083o|r|cf93598o|r|cfa2aacG|r|cfb20c1z|r|cfc15d5_|r|cfd0aeal|r|cff00ffl|r"}
 n["@madridgirl7"] = {"madridgirl7", "|cfff600m|r|cfcdd19a|r|cf9c433d|r|cf6ac4cr|r|cf49366i|r|cf17b7fd|r|cee6299g|r|cec49b2i|r|ce931ccr|r|ce618e5l|r|ce400ff7|r"}
 n["@Mikes-Swagger00"] = {"Swagger-.-", "|c3ebd34S|r|c50b63aw|r|c63af40a|r|c75a846g|r|c88a14cg|r|c9a9b52e|r|cad9458r|r|cbf8d5e-|r|cd28664.|r|ce5806b-|r"}
