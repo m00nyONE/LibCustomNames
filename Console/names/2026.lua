@@ -91,3 +91,5 @@ n["@heflin-SA"] = {"Top G", "|c3a87feT|r|c607bfeo|r|c876ffep|r |cd357feG|r"}
 n["@RkindaIeft"] = {"Girlbossing", "|cff00bbG|r|ce600c2i|r|ccc00c9r|r|cb300cfl|r|c9900d6b|r|c8000ddo|r|c6600e4s|r|c4d00ebs|r|c3300f1i|r|c1a00f8n|r|c0000ffg|r"}
 n["@BLKx777"] = {"BLKx777", "|c00F5FFB|r|c3BB5FFL|r|c6D7AFFK|r|c9A4EFFx|r|cD93CFF7|r|c8A7BFF7|r|c00E5FF7|r"}
 n["@RatchetPlouf"] = {"Ratchet Rocket", "|c87e0ffR|r|c8fd9fda|r|c96d1fat|r|c9ecaf8c|r|ca5c2f5h|r|cadbbf3e|r|cb5b3f0t|r |cc4a4ebR|r|ccc9de9o|r|cd395e6c|r|cdb8ee4k|r|ce286e1e|r|cea7fdft|r"}
+n["@FirePenguin511"] = {"FirePenguin511", "|cFF0000F|r|cFF2200i|r|cFF4400r|r|cFF6600e|r|cFF8800P|r|cFFA000e|r|c0018FFn|r|c0038FFg|r|c0058FFu|r|c0078FFi|r|c0098FFn|r|c00B8FF5|r|c00D8FF1|r|c99FFFF1|r"}
+n["@Kaity9313"] = {"Kaity9313", "|cFF00CCK|r|cFF1FD2a|r|cFF3ED8i|r|cFF5DDEt|r|cE05EE4y|r|cB05FEA9|r|c8070F03|r|c5081F11|r|c2092F33|r"}
