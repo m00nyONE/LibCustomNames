@@ -6,6 +6,7 @@ local lib = _G[lib_name]
 local n = lib.GetNamesTable()
 
 n["@RedBoul"] = {"RedBoul", "|ca8211eR|r|cb7422fe|r|cc56240d|r|cd48252B|r|ce2a263o|r|cf1c374u|r|cffe385l|r"}
+n["@Beejy"] = {"Beejy", "|cf82a23@|r|cf14c47B|r|cea6e6ae|r|ce2908de|r|cdbb2b1j|r|cd4d4d4y|r"}
 n["@Kuroko29012"] = {"Kuroko29012", "|cffdbe3K|r|cffc5e6u|r|cffafe8r|r|cff99eao|r|cff83edk|r|cff6eefo|r|cff58f22|r|cff42f49|r|cff2cf60|r|cff16f91|r|cff00fb2|r"}
 n["@zDarkus"] = {"zDarkus", "|cff2f00zDarkus|r"}
 n["@Juanut0"] = {"Juanuto", "|cff390aJ|r|cff550fu|r|cff7114a|r|cff8c18n|r|cffa81du|r|cffc422t|r|cffe027o|r"}
