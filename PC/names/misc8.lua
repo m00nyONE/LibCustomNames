@@ -150,3 +150,4 @@ n["@Obrivious"] = {"XiNya", "|cff1b07X|r|cff3605i|r|cff5204N|r|cff6d02y|r|cff880
 n["@raggsz"] = {"raggsz", "|cff002br|r|cff0055a|r|cff0080g|r|cff00aag|r|cff00d4s|r|cff00ffz|r"}
 n["@spyro76"] = {"Spyro", "|c6000A1S|r|c853A8Dp|r|cA97279y|r|cC6A069r|r|cEDDD53o|r"}
 n["@Marquis_Shax"] = {"Marquis_Shax", "|c0a800eM|r|c138717a|r|c1d8d21r|r|c26942aq|r|c309a34u|r|c3aa13ei|r|c43a747s|r|c4dad51_|r|c56b45aS|r|c60ba64h|r|c69c16da|r|c73c777x|r"}
+n["@Nasenheim"] = {"Nasenheim", "|cffffffNas|r|cd700ffenheim|r"}
