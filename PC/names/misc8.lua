@@ -153,3 +153,4 @@ n["@Marquis_Shax"] = {"Marquis_Shax", "|c0a800eM|r|c138717a|r|c1d8d21r|r|c26942a
 n["@LeinadZ"] = {"Leinad", "|ce2ecffL|r|cc5d9ffe|r|ca8c7ffi|r|c8bb4ffn|r|c6ea1ffa|r|c518effd|r"}
 n["@maico09"] = {"Maico09", "|cffe8e7M|r|cffd0cea|r|cffb9b6i|r|cffa19dc|r|cff8a85o|r|cff726c0|r|cff5b549|r"}
 n["@Nasenheim"] = {"Nasenheim", "|cffffffNas|r|cd700ffenheim|r"}
+n["@Cappucci777"] = { "Cappucci", "|c6284cdC|r|c7482cba|r|c8580c8p|r|c977ec6p|r|ca97cc3u|r|cbb7ac0c|r|ccc78bec|r|cde76bbi|r" }
