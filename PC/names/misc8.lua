@@ -156,3 +156,4 @@ n["@Nasenheim"] = {"Nasenheim", "|cffffffNas|r|cd700ffenheim|r"}
 n["@Cappucci777"] = { "Cappucci", "|c6284cdC|r|c7482cba|r|c8580c8p|r|c977ec6p|r|ca97cc3u|r|cbb7ac0c|r|ccc78bec|r|cde76bbi|r" }
 n["@AwfulGameDesign"] = {"greafs", "|caa83dbg|r|cbb86d9r|r|ccc89d8e|r|cdd8bd7a|r|cee8ed5f|r|cff91d4s|r"}
 n["@Aethluna"] = { "Aethluna", "|c0080ffA|r|c2492ffe|r|c49a4fft|r|c6db7ffh|r|c92c9ffl|r|cb6dbffu|r|cdbedffn|r|cffffffa|r" }
+n["@McFilthy"] = {"McFilthy", "|c420690M|r|c480680c|r|c4d0570F|r|c530560i|r|c580550l|r|c5e0540t|r|c630430h|r|c690420y|r"}
