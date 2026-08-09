@@ -54,3 +54,4 @@ n["@djeRNATC"] = {"Daniel (DJ)", "|c467700D|r|c567f00a|r|c678800n|r|c789000i|r|c
 n["@Evildeadgirl"] = {"Lokia", "|c6b0000Lokia|r"}
 n["@Yosemite_SLAM"] = {"Gladwyn", "|c0024ffG|r|c0049ffl|r|c006dffa|r|c0092fed|r|c00b6few|r|c00dbfey|r|c00fffen|r"}
 n["@Brito_68"] = {"Brito", "|ce700ffBrito|r"}
+n["@PeachDreams"] = {"Peaches", "|cff00ffPeaches|r"}
