@@ -158,3 +158,7 @@ n["@AwfulGameDesign"] = {"greafs", "|caa83dbg|r|cbb86d9r|r|ccc89d8e|r|cdd8bd7a|r
 n["@Aethluna"] = { "Aethluna", "|c0080ffA|r|c2492ffe|r|c49a4fft|r|c6db7ffh|r|c92c9ffl|r|cb6dbffu|r|cdbedffn|r|cffffffa|r" }
 n["@McFilthy"] = {"McFilthy", "|c420690M|r|c480680c|r|c4d0570F|r|c530560i|r|c580550l|r|c5e0540t|r|c630430h|r|c690420y|r"}
 n["@Fab_Lewis"] = {"Fab_Lewis", "|cd817fcF|r|cdd22f8a|r|ce22ef5b|r|ce739f1_|r|ceb44eeL|r|cf04feae|r|cf55be7w|r|cfa66e3i|r|cff71e0s|r"}
+n["@Lizardmonger"] = {"Lizardmonger", "Lizardmonger"}
+n["@VxDeXZZ"] = {"Dex", "|cfb27b1D|r|cf72576e|r|cf3223cx|r"}
+n["@Armyoftre"] = {"Armyoftre", "|ce37db9A|r|cc68da2r|r|caa9e8bm|r|c8eae74y|r|c71be5co|r|c55ce45f|r|c39df2et|r|c1cef17r|r|c00ff00e|r"}
+n["@IDaimosI"] = {"IDaimosI", "|cdf305bI|r|cbf2f72D|r|c9f2d8aa|r|c802ca1i|r|c602ab9m|r|c4028d0o|r|c2027e8s|r|c0025ffI|r"}
