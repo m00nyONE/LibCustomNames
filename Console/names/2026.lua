@@ -96,3 +96,4 @@ n["@Kaity9313"] = {"Kaity9313", "|cFF00CCK|r|cFF1FD2a|r|cFF3ED8i|r|cFF5DDEt|r|cE
 n["@Wink Back"] = {"Venezuela", "|c00f522V|r|c00f63de|r|c00f858n|r|c00f973e|r|c00fa8ez|r|c00fba9u|r|c00fdc4e|r|c00fedfl|r|c00fffaa|r"}
 n["@keithedog"] = {"keith", "|c00a1d8k|r|c3a88c1e|r|c736ea9i|r|cad5592t|r|ce63b7ah|r"}
 n["@deus_decky"] = {"dehe", "|c009A44d|r|c004CAF5e|r|c002E8B57h|r|c00006400e|r"}
+n["@hellmxrry"] = {"hellmxrry", "|c000000hellmxrry|r"}
