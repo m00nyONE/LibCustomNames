@@ -341,7 +341,6 @@ n["@Springey"] = {"Springey", "|c19e6feS|r|c28cdfep|r|c38b3fer|r|c479affi|r|c578
 n["@kabellay"] = {"Kabellay", "|c8a00ffK|r|c9700ffa|r|ca300ffb|r|caf00ffe|r|cbb00ffl|r|cc800ffl|r|cd400ffa|r|ce000ffy|r"}
 n["@Riidgy"] = {"Riidgy", "|cFE66C4Riidgy|r"}
 n["@iamwezo"] = {"iamwezo", "|c41C9FFi|r|c42CAFAa|r|c45CEEBm|r|c4AD5D2w|r|c52DFAFe|r|c5CEB82z|r|c68FB4Co|r"}
-n["@VxDeXZZ"] = {"DeXZ", "|cff0000D|r|cff4800e|r|cff8f00X|r|cffd700Z|r"}
 n["@Soul_Hagans"] = {"Soul Hagans", "|cff6401S|r|cff7103o|r|cff7e04u|r|cff8b05l|r |cff9807H|r|cffa408a|r|cffb109g|r|cffbe0aa|r|cffcb0cn|r|cffd80ds|r"}
 n["@Chio-Cill"] = {"Julia", "|c3fd417J|r|c67d717u|r|c8fda16l|r|cb7dd16i|r|cdfe015a|r"}
 n["@I_RobzzX"] = {"RobZz", "|c610f0fR|r|c4f1f32o|r|c3c3055b|r|c2a4078Z|r|c17509bz|r"}
