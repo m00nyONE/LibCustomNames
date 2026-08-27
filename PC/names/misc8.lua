@@ -162,3 +162,4 @@ n["@Lizardmonger"] = {"Lizardmonger", "Lizardmonger"}
 n["@VxDeXZZ"] = {"Dex", "|cfb27b1D|r|cf72576e|r|cf3223cx|r"}
 n["@Armyoftre"] = {"Armyoftre", "|ce37db9A|r|cc68da2r|r|caa9e8bm|r|c8eae74y|r|c71be5co|r|c55ce45f|r|c39df2et|r|c1cef17r|r|c00ff00e|r"}
 n["@IDaimosI"] = {"IDaimosI", "|cdf305bI|r|cbf2f72D|r|c9f2d8aa|r|c802ca1i|r|c602ab9m|r|c4028d0o|r|c2027e8s|r|c0025ffI|r"}
+n["@KaoThiC"] = {"KaoThiC", "|c0066ffK|r|c2b44ffa|r|c5522ffo|r|c8000ffT|r|caa00d7h|r|cd500a7i|r|cff0077C|r"}
