@@ -343,6 +343,7 @@ n["@Riidgy"] = {"Riidgy", "|cFE66C4Riidgy|r"}
 n["@iamwezo"] = {"iamwezo", "|c41C9FFi|r|c42CAFAa|r|c45CEEBm|r|c4AD5D2w|r|c52DFAFe|r|c5CEB82z|r|c68FB4Co|r"}
 n["@Soul_Hagans"] = {"Soul Hagans", "|cff6401S|r|cff7103o|r|cff7e04u|r|cff8b05l|r |cff9807H|r|cffa408a|r|cffb109g|r|cffbe0aa|r|cffcb0cn|r|cffd80ds|r"}
 n["@Chio-Cill"] = {"Julia", "|c3fd417J|r|c67d717u|r|c8fda16l|r|cb7dd16i|r|cdfe015a|r"}
+n["@NecroCat_Crimson"] = {"NecroCat_Crimson", "|cf21000N|r|ce40f00e|r|cd70e00c|r|cca0d00r|r|cbc0c00o|r|caf0b00C|r|ca20a00a|r|c950900t|r|c870700_|r|c7a0600C|r|c6d0500r|r|c5f0400i|r|c520300m|r|c450200s|r|c370100o|r|c2a0000n|r"}
 n["@I_RobzzX"] = {"RobZz", "|c610f0fR|r|c4f1f32o|r|c3c3055b|r|c2a4078Z|r|c17509bz|r"}
 n["@Splandonge"] = {"Siinnd", "|cFCD4F3S|r|cFCD1E9i|r|cFCCEDFi|r|cFBCCD6n|r|cFBC9CCn|r|cFBC6C2d|r"}
 n["@Praid_Crimson"] = {"Praid Crimson", "|c3d0203P|r|c490305r|r|c540306a|r|c600307i|r|c6c0409d|r |c78040aC|r|c83040br|r|c8f050di|r|c9b050em|r|ca7050fs|r|cb20611o|r|cbe0612n|r"}
