@@ -40,15 +40,15 @@ jobs:
       - test-general
       - test-pc
       - test-console
-  generate-docs:
-    if: github.repository_owner == 'm00nyONE'
-    uses: ./.github/workflows/_generate-docs.yml
-    permissions:
-      contents: write
-    needs:
-      - test-general
-      - test-pc
-      - test-console
+#  generate-docs:
+#    if: github.repository_owner == 'm00nyONE'
+#    uses: ./.github/workflows/_generate-docs.yml
+#    permissions:
+#      contents: write
+#    needs:
+#      - test-general
+#      - test-pc
+#      - test-console
 
   create-github-release:
     name: "Create Github Release"
