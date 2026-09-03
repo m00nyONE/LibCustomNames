@@ -169,3 +169,4 @@ n["@khaleeki"] = {"khaleeki", "|c7aefd1k|r|c8dded5h|r|ca0ced8a|r|cb3bddcl|r|cc6a
 n["@ScarGard12"] = {"ScarGard12", "|ce171f6S|r|cd67df2c|r|cca89eda|r|cbf95e9r|r|cb4a2e4G|r|ca9aedfa|r|c9ebadbr|r|c92c6d6d|r|c87d2d21|r|c7cdecd2|r"}
 n["@Banira'Ai"] = {"Banira'Ai", "|cffe6d8B|r|cffded4a|r|cffd5d0n|r|cffcdcci|r|cffc5c7r|r|cffbdc3a|r|cffb4bf'|r|cffacbbA|r|cffa4b7i|r"}
 n["@HondaForLife"] = {"HondaForLife", "|c15eafeH|r|c2bd4feo|r|c40bffen|r|c55aafed|r|c6a95fea|r|c7f7fffF|r|c956affo|r|caa55ffr|r|cbf40ffL|r|cd52affi|r|cea15fff|r|cff00ffe|r"}
+n["@Dr_Breuer"] = {"Dr_Breuer", "|c0054ebD|r|c006ad6r|r|c007fc2_|r|c0094aeB|r|c00aa99r|r|c00bf85e|r|c00d471u|r|c00ea5ce|r|c00ff48r|r"}
