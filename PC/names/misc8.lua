@@ -171,3 +171,4 @@ n["@Banira'Ai"] = {"Banira'Ai", "|cffe6d8B|r|cffded4a|r|cffd5d0n|r|cffcdcci|r|cf
 n["@HondaForLife"] = {"HondaForLife", "|c15eafeH|r|c2bd4feo|r|c40bffen|r|c55aafed|r|c6a95fea|r|c7f7fffF|r|c956affo|r|caa55ffr|r|cbf40ffL|r|cd52affi|r|cea15fff|r|cff00ffe|r"}
 n["@Dr_Breuer"] = {"Dr_Breuer", "|c0054ebD|r|c006ad6r|r|c007fc2_|r|c0094aeB|r|c00aa99r|r|c00bf85e|r|c00d471u|r|c00ea5ce|r|c00ff48r|r"}
 n["@ESO.Luke"] = {"Luke", "|c1f65ebL|r|c3e43f2u|r|c5c22f8k|r|c7b00ffe|r"}
+n["@Qlakzo"] = {"Qlakzo", "|c7627d4Q|r|c6941cel|r|c6a4fd9a|r|c6b5de3k|r|c534bd0z|r|c534bd0o|r"}
