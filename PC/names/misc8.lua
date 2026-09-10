@@ -182,3 +182,4 @@ n["@maximgorki"] = {"maximgorki", "|c7e00fbm|r|c8d00f6a|r|c9b00f2x|r|ca900eei|r|
 n["@SchneizelMD"] = {"SchneizelMD", "|cff1000S|r|cff1800c|r|cff2100h|r|cff2900n|r|cff3200e|r|cff3a00i|r|cff4300z|r|cff4b00e|r|cff5400l|r|cff5c00M|r|cff6500D|r"}
 n["@PilavliSucuk"] = {"PilavliSucuk", "|c8409edP|r|c7813dbi|r|c6c1ccal|r|c6026b8a|r|c542fa6v|r|c483994l|r|c3c4282i|r|c304b70S|r|c24555fu|r|c185e4dc|r|c0c683bu|r|c007129k|r"}
 n["@Aveldalf"] = {"Aveldalf", "|c88c9a5A|r|c99d1b2v|r|caad8bfe|r|cbbe0ccl|r|ccce8d8d|r|cddf0e5a|r|ceef7f2l|r|cfffffff|r"}
+n["@ALittleJamie"] = {"ALittleJamie", "|c55a3abA|r|c55a3abL|r|c55a3abi|r|c55a3abt|r|c55a3abt|r|c55a3abl|r|c55a3abe|r|c55a3abJ|r|c55a3aba|r|c55a3abm|r|c55a3abi|r|c55a3abe|r"}
