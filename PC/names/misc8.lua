@@ -183,3 +183,7 @@ n["@SchneizelMD"] = {"SchneizelMD", "|cff1000S|r|cff1800c|r|cff2100h|r|cff2900n|
 n["@PilavliSucuk"] = {"PilavliSucuk", "|c8409edP|r|c7813dbi|r|c6c1ccal|r|c6026b8a|r|c542fa6v|r|c483994l|r|c3c4282i|r|c304b70S|r|c24555fu|r|c185e4dc|r|c0c683bu|r|c007129k|r"}
 n["@Aveldalf"] = {"Aveldalf", "|c88c9a5A|r|c99d1b2v|r|caad8bfe|r|cbbe0ccl|r|ccce8d8d|r|cddf0e5a|r|ceef7f2l|r|cfffffff|r"}
 n["@ALittleJamie"] = {"ALittleJamie", "|c55a3abA|r|c55a3abL|r|c55a3abi|r|c55a3abt|r|c55a3abt|r|c55a3abl|r|c55a3abe|r|c55a3abJ|r|c55a3aba|r|c55a3abm|r|c55a3abi|r|c55a3abe|r"}
+n["@Fetiche14401"] = {"Fetiche14401", "|ca649b6F|r|ca543bbe|r|ca53cbft|r|ca535c4i|r|ca42fc8c|r|ca428cdh|r|ca421d1e|r|ca31bd51|r|ca314da4|r|ca30dde4|r|ca207e30|r|ca200e71|r"}
+n["@Kruglikw"] = {"Kruglik", "|c37c9b6K|r|c42d2a5r|r|c4ddb95u|r|c57e484g|r|c62ed74l|r|c6df663i|r|c78ff53k|r"}
+n["@zVidaa"] = {"zVidaa", "|c26c0c7z|r|c35a3c9V|r|c4487cbi|r|c536bccd|r|c624ecea|r|c7132d0a|r"}
+n["@Shenorbyl"] = {"sheno", "|cff860csheno|r"}
