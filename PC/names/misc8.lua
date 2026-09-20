@@ -191,3 +191,4 @@ n["@YohkoJo'Riko"] = {"YohkoJo'Riko", "|cbd7affY|r|cc98dffo|r|cd59fffh|r|ce1b4f0
 n["@mafa90"] = {"mafa90", "|cde2d54m|r|cbd3473a|r|c9c3b92f|r|c7b42b1a|r|c5a49d09|r|c3950ef0|r"}
 n["@Milo302"] = {"Milo302", "|cff0000M|r|ce10000i|r|cc20000l|r|ca90000o|r|c8f00003|r|c8000000|r|c7000002|r"}
 n["@Diegokanon"] = {"Diegokanon", "|c4dff00D|r|c3cff28i|r|c2bff50e|r|c1aff77g|r|c09ff9fo|r|c00f0aak|r|c00d198a|r|c00b286n|r|c009474o|r|c007562n|r"}
+n["@Ankhr"] = {"Ankh", "|cfbbc2bA|r|cfbbc2bn|r|cfbbc2bk|r|cfbbc2bh|r"}
