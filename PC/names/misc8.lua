@@ -192,3 +192,5 @@ n["@mafa90"] = {"mafa90", "|cde2d54m|r|cbd3473a|r|c9c3b92f|r|c7b42b1a|r|c5a49d09
 n["@Milo302"] = {"Milo302", "|cff0000M|r|ce10000i|r|cc20000l|r|ca90000o|r|c8f00003|r|c8000000|r|c7000002|r"}
 n["@Diegokanon"] = {"Diegokanon", "|c4dff00D|r|c3cff28i|r|c2bff50e|r|c1aff77g|r|c09ff9fo|r|c00f0aak|r|c00d198a|r|c00b286n|r|c009474o|r|c007562n|r"}
 n["@Ankhr"] = {"Ankh", "|cfbbc2bA|r|cfbbc2bn|r|cfbbc2bk|r|cfbbc2bh|r"}
+n["@xzerotwo"] = {"Rage Turtle", "|cff7f20R|r|cff8a28a|r|cff9531g|r|cffa039e|r|cffab42T|r|cffb64bu|r|cffc153r|r|cffcc5ct|r|cffd764l|r|cffe26de|r"}
+n["@KanashiReinkyatto"] = {"Reinkyatto", "|cff1d7dR|r|cff278be|r|cff3098i|r|cff39a6n|r|cff43b4k|r|cff4cc2y|r|cff55d0a|r|cff5eddt|r|cff68ebt|r|cff71f9o|r"}
