@@ -195,3 +195,5 @@ n["@Ankhr"] = {"Ankh", "|cfbbc2bA|r|cfbbc2bn|r|cfbbc2bk|r|cfbbc2bh|r"}
 n["@xzerotwo"] = {"Rage Turtle", "|cff7f20R|r|cff8a28a|r|cff9531g|r|cffa039e|r|cffab42T|r|cffb64bu|r|cffc153r|r|cffcc5ct|r|cffd764l|r|cffe26de|r"}
 n["@KanashiReinkyatto"] = {"Reinkyatto", "|cff1d7dR|r|cff278be|r|cff3098i|r|cff39a6n|r|cff43b4k|r|cff4cc2y|r|cff55d0a|r|cff5eddt|r|cff68ebt|r|cff71f9o|r"}
 n["@MrScrambled"] = {"MrScrambled", "|ce6ff17M|r|cd5fe2er|r|cc5fe46S|r|cb4fe5dc|r|ca3fd74r|r|c92fd8ba|r|c81fca2m|r|c70fcb9b|r|c60fcd1l|r|c4ffbe8e|r|c3efbffd|r"}
+n["@haidan"] = {"haidan", "|c6ce5ffh|r|c77caffa|r|c85afffi|r|c9895ffd|r|cb289ffa|r|cd184ffn|r"}
+n["@Kittten"] = {"kittten", "|cff89c6k|r|cf395e3i|r|ce7a0fft|r|cc7b2fft|r|ca7c4fft|r|c98d9ffe|r|c89eeffn|r"}
