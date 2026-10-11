@@ -349,3 +349,4 @@ n["@Splandonge"] = {"Siinnd", "|cFCD4F3S|r|cFCD1E9i|r|cFCCEDFi|r|cFBCCD6n|r|cFBC
 n["@Praid_Crimson"] = {"Praid Crimson", "|c3d0203P|r|c490305r|r|c540306a|r|c600307i|r|c6c0409d|r |c78040aC|r|c83040br|r|c8f050di|r|c9b050em|r|ca7050fs|r|cb20611o|r|cbe0612n|r"}
 n["@peachysaurusx"] = {"peachysaurusx", "|cc766c3p|r|cc964c6e|r|ccb62caa|r|ccd60cdc|r|ccf5ed0h|r|cd15cd3y|r|cd45ad7s|r|cd657daa|r|cd855ddu|r|cda53e0r|r|cdc51e4u|r|cde4fe7s|r|ce04deax|r"}
 n["@verthick"] = {"vert", "|ce996f8v|r|cd2b5fae|r|cbcd4fdr|r|ca5f3fft|r"}
+n["@lozdaddy"] = {"lozdaddy", "|cbd0000l|r|cc61010o|r|cd02020z|r|cd93030d|r|ce34040a|r|cec5050d|r|cf66060d|r|cff7070y|r"}
