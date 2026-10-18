@@ -203,3 +203,4 @@ n["@GusAri89"] = {"GusAri89", "|cc63965G|r|cc3465du|r|cc05356s|r|cbd604eA|r|cb96
 n["@collapse68"] = {"Collapse", "|cff006fC|r|cff0083o|r|cff0098l|r|cff00adl|r|cff00c1a|r|cff00d6p|r|cff00eas|r|cff00ffe|r"}
 n["@pAnduuhh"] = {"pAnduuhh", "|c1ba1fdp|r|c36aefbA|r|c50bcf9n|r|c6bc9f7d|r|c86d7f4u|r|ca1e4f2u|r|cbbf2f0h|r|cd6ffeeh|r"}
 n["@Winter0330"] = {"Winter", "|c25b6ffW|r|c4bc3ffi|r|c70d0ffn|r|c95ddfft|r|cbbeaffe|r|ce0f7ffr|r"}
+n["@Mystiaa"] = {"Myst", "|cff152eM|r|cff0e57y|r|cff077fs|r|cff00a7t|r"}
