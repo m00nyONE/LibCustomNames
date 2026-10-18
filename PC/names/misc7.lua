@@ -245,3 +245,4 @@ n["@Jamestlw"] = {"Jamestlw", "|c9f7bfeJ|r|c9f8efea|r|c9fa1fdm|r|ca0b4fde|r|ca0c
 n["@KuebelFieber"] = {"KuebelFieber", "|cffffffKuebelFieber|r"}
 n["@Orollas"] = {"Orollas", "|cffd200O|r|cffc200r|r|cffb200o|r|cffa200l|r|cff9200l|r|cff8200a|r|cff7200s|r"}
 n["@VollständigerName"] = {"VollständigerName", "|cFFD700Vo|r|cF7D418l|r|cF3D324l|r|cEFD130s|r|cEBD03Ctä|r|cE3CD54n|r|cE0CC60d|r|cDCCA6Ci|r|cD8C978g|r|cD4C784e|r|cD0C690r|r|cCCC49CNa|r|cC4C1B4me|r"}
+n["@Mystiaa"] = {"Myst", "|cff152eM|r|cff0e57y|r|cff077fs|r|cff00a7t|r"}
