@@ -206,3 +206,7 @@ n["@Winter0330"] = {"Winter", "|c25b6ffW|r|c4bc3ffi|r|c70d0ffn|r|c95ddfft|r|cbbe
 n["@Mystiaa"] = {"Myst", "|cff152eM|r|cff0e57y|r|cff077fs|r|cff00a7t|r"}
 n["@AbiWoods"] = {"AbiWoods", "|c6f59ffA|r|c8371ffb|r|c9888ffi|r|cada0ffW|r|cc1b8ffo|r|cd6d0ffo|r|ceae7ffd|r|cffffffs|r"}
 n["@Sunny-22"] = {"Sunny-22", "|c173baeS|r|c2e32b9u|r|c452ac5n|r|c5c22d1n|r|c7219dcy|r|c8911e8-|r|ca008f32|r|cb700ff2|r"}
+n["@bobavan"] = {"bobavan", "|cE3C582b|r|cCFAB74o|r|cBC9265b|r|cA87856a|r|c945E48v|r|c81453Aa|r|c6D2B2Bn|r"}
+n["@FruityKebbles"] = {"FruityKebbles", "|cC95D20F|r|cDC7B26r|r|cEDA32Fu|r|cF4C542i|r|cE89A2Et|r|cD36C23y|r|cC95D20K|r|cD87325e|r|cEFA832b|r|cF4C542b|r|cEFA832l|r|cD87325e|r|cC95D20s|r"}
+n["@Pure_Chaos117"] = {"PureChaos", "|cE05EFEP|r|cA868F5u|r|c6573E9r|r|c4278E4e|r|c7770ECC|r|cB565F7h|r|cE05EFEa|r|c936BF1o|r|c4278E4s|r"}
+n["@TyoxicWayste"] = {"TyoxicWayste", "|c176B3AT|r|c368B39y|r|c62B63Ao|r|c9BE33Bx|r|c69BD3Ai|r|c398F39c|r|c176B3AW|r|c398F39a|r|c69BD3Ay|r|c9BE33Bs|r|c62B63At|r|c368B39e|r"}
