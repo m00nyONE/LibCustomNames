@@ -215,3 +215,4 @@ n["@Sandro_hm"] = {"Sandro", "|c137014S|r|c0f6c13a|r|c0c6711n|r|c09620fd|r|c055e
 n["@LEXA_PANOS-1993"] = {"LEXA_PANOS", "|c9000ffL|r|c9a00ffE|r|ca300ffX|r|cac00ffA|r|cb600ff_|r|cbf00ffP|r|cc800ffA|r|cd100ffN|r|cdb00ffO|r|ce400ffS|r"}
 n["@SoloCatalyst"] = {"solo", "|c400001s|r|c800002o|r|cbf0002l|r|cff0003o|r"}
 n["@pHnt0m"] = {"Mufasa", "|cff0000M|r|cff6666u|r|cffccccf|r|cdfdfdfa|r|ca0a0a0s|r|c616161a|r"}
+n["@ToffeGod"] = {"ToffeGod", "|cFF4040T|r|cFF9F1Ao|r|cFFE14Af|r|c65E35Bf|r|c38D9D6e|r|c4C9AFFG|r|c8C6BFFo|r|cD15CFFd|r"}
