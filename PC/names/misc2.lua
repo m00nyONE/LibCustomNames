@@ -340,3 +340,5 @@ n["@Aerifex"] = {"Aerifex", "|c3118dbA|r|c5430b6e|r|c764892r|r|c98606di|r|cba784
 n["@LoTemon"] = {"LoTemon", "|c6af000Lo|r|cfffd00Te|r|cff9600mon|r"}
 n["@spr4yer"] = {"spr4yer", "|cdadd24s|r|cb5bb49p|r|c91996dr|r|c6d78924|r|c4956b6y|r|c2434dbe|r|c0012ffr|r"}
 n["@DIFFx22"] = {"DIFFx22", "|c00b8ffD|r|c00a2ffI|r|c008dffF|r|c0078ffF|r|c0063ffx|r|c004dff2|r|c0038ff2|r"}
+n["@Destrozanks"] = {"Destrozanks", "|cFF0000D|r|cF20000e|r|cE60000s|r|cD90000t|r|cCC0000r|r|cC00000o|r|cB30000z|r|cA60000a|r|c990000n|r|c8D0000k|r|c800000s|r"}
+n["@juancar02"] = {"juanbar02", "|cFF0000j|r|cFF8000u|r|cFFFF00a|r|c80FF00n|r|c00FF00c|r|c00FFFFa|r|c0080FFr|r|c8000FF0|r|cFF00FF2|r"}
