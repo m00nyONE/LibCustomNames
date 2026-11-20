@@ -226,3 +226,4 @@ n["@GroissMaister"] = {"GlossMaister", "|cffffffGlossMaister|r"}
 n["@zurrias"] = {"Zurrias", "|cffffffZurrias|r"}
 n["@Iaroking"] = {"Laroking", "|cffffffLaroking|r"}
 n["@LIINKER"] = {"LIINKER", "|c00ccffLIINKER|r"}
+n["@Arklion"] = {"Arklion", "|cFF0000Ar|r|cFFC400kli|r|cFF0000on|r"}
