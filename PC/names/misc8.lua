@@ -226,4 +226,5 @@ n["@GroissMaister"] = {"GlossMaister", "|cffffffGlossMaister|r"}
 n["@zurrias"] = {"Zurrias", "|cffffffZurrias|r"}
 n["@Iaroking"] = {"Laroking", "|cffffffLaroking|r"}
 n["@LIINKER"] = {"LIINKER", "|c00ccffLIINKER|r"}
+n["@haha17"] = {"Zhizhu17", "|c36E6D5Z|r|c36C9EAh|r|c4CA8F5i|r|c7189FFz|r|c9974F5h|r|cC66FEAu|r|cE879D91|r|cF59BCF7|r"}
 n["@Arklion"] = {"Arklion", "|cFF0000Ar|r|cFFC400kli|r|cFF0000on|r"}
