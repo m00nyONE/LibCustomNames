@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Check for syntax errors in Lua files
         run: |
-          URL=$(curl -s https://api.github.com/repos/EmmyLuaLs/emmylua-analyzer-rust/releases/latest | jq -r '.assets[] | select(.name? | match("emmylua_check-linux-x64.tar.gz$")) | .browser_download_url')
+          URL=$(curl --retry 5 -s https://api.github.com/repos/EmmyLuaLs/emmylua-analyzer-rust/releases/latest | jq -r '.assets[] | select(.name? | match("emmylua_check-linux-x64.tar.gz$")) | .browser_download_url')
           if [ -n "$URL" ]; then
             curl -L "$URL" -o emmylua_check-linux-x64.tar.gz
           else
