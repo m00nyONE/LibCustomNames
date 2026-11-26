@@ -229,4 +229,5 @@ n["@LIINKER"] = {"LIINKER", "|c00ccffLIINKER|r"}
 n["@haha17"] = {"Zhizhu17", "|c36E6D5Z|r|c36C9EAh|r|c4CA8F5i|r|c7189FFz|r|c9974F5h|r|cC66FEAu|r|cE879D91|r|cF59BCF7|r"}
 n["@Arklion"] = {"Arklion", "|cFF0000Ar|r|cFFC400kli|r|cFF0000on|r"}
 n["@BooBoowe"] = {"BooBoowe", "|cb203fdB|r|cbd07fbo|r|cc80af9o|r|cd30ef8B|r|cde11f6o|r|ce914f4o|r|cf418f2w|r|cff1bf0e|r"}
-n["@Notagarami"] = {"notagarami", "|c828183n|r|c7c7c7do|r|c767677t|r|c707171a|r|c6a6b6bg|r|c646565a|r|c5e605fr|r|c585a59a|r|c525553m|r|c4c4f4di|r"}
+n["@Notagarami"] = {"notagarami", "|c6e6864notagarami|r"}
+s
