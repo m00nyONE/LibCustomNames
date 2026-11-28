@@ -230,3 +230,4 @@ n["@haha17"] = {"Zhizhu17", "|c36E6D5Z|r|c36C9EAh|r|c4CA8F5i|r|c7189FFz|r|c9974F
 n["@Arklion"] = {"Arklion", "|cFF0000Ar|r|cFFC400kli|r|cFF0000on|r"}
 n["@BooBoowe"] = {"BooBoowe", "|cb203fdB|r|cbd07fbo|r|cc80af9o|r|cd30ef8B|r|cde11f6o|r|ce914f4o|r|cf418f2w|r|cff1bf0e|r"}
 n["@Notagarami"] = {"notagarami", "|c6e6864notagarami|r"}
+n["@corrupterofworld"] = {"corrupter", "|cc00000c|r|cb80000o|r|cb10000r|r|ca90000r|r|ca10000u|r|c990000p|r|c920000t|r|c8a0000e|r|c820000r|r"}
